@@ -1,42 +1,22 @@
 # Peru Grand Travel — base de trabajo (privado)
 
-Repositorio de trabajo de **Jairo Saul Salas Quiñones** para Peru Grand Travel Group S.A.C.  
-**Privado en GitHub.** No contiene contraseñas ni el Excel de Accesos.
+Repo privado: https://github.com/JairoProDev/pgt-peru-grand-travel
 
-Landing pública de la auditoría antigua: [jairosaul.com/peru-grand-travel](https://jairosaul.com/peru-grand-travel)
+## Dos zonas
 
-## Estado (25 ago 2026)
+| Zona | Carpetas | Para qué |
+|---|---|---|
+| **Trabajo PGT** | `01-situacion`, `02-empresa`, `03-seo`…`09-herramientas`, `conocimiento/` | Empresa, SEO, leads, marca, stack |
+| **Tu carrera / negociación** | `mi-carrera/`, `07-negociacion/` | Sueldo, híbrido, aprendizaje, cómo compartir accesos |
 
-Empezó el empleo. S/ 3.500 como **Analista SEO Técnico / SEO-GEO**. En 2 semanas: revisión a **jefe de marketing S/ 5.000**. Ver `01-situacion/DIA-1-2026-08-25.md` y `07-negociacion/REVISION-2-SEMANAS.md`.
+## Estado (25 ago 2026, noche)
 
-## Cómo usar
+- Analista SEO/GEO · S/ 3.500 · **sin firma aún**
+- Revisión oral ~2 semanas → jefe mkt S/ 5.000 → **congelar por WhatsApp** (`07-negociacion/WHATSAPP-PACTO-REVISADO.md`)
+- Norte Clever: **qualified leads** + **fortalecer marca**
+- Cuarteto SEO: Ricardo, Lizet (también ads), Arely (½), Jairo · ~73 tours + ~454 blogs
+- Empieza aquí cada día: `01-situacion/QUE-HACER-AHORA.md`
 
-1. Tras cada día: actualizar `01-situacion/BITACORA.md`.
-2. Negociación próxima: `07-negociacion/REVISION-2-SEMANAS.md`.
-3. Sistemas reales (más de 4 webs): `02-empresa/INVENTARIO-SISTEMAS.md`.
-4. Secretos: solo fuera de git (`Downloads`, Drive de ellos). Nunca `Accesos*.xlsx` aquí.
+## Secretos
 
-## Mapa
-
-| Carpeta | Qué hay |
-|---|---|
-| `00-manana/` | Material pre-día-1 (aún útil: no amenazar, Drupal) |
-| `01-situacion/` | Contexto vivo, bitácora, día 1, preguntas |
-| `02-empresa/` | Identidad, equipo, inventario sistemas, NAS, seguridad |
-| `03-seo/` … `08-investigacion/` | SEO, GEO, mkt, liderazgo, stack |
-| `09-herramientas/` | PHP hreflang, auditor, CSVs (sin secretos) |
-| `10-aprendizaje/` | Syllabus técnico |
-| `11-entregables/` | PDF auditoría / CV |
-| `archivo-original/` | Copia del paquete jairosaul.com empleo-seo |
-
-## Git
-
-```bash
-cd ~/proyectos/pgt
-git status
-git add -A
-git commit -m "mensaje claro"
-git push
-```
-
-No hagas `git add` de Excels de accesos. El `.gitignore` los bloquea.
+Nunca `Accesos*.xlsx` ni claves en git. Drive → ver `mi-carrera/COMO-COMPARTIR-DRIVE.md`.

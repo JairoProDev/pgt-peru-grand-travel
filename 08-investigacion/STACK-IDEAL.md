@@ -1,8 +1,10 @@
 # Stack ideal para Peru Grand Travel
 
-**Pregunta de negocio:** ¿qué plataforma consigue **más leads calificados para ventas** (WhatsApp/reserva en el idioma correcto), sin tumbar las tablas de keywords que ya miden cada mes?
+**Dos agujas de Clever (25 ago 2026):** (1) más **qualified leads** (2) **fortalecer la marca**.
 
-**Respuesta corta:** los próximos 90 días, **WordPress**. Una migración a Drupal **no es cambiar de servidor**. Tampoco es automática para sus tours. Código propio (Next.js u otro) es el techo técnico, pero solo gana si el equipo no técnico puede seguir publicando tours sin Jairo. Drupal es el que mejor modela “un tour, cuatro idiomas”; es también donde **tú más lento vas** y donde hay menos gente en Cusco.
+**Pregunta de plataforma:** ¿qué stack mueve esas agujas sin tumbar las tablas de keywords ni parar al cuarteto SEO (73 tours + 454 blogs)?
+
+**Respuesta corta:** los próximos 90 días / las 2 semanas de prueba, **WordPress** + bajar Figma a plantilla/tema **sin cambiar URLs**. Una migración a Drupal **no es cambiar de servidor** ni es automática para Tourmaster. Código (Next + CMS) es el techo si tú implementas a largo plazo y hay admin para no-técnicos. Drupal modela bien “un tour, cuatro idiomas”, pero es donde **tú más lento vas** y donde hay menos talento en Cusco. Ver también `FIGMA-LECTURA.md`.
 
 El CMS no posiciona palabras. Posicionan URLs estables, contenido en la intención del mercado, velocidad, idioma correcto y una ficha que ventas puede cerrar.
 

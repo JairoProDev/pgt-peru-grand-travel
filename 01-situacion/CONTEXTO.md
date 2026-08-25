@@ -1,32 +1,28 @@
-# Contexto — actualizado 25 de agosto de 2026 (fin del día 1)
+# Contexto — 25 ago 2026 (noche, post día 1)
 
-## Estado del empleo
+## Empleo
 
-- **Empezó:** 25 ago 2026.
-- **Cargo ahora:** Analista SEO Técnico / SEO-GEO técnico (aviso Computrabajo: *Analista SEO Técnico*).
-- **Sueldo:** S/ 3.500.
-- **Pacto oral:** en **2 semanas** revisar paso a **jefe de marketing a S/ 5.000**. Jairo habló de 3–6 meses; Clever de hasta 1 año; Jairo lo consideraría. **Falta dejarlo por escrito.**
-- Repo local: `/home/jairoprodev/proyectos/pgt`. GitHub: privado (ver README).
+- Empezó hoy. **No firmó** aún.
+- Cargo: Analista SEO/GEO técnico. S/ 3.500.
+- Pacto oral: revisión ~**2 semanas** → jefe de marketing **S/ 5.000**. Horizonte 3–6 meses (Jairo) vs hasta 1 año (Clever). WhatsApp revisado pendiente de envío.
+- Norte de Clever (explícito): **más qualified leads** + **fortalecer la marca**.
 
-## Organigrama real (parcial)
+## Equipo SEO
 
-- Clever — dueño.
-- Jefe de marketing — existe, **solo mañanas** (nombre pendiente).
-- SEO: **4 personas** (Ricardo + 2 + Jairo). Hoy repartieron carga.
-- Ricardo — accesos, webmaster, Excel Accesos, punto técnico.
-- Creativos usan NAS `marketingpgt` (videos, Lidia, drone, etc.).
+Ricardo (accesos, lidera reparto) · Lizet (SEO + Google/Meta ads) · Arely (mañanas, ½ tiempo) · Jairo.  
+Carga: ~73 tours + ~454 blogs en 4 bloques. Ver `EQUIPO-SEO.md`.
 
-## Superficie digital (más grande de lo auditado)
+Jefe de marketing: **interino, solo mañanas**, nombre pendiente.
 
-No solo EN/ES/PT/IT. Ver `INVENTARIO-SISTEMAS.md`: luxury, Vinicunca, Inca Trail Bookings, trips US, .com.mx, blogs dicasviagem / perutravelguides, etc. OTAs: GYG + Viator + TourRadar. RD Station, Hotjar, Banahosting bajo clever@.
+## Producto digital
 
-## Accesos de Jairo (operativos)
+Migración a **Drupal** planeada + **Figma modular** (ficha tour, pricing, included…). Decisión stack: `STACK-IDEAL.md` + `FIGMA-LECTURA.md` → 90 días WP; no cutover en las 2 semanas de prueba.
 
-- marketing@ en laptop.
-- NAS Marketing montado.
-- Drive / carpeta Ricardo (keywords, planes SEO, costos Google…).
-- clever@ / Banahosting raíz: aún no (2FA celular Clever).
+## Accesos Jairo
 
-## Macro / stack
+marketing@ · NAS Marketing · Drive Ricardo · Accesos.xlsx (fuera de git). clever@ no. `linux_admin` aún no anunciado a Ricardo.
 
-Sin cambio: WordPress + Tourmaster en el núcleo; Drupal/Figma = no priorizar en las 2 semanas de prueba. Ver `08-investigacion/STACK-IDEAL.md`.
+## Riesgos
+
+- Dijo al jefe que conoce Drupal (profundidad real: baja) → recalibrar con honestidad técnica.
+- Híbrido mañanas: no pedir día 2; ver `mi-carrera/HIBRIDO-MANANAS.md`.

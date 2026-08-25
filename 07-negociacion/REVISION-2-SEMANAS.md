@@ -2,11 +2,9 @@
 
 El pacto oral del 25 ago 2026: **S/ 3.500** como SEO/GEO técnico ahora; **en 2 semanas** vuelven a evaluar para que asumas **jefe de marketing a S/ 5.000**. Tú planteaste 3–6 meses; Clever empujó hasta un año; tú lo considerarías.
 
-## 1. Congelar el pacto hoy (WhatsApp / correo)
+## 1. Congelar el pacto (WhatsApp / correo)
 
-Copia y manda a Clever o al admin (no al grupo del equipo):
-
-> Clever, para no perder lo de hoy: arranco como analista SEO/GEO técnico en S/ 3.500. En dos semanas (alrededor del 8 de septiembre) revisamos el paso a jefe de marketing en S/ 5.000, con lo que haya avanzado en esos días. Quedo atento a cómo quieren medirlo.
+**Usar el texto revisado:** `WHATSAPP-PACTO-REVISADO.md` (no improvisar).
 
 Si responden “ok”, captura. Si no responden, reenvía el viernes.
 

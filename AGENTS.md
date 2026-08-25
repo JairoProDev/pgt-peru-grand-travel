@@ -1,37 +1,24 @@
 # AGENTS.md
 
-Instrucciones para cualquier agente que trabaje en este repo.
+Base privada PGT — Jairo Saul Salas Quiñones.
 
-## Qué es
+## Estado
 
-Base de trabajo **privada** de Jairo Saul Salas Quiñones para Peru Grand Travel (Cusco). Empezó el **25 ago 2026** como Analista SEO/GEO a S/ 3.500; revisión en **2 semanas** para jefatura de marketing a S/ 5.000.
+Empezó 25 ago 2026. Analista SEO/GEO S/ 3.500. Revisión ~2 semanas → jefe mkt S/ 5.000 (oral; WhatsApp en `07-negociacion/WHATSAPP-PACTO-REVISADO.md`). Norte Clever: qualified leads + marca.
 
-## Secretos — regla dura
+## Secretos
 
-NUNCA hacer commit de:
+Nunca commit de Accesos.xlsx, claves, TOTP. Drive: el usuario comparte exports/links (`mi-carrera/COMO-COMPARTIR-DRIVE.md`), no pegar secretos en chat para login de agente.
 
-- `Accesos*.xlsx` ni copias
-- Contraseñas, TOTP, recovery codes, PIN Banahosting
-- Capturas con claves visibles
+## Zonas del repo
 
-Ver `.gitignore` y `02-empresa/SEGURIDAD-OPERATIVA.md`. Si el usuario pega un secreto en el chat: úsalo para orientar, **no lo escribas en archivos del repo**.
+- Trabajo empresa: `01-situacion`, `02-empresa`, `03-seo`…
+- Carrera/negociación: `mi-carrera/`, `07-negociacion/`
 
-## Fuente de verdad
+## Equipo SEO
 
-- Día a día: `01-situacion/` (`CONTEXTO`, `BITACORA`, `DIA-1-*`).
-- Técnico histórico (4 dominios núcleo): `archivo-original/empleo-seo/`.
-- Inventario real de sistemas (más sitios): `02-empresa/INVENTARIO-SISTEMAS.md`.
-- Hreflang en 0 verificado 24 ago 2026 en EN/ES/PT/IT núcleo. Re-verificar con acceso.
-- No afirmar `cache-control: no-store` en EN sin re-chequear.
+Ricardo, Lizet (ads), Arely (½), Jairo. No anunciar jefatura. No empujar Drupal en las 2 semanas.
 
 ## Estilo
 
-Afirmar solo lo verificable. Preguntar siempre. No doxxear. No inventar mix de reservas ni comisiones exactas.
-
-## Stack
-
-No empujar migración Drupal en las 2 semanas de prueba. Ver `08-investigacion/STACK-IDEAL.md`.
-
-## Liderazgo
-
-No anunciar jefatura frente al equipo ni al jefe de marketing actual (mañanas). Clever anuncia. Hay 4 personas en SEO: no pisar a Ricardo ni a los colegas.
+Afirmar solo lo verificable. Preguntar. Actualizar BITACORA y QUE-HACER-AHORA.
