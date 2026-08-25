@@ -5,3 +5,18 @@ __pycache__/
 .env.*
 *.log
 .canvas.data.json
+
+# Secretos y credenciales — NUNCA subir
+**/secretos/
+**/secrets/
+*Accesos*
+*accesos*
+*.xlsx
+*.xls
+*password*
+*credencial*
+*2fa*
+*totp*
+*.pem
+*.key
+id_rsa*

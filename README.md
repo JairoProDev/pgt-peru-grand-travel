@@ -1,35 +1,42 @@
-# Peru Grand Travel — base de trabajo
+# Peru Grand Travel — base de trabajo (privado)
 
-Repositorio de trabajo de **Jairo Saul Salas Quiñones** para el empleo en Peru Grand Travel Group S.A.C. (Cusco). No es un sitio público. No se publica nada de aquí sin revisar: hay nombres de personas, cifras de negociación y hallazgos técnicos de su red.
+Repositorio de trabajo de **Jairo Saul Salas Quiñones** para Peru Grand Travel Group S.A.C.  
+**Privado en GitHub.** No contiene contraseñas ni el Excel de Accesos.
 
-Landing pública de la auditoría: [jairosaul.com/peru-grand-travel](https://jairosaul.com/peru-grand-travel)
+Landing pública de la auditoría antigua: [jairosaul.com/peru-grand-travel](https://jairosaul.com/peru-grand-travel)
 
-## Cómo usar esto
+## Estado (25 ago 2026)
 
-1. **Mañana (día 1):** lee solo `00-manana/`. Empieza por `BRIEFING-DIA-1.md` y `CHECKLIST-BOLSILLO.md`.
-2. **Negociación de doble rol:** `07-negociacion/` y el guion en `00-manana/GUION-PROPUESTA-DOBLE-ROL.md`.
-3. **Cuando entren al puesto:** `03-seo/` + `05-marketing/` + `14-PLAYBOOK` original.
-4. **Para no quedar corto con el equipo:** `06-liderazgo/` y `04-geo/`.
+Empezó el empleo. S/ 3.500 como **Analista SEO Técnico / SEO-GEO**. En 2 semanas: revisión a **jefe de marketing S/ 5.000**. Ver `01-situacion/DIA-1-2026-08-25.md` y `07-negociacion/REVISION-2-SEMANAS.md`.
+
+## Cómo usar
+
+1. Tras cada día: actualizar `01-situacion/BITACORA.md`.
+2. Negociación próxima: `07-negociacion/REVISION-2-SEMANAS.md`.
+3. Sistemas reales (más de 4 webs): `02-empresa/INVENTARIO-SISTEMAS.md`.
+4. Secretos: solo fuera de git (`Downloads`, Drive de ellos). Nunca `Accesos*.xlsx` aquí.
 
 ## Mapa
 
 | Carpeta | Qué hay |
 |---|---|
-| `00-manana/` | Briefing, guion, checklist, cómo no amenazar, preguntas al equipo |
-| `01-situacion/` | Contexto agosto 2026, preguntas abiertas (las que tienes que responderme) |
-| `02-empresa/` | Identidad, equipo público, Clever, modelo de negocio |
-| `03-seo/` | Índice de la auditoría, 23 problemas, plan 90 días SEO |
-| `04-geo/` | Generative Engine Optimization para operadores de tours |
-| `05-marketing/` | Plan 90 días de jefatura, ads, contenido, KPIs |
-| `06-liderazgo/` | Primeros 30 días con el equipo, autoridad, rituales |
-| `07-negociacion/` | Sueldo del doble rol, título del puesto, alcance por escrito |
-| `08-investigacion/` | Turismo Perú 2026, mercados, competidores |
-| `09-herramientas/` | PHP hreflang, auditor Python, CSVs, robots |
-| `10-aprendizaje/` | Syllabus técnico (T00–T06) y dossiers (D01–D03) |
-| `11-entregables/` | PDF de auditoría y CV ya enviados |
-| `archivo-original/` | Copia intacta de `jairosaul.com/empleo-seo` |
-| `conocimiento/` | Artículos de jairosaul.com sobre este caso |
+| `00-manana/` | Material pre-día-1 (aún útil: no amenazar, Drupal) |
+| `01-situacion/` | Contexto vivo, bitácora, día 1, preguntas |
+| `02-empresa/` | Identidad, equipo, inventario sistemas, NAS, seguridad |
+| `03-seo/` … `08-investigacion/` | SEO, GEO, mkt, liderazgo, stack |
+| `09-herramientas/` | PHP hreflang, auditor, CSVs (sin secretos) |
+| `10-aprendizaje/` | Syllabus técnico |
+| `11-entregables/` | PDF auditoría / CV |
+| `archivo-original/` | Copia del paquete jairosaul.com empleo-seo |
 
-## Regla de este repo
+## Git
 
-Solo se afirma lo verificable. Lo demás va marcado como hipótesis o pregunta. Cusco es un pueblo chico: una cifra inventada o un nombre mal usado cierra el mercado.
+```bash
+cd ~/proyectos/pgt
+git status
+git add -A
+git commit -m "mensaje claro"
+git push
+```
+
+No hagas `git add` de Excels de accesos. El `.gitignore` los bloquea.

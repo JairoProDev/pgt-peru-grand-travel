@@ -1,6 +1,6 @@
 # Briefing — día 1 (conocer al equipo + abrir el doble rol)
 
-Fecha de este briefing: **24 de agosto de 2026**. Mañana es **25 de agosto de 2026**, lunes.
+Fecha de este briefing: Lunes **24 de agosto de 2026**. Mañana es Martes **25 de agosto de 2026**.
 
 No lleves la carpeta. Lleva: teléfono con la landing, cuaderno, agua, este archivo leído. Silencio el teléfono.
 
@@ -10,10 +10,12 @@ No es una entrevista de postulante. Es **inducción + lectura de poder**. El equ
 
 ## Las dos salas
 
-| Sala | Quién | Tú eres | Objetivo |
-|---|---|---|---|
-| A — Equipo | CM, diseño, video, ads, webmaster, quien esté interino en marketing | Colega que llega a sumar | Que no te cierren. Nombres, flujos, dolores. Cero anuncio de jefatura |
-| B — Quien decide | Clever y/o administrador | Alguien que ya demostró trabajo y ahora propone alcance | Doble rol + sueldo + alcance por escrito. Privado |
+
+| Sala             | Quién                                                               | Tú eres                                                 | Objetivo                                                              |
+| ---------------- | ------------------------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------------------------- |
+| A — Equipo       | CM, diseño, video, ads, webmaster, quien esté interino en marketing | Colega que llega a sumar                                | Que no te cierren. Nombres, flujos, dolores. Cero anuncio de jefatura |
+| B — Quien decide | Clever y/o administrador                                            | Alguien que ya demostró trabajo y ahora propone alcance | Doble rol + sueldo + alcance por escrito. Privado                     |
+
 
 Si mañana mezclan las dos (te presentan al equipo *con* Clever en la sala), prioriza el equipo. La negociación espera un pasillo, un café, o “¿podemos retomar 15 minutos los dos?”.
 
@@ -41,6 +43,8 @@ La talla no se declara. Se nota en cinco gestos:
 4. **Ofreces una cosa pequeña y útil**, no un plan de 90 días al equipo. Ejemplo: “si me pasan un anuncio que esté corriendo, les armo el UTM para saber si el lead nació en Meta, Google o la web”.
 5. **No te escondes con audífonos.** Comes con alguien. El SEO que se aísla el día 1 no dirige a nadie el día 15.
 
+
+
 ## Qué no hagas aunque te late el corazón
 
 - No digas “voy a ser el jefe de marketing” frente a quien hoy ocupa el rol temporal.
@@ -51,6 +55,8 @@ La talla no se declara. Se nota en cinco gestos:
 - No critiques a Paloma (archivó el CV). Atención al cliente recibe ruido todo el día.
 - No prometas posiciones, ROAS, ni “en 30 días primeros”.
 - No pidas accesos de admin total el primer día frente al equipo. Pídelos en privado a sistemas/admin: GSC, GA4, Ads en lectura.
+
+
 
 ## Si te preguntan “¿tú cuántos años tienes / de dónde sales?”
 

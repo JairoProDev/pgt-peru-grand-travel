@@ -17,6 +17,10 @@ Base de trabajo privada de Jairo Saul Salas Quiñones para Peru Grand Travel (Cu
 
 Afirmar solo lo verificable. Preguntar siempre. No inventar mix de reservas, comisiones exactas de GYG, ni organigrama interno. No doxxear. Clever Ponce es persona privada.
 
+## Stack / Drupal
+
+PGT está en WordPress (4 sitios, Tourmaster, WhatsApp). No recomendar migración a Drupal para leads de 90 días. Tourmaster no se importa con Migrate API. Detalle: `08-investigacion/STACK-IDEAL.md`.
+
 ## Mañana / liderazgo
 
 No anunciar jefatura frente al equipo. No título “jefe de tecnología”. No atacar a sistemas ni a CM.

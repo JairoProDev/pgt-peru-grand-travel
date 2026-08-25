@@ -32,6 +32,7 @@ Imprímelo o tenlo en el teléfono. No lo leas en la cara de nadie.
 ## Lo que no sale de tu boca
 
 - Paloma, RocketReach, tu edad, “el sitio está mal”, WPML, Claude, “quick wins”, remoto, “en mis startups”
+- “Hay que pasarse a Drupal/Next ya” (si sale el tema: `SI-SALE-DRUPAL.md`)
 - Promesas de posición #1 o de ROAS
 - “Suma de dos sueldos” como ultimátum (es ancla, no cierre)
 
