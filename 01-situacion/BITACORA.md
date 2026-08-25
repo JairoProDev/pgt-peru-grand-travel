@@ -13,7 +13,7 @@ No escribas contraseñas.
 - **Reparto (grupo WA 13:08–13:09):**
   - Tours: Arely 1 · Lizet 2 · **Jairo 3** · Ricardo 4
   - Blogs: Ricardo 1 · Lizet 2 · Arely 3 · **Jairo 4**
-- Mi bloque exacto (URLs): ____ (confirmar mañana con Ricardo)
+- Mi bloque exacto (URLs): hojas **`tours jairo`** y **`blogs jairo`** en Sheet `PGT_URLs_keywords_canibalizacion_2` — ver `03-seo/BLOQUE-JAIRO.md`
 - Grupo WA: **"Peru Grand Travel Marketing - Sin Jefe"** (9 miembros)
 - Links grupo: [Sheet keywords](https://docs.google.com/spreadsheets/d/1VAaeEpG_hW8DOMbdqbidQhc2aNjhV8qDJQZ0nWcGMQU/edit) · [Drive marketing](https://drive.google.com/drive/folders/1-1wEMq2qox3D0jrs4uY1XQz-3sqbTW9z) · [Figma](https://www.figma.com/design/jhLCgtdkX4AtItlUD5ooBf/Sin-t%C3%ADtulo?node-id=485-3479) · PDF "Nuevo Diseño de sitio web PGT" (137 MB, Ricardo 12:50)
 

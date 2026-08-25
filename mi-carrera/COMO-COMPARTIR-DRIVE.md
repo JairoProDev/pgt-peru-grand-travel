@@ -5,7 +5,7 @@
 1. En Drive: crea una carpeta `Para Jairo - SEO` (o usa la de Ricardo).
 2. Copia o atajos a: estudios de keywords del mes, plan contenido SEO, OKR, costos Google (si aplica), lista del reparto de tours/blogs.
 3. Compártela contigo (`JairoProDev@gmail.com` o tu correo) en **solo lectura**.
-4. En Cursor: pégame **enlaces** o exporta a PDF/CSV los archivos clave y suéltalos en el chat / en `~/proyectos/pgt/inbox/` (carpeta gitignored).
+4. En Cursor: pégame **enlaces** o exporta a **CSV** (ver `mi-carrera/COMO-COMPARTIR-DATOS.md`) y suéltalos en `inbox/` o `03-seo/datos/` (gitignored).
 
 Así yo leo el contenido sin que pongas la sesión corporativa entera en un browser de agente.
 

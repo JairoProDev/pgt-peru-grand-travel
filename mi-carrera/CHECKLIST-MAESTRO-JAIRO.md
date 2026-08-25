@@ -41,7 +41,7 @@
 
 | ☐ | Dato | Dónde anotarlo |
 |---|---|---|
-| [ ] | Lista URLs bloque 3 tours + bloque 4 blogs | `01-situacion/BITACORA.md` |
+| [ ] | Lista URLs bloque 3 tours + bloque 4 blogs | `03-seo/BLOQUE-JAIRO.md` + CSV en `inbox/` |
 | [ ] | Nombre jefe marketing interino | `01-situacion/BITACORA.md` + `02-empresa/EQUIPO-SEO.md` |
 | [ ] | ¿Firmaste contrato / planilla? | `01-situacion/PREGUNTAS-ABIERTAS.md` |
 | [ ] | ¿Quién decidió Drupal? ¿Hay agencia/cotización? | `01-situacion/PREGUNTAS-ABIERTAS.md` |
@@ -144,14 +144,16 @@
 
 ---
 
-## J. Bitácora diaria (5–10 min al salir)
+## J. Bitácora e informe diario (5–15 min al salir)
 
-| ☐ | Fecha | Hecho |
-|---|---|---|
-| [ ] | 25 ago 2026 | `01-situacion/BITACORA.md` |
-| [ ] | 26 ago 2026 | |
-| [ ] | 27 ago 2026 | |
-| [ ] | … | Una fila por día laborable |
+| ☐ | Fecha | Interno | Externo (si aplica) |
+|---|---|---|---|
+| [ ] | 25 ago 2026 | `03-seo/informes/2026-08-25-interno.md` | No (día 1) |
+| [ ] | 26 ago 2026 | `03-seo/informes/2026-08-26-interno.md` | |
+| [ ] | 27 ago 2026 | | |
+| [ ] | … | Plantilla: `mi-carrera/INFORME-DIARIO-PLANTILLA.md` | Vie → Clever |
+
+**Cronómetro:** anota ⏱ real por bloque en el informe interno. Meta útil: 3–5 bloques/día con entregable cada uno.
 
 ---
 
