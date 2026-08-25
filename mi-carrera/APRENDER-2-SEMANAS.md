@@ -38,3 +38,5 @@ Estudia solo: qué es un Content Type, qué es Domain module, por qué Migrate n
 ## Full stack / “código de verdad”
 
 Tu ventaja real. Úsala **después** de medir: tema hijo WP, snippets, no un rewrite. El jefe que sabe hosting respeta quien **no rompe producción**.
+
+Roadmap CMS custom: `mi-carrera/CMS-CUSTOM-VIABILIDAD.md`.

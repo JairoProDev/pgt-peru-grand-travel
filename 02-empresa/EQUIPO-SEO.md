@@ -13,7 +13,16 @@ Actualizado: 25 ago 2026, fin de jornada. Fuente: Jairo en oficina.
 
 **Volumen declarado hoy:** ~**73 tours** + ~**454 blogs**, partidos en **4 bloques iguales** (tours) y **4 bloques iguales** (blogs). Ricardo lo separó con todos presentes.
 
-**Pendiente anotar:** qué bloque exacto (IDs / URLs / idiomas) le tocó a cada uno. Sin eso no hay plan.
+**Reparto confirmado (grupo WA, 25 ago 13:08–13:09):**
+
+| Persona | Tours | Blogs |
+|---|---|---|
+| Arely | Bloque 1 | Bloque 3 |
+| Lizet | Bloque 2 | Bloque 2 |
+| **Jairo** | **Bloque 3** | **Bloque 4** |
+| Ricardo | Bloque 4 | Bloque 1 |
+
+**Pendiente:** lista exacta de URLs por bloque (confirmar mañana con Ricardo).
 
 ## Jefatura de marketing
 
