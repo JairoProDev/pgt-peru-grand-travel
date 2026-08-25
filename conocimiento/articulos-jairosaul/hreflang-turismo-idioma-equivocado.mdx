@@ -1,0 +1,111 @@
+---
+title: "Hreflang en turismo: por qué Google le muestra al brasileño la ficha en español"
+description: "Sin anotación recíproca, una red de dominios por idioma es cuatro sitios compitiendo. Cómo detectarlo en cinco minutos y qué tiene que ser cierto para que el bloque sirva."
+date: "2026-08-18"
+cluster: "internacionalizacion"
+tags: ["hreflang", "turismo", "internacional", "wordpress"]
+excerpt: "Las banderas del header no le dicen nada a Google. El brasileño que busca pacote Machu Picchu puede terminar en español porque nadie declaró equivalencias."
+featured: true
+related:
+  - dominio-por-idioma-no-es-internacionalizacion
+  - wpml-no-sirve-wordpress-aparte
+  - canonical-hreflang-banderas
+---
+
+Si alguien en São Paulo busca *pacote Machu Picchu 4 dias*, Google ya tiene la ficha en portugués, la de español, la de inglés y a veces la de italiano. Sin hreflang no hay grupo. Hay cuatro URLs parecidas y elige con lo que tiene a mano: idioma, país, enlaces. Casi siempre gana el español, que suele tener más años o más links. El brasileño llega a un WhatsApp en castellano y a una tarifa en dólares.
+
+<Callout type="warning" title="Las banderas no son hreflang">
+El selector de idioma que enlaza portada con portada es para humanos. Google necesita equivalencias página a página, recíprocas, con autorreferencia y un `x-default`. Si el italiano está en el Camino Inca en inglés, toca la bandera y cae en la home italiana, perdiste la ficha.
+</Callout>
+
+## Qué hace hreflang
+
+`hreflang` declara que varias URLs son el mismo documento en distintos idiomas o regiones. No redirige. Tampoco sustituye al canonical ni al menú: es una anotación. Google puede ignorarla si el resto de señales la contradicen, pero sin ella ni siquiera tiene la hipótesis correcta.
+
+Se emite de tres formas. Elige una y sé consistente:
+
+| Vía | Dónde vive | Cuándo tiene sentido |
+|---|---|---|
+| HTML | `<link rel="alternate" hreflang="…" href="…">` en el `<head>` | WordPress, la más simple de auditar |
+| Cabecera HTTP | `Link: <url>; rel="alternate"; hreflang="pt-BR"` | PDFs, no-HTML, o un proxy |
+| Sitemap XML | `xhtml:link` por URL | Catálogos enormes; más fácil de generar; más opaco de debuggear |
+
+En turismo con varios WordPress, HTML en `wp_head` gana: lo verificas con `curl` en cinco segundos y no dependes de que el sitemap se regenere.
+
+## Cómo se mide
+
+```bash
+curl -s -A "Mozilla/5.0" https://www.ejemplo.com/ | grep -c hreflang
+```
+
+Cero en la home, en la ficha, en el sitemap y en cabeceras (`curl -sI`). Con eso alcanza. Lighthouse no lo va a marcar.
+
+<StatRow>
+  <Stat value="0" label="anotaciones" hint="si grep -c da esto, no hay red" />
+  <Stat value="4" label="idiomas" hint="EN ES PT IT, típico en Cusco" />
+  <Stat value="URL" label="unidad" hint="el resto son gaps de catálogo" />
+  <Stat value="home≠ficha" label="error" hint="bandera a la portada no cuenta" />
+</StatRow>
+
+En agencias de Cusco con un dominio por idioma el patrón se repite: `grep hreflang` da 0 en todas las homes, y un competidor con solo dos idiomas (por ejemplo TreXperience) ya emite `en` + `es`. Más dominios, más que perder si Google elige el idioma solo.
+
+## Las tres reglas que, si fallan, el bloque es teatro
+
+**Reciprocidad.** Si A apunta a B, B apunta a A. Un lado solo es ruido. Google lo trata como error en el informe de internacionalización.
+
+**Autorreferencia.** A se incluye a sí misma en su propio bloque. Olvidarlo es el error de copiar y pegar más frecuente.
+
+**x-default.** La URL para quien no encaja en ningún idioma anotado. En turismo hacia USA/Europa, suele ser el inglés. No es “la home del grupo”: es la URL equivalente de **esa** ficha, en el idioma por defecto.
+
+Códigos: idioma ISO 639-1 (`en`, `es`, `it`). Región cuando importa de verdad: `pt-BR` no es `pt-PT`. Un brasileño y un portugués no buscan igual, no pagan en la misma moneda y no leen el mismo registro. Si solo tienes un portugués, `pt-BR` es la señal correcta para el mercado que te llena los buses.
+
+<Callout type="error" title="Lo que no puede apuntar el hreflang">
+Una URL que redirige, que da 404, que está `noindex`, o que no es la canónica. El bloque tiene que apuntar a la URL final, 200, indexable. Si el dominio viejo ya hace 301 al nuevo, el hreflang vive en el nuevo.
+</Callout>
+
+## Por qué duele más en turismo que en un blog
+
+Un tour es un **producto**. Mismo trekking, cuatro fichas, cuatro precios, cuatro WhatsApp. Si Google las trata como competidoras:
+
+1. Se reparte la relevancia. El portugués no hereda lo que el español acumuló.
+2. El usuario recibe el idioma de la versión “ganadora”, no el suyo.
+3. En mobile, el clic equivocado es un abandono. Nadie traduce un itinerario de 4 días con el traductor del Chrome y luego reserva US$600.
+
+Además hay huecos de catálogo. El hreflang no inventa una ficha que no existe. Si no hay Valle Sagrado en italiano, no hay `hreflang="it"` que poner. Apuntar a la home italiana es peor que no poner nada.
+
+## Implementarlo cuando cada idioma es otro WordPress
+
+WPML y Polylang resuelven idiomas **dentro de una instalación**. Aquí no hay una instalación. Hay cuatro. El mapa tiene que vivir fuera: un JSON o un PHP compartido, el mismo snippet inyectado en las cuatro, de modo que la reciprocidad sea por diseño y no por disciplina de cuatro community managers.
+
+```html
+<link rel="alternate" hreflang="en" href="https://www.agencia.com/tour/machu-picchu-full-day/" />
+<link rel="alternate" hreflang="es" href="https://www.agencia.es/tour/machu-picchu-1-dia/" />
+<link rel="alternate" hreflang="pt-BR" href="https://www.agencia.com.br/pacote/machu-picchu-full-day/" />
+<link rel="alternate" hreflang="it" href="https://www.agencia.it/tour/machu-picchu-1-giorno/" />
+<link rel="alternate" hreflang="x-default" href="https://www.agencia.com/tour/machu-picchu-full-day/" />
+```
+
+Ese bloque, idéntico en las cinco URLs (cuatro idiomas + la misma en cada una), es el producto mínimo. Empieza por homes + diez tours que existan en todos los idiomas. Mide en Search Console → Mejoras internacionales. Luego el catálogo.
+
+<Steps>
+  <Step n={1} title="Mapa antes que código">
+    Una fila por producto: URL EN, ES, PT-BR, IT, o guion si no existe. Sin inventar. El guion significa “no emitas ese hreflang”.
+  </Step>
+  <Step n={2} title="Piloto">
+    Homes y un puñado de fichas estrella. Verifica reciprocidad con un script, no a ojo.
+  </Step>
+  <Step n={3} title="Banderas contextuales">
+    Cuando la equivalencia existe, la bandera va a la ficha hermana, no a la portada. Eso es UX y SEO al mismo tiempo.
+  </Step>
+  <Step n={4} title="Catálogo">
+    El resto. Cada ficha nueva nace con su fila en el mapa. Si marketing publica en un solo idioma, el mapa lleva guion hasta que exista la hermana.
+  </Step>
+</Steps>
+
+## Cómo se ve cuando funciona
+
+`grep -c hreflang` mayor que 0 en las cuatro homes. El auditor no reporta bloques rotos. GSC deja de listar “no hay etiquetas de retorno”. El tráfico por país puede tardar semanas: hay re-rastreo. No prometo que Brasil sube un 40% en 14 días.
+
+Lo que sí he visto fallar: anunciaron hreflang, las banderas siguen mandando al home, el italiano apunta a URLs que 404, y el `x-default` es la portada del grupo para todas las fichas. Google se lo salta.
+
+Un dominio por idioma es una decisión de negocio válida. Sin hreflang, son cuatro sitios peleándose por el mismo viajero.
