@@ -6,6 +6,8 @@
 
 **Respuesta corta:** los próximos 90 días / las 2 semanas de prueba, **WordPress** + bajar Figma a plantilla/tema **sin cambiar URLs**. Una migración a Drupal **no es cambiar de servidor** ni es automática para Tourmaster. Código (Next + CMS) es el techo si tú implementas a largo plazo y hay admin para no-técnicos. Drupal modela bien “un tour, cuatro idiomas”, pero es donde **tú más lento vas** y donde hay menos talento en Cusco. Ver también `FIGMA-LECTURA.md`.
 
+**Virus / spam / plugins piratas:** ver `VIRUS-Y-STACK-CONVERSACION.md`. El hosting que dice “culpa del equipo” suele tener razón cuando el vector es nulled plugin — eso **no** demuestra que “código propio mañana” sea la respuesta; demuestra que hace falta **higiene** + arquitectura en fases.
+
 El CMS no posiciona palabras. Posicionan URLs estables, contenido en la intención del mercado, velocidad, idioma correcto y una ficha que ventas puede cerrar.
 
 ---

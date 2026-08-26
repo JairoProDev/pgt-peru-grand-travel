@@ -1,25 +1,26 @@
 # Checklist maestro — Jairo @ PGT
 
 **Un solo archivo para tachar todo.** Marca `[x]` cuando termines.  
-**Hoy:** 25 ago 2026 · ~17:00–18:00 queda la última hora del día 1.  
-**Meta 14 días:** jefe de marketing S/ 5.000 + ser respetado en SEO.
+**Hoy:** 26 ago 2026 (día 2).  
+**Meta ~25 sep:** jefe de marketing S/ 5.000 · mes 1 = **migración Drupal + SEO cutover**.
 
 **Leyenda:** 🔴 urgente hoy/mañana · 🟡 esta semana · 🟢 después de 1er win · ⏱ min estimados
 
+**Índices:** `01-situacion/QUE-HACER-AHORA.md` · `08-investigacion/MIGRACION-WP-DRUPAL-PLAYBOOK.md` · `10-aprendizaje/drupal/00-LEER-PRIMERO.md`
+
 ---
 
-## A. Esta hora (17:00–18:00) — no improvises
+## A. Hoy 26 ago (oficina)
 
 | ☐ | ⏱ | Tarea | Por qué |
 |---|---|---|---|
-| [ ] | 5 | **WhatsApp a Clever** — texto en `07-negociacion/WHATSAPP-PACTO-REVISADO.md` | Sin papel, el S/ 5.000 se evapora |
-| [ ] | 5 | **Bitácora** — completar `01-situacion/BITACORA.md` (bloques, grupo WA, links) | Memoria del día 1 |
-| [ ] | 10 | Abrir el **Google Sheet de keywords** del grupo WA y localizar **bloque 3 tours + bloque 4 blogs** (solo mirar, no optimizar) | Mañana no empiezas a ciegas |
-| [ ] | 5 | Guardar en favoritos: [Sheet keywords](https://docs.google.com/spreadsheets/d/1VAaeEpG_hW8DOMbdqbidQhc2aNjhV8qDJQZ0nWcGMQU/edit) · [Drive marketing](https://drive.google.com/drive/folders/1-1wEMq2qox3D0jrs4uY1XQz-3sqbTW9z) · [Figma](https://www.figma.com/design/jhLCgtdkX4AtItlUD5ooBf/Sin-t%C3%ADtulo?node-id=485-3479) | Acceso rápido mañana |
-| [ ] | 5 | Mensaje corto a **Ricardo** (mañana temprano está bien): *"Monté Marketing en mi laptop; creé usuario linux_admin en el NAS para no usar el de todos — te explico mañana si quieres."* | Evita que parezca intrusión |
-| [ ] | 5 | Antes de irte, decir en voz alta (sin drama): *"Mañana arranco con bloque 3 tours y bloque 4 blogs; confirmo URLs con Ricardo."* | Demuestra que escuchaste, no que estudias teoría |
-
-**No hagas esta hora:** estudiar 2 h · proponer Drupal/Next · pedir clever@ · leer todo el repo · entregar auditoría completa.
+| [ ] | 5 | **WhatsApp pacto ~25 sep** — `07-negociacion/WHATSAPP-PACTO-REVISADO.md` | Congelar S/ 5.000 |
+| [ ] | 20 | Preguntas migración A1–A10 (playbook) a Ricardo | Dejar de volar a ciegas |
+| [ ] | 15 | Pedir staging Drupal + rol editor | Aprender en real |
+| [ ] | 30 | Export GSC baseline → `03-seo/datos/` | Evidencia pre-cutover |
+| [ ] | 15 | Avisar NAS `linux_admin` | Transparencia |
+| [ ] | 20 | Lizet: URLs Ads ON | 301 prioritarios |
+| [ ] | 5 | Nombre jefe mkt interino | Organigrama |
 
 ---
 
@@ -27,7 +28,7 @@
 
 | ☐ | Cuándo | A quién | Qué decir / pedir | Archivo |
 |---|---|---|---|---|
-| [ ] | 🔴 hoy | Clever | WhatsApp pacto 2 sem → S/ 5.000 | `07-negociacion/WHATSAPP-PACTO-REVISADO.md` |
+| [ ] | 🔴 hoy | Clever | WhatsApp pacto **~25 sep** → S/ 5.000 | `07-negociacion/WHATSAPP-PACTO-REVISADO.md` |
 | [ ] | 🔴 mañana | Ricardo | Confirmar URLs exactas bloque 3 tours + bloque 4 blogs | — |
 | [ ] | 🔴 mañana | Ricardo | GSC: qué propiedades/domínios cubre tu bloque | — |
 | [ ] | 🔴 mañana | Equipo / interino | Nombre del jefe de marketing interino (solo mañanas) | — |
@@ -124,8 +125,10 @@
 
 | ☐ | Cuándo | Tarea |
 |---|---|---|
+| [ ] | 🔴 | Leer `08-investigacion/VIRUS-Y-STACK-CONVERSACION.md` (virus + argumentos) |
 | [ ] | 🟡 semana 1 | Leer `mi-carrera/CMS-CUSTOM-VIABILIDAD.md` |
-| [ ] | 🟡 semana 1 | Preguntas a Ricardo/Clever: ¿Drupal tiene vendor? ¿Figma cambia URLs? |
+| [ ] | 🟡 semana 1 | Preguntar a Ricardo: hechos del virus/spam + lista plugins (¿nulled?) |
+| [ ] | 🟡 semana 1 | Preguntas: ¿Drupal tiene vendor? ¿Figma cambia URLs? |
 | [ ] | 🟢 mes 1 | Win en WordPress (tema hijo 1 plantilla tour, mismas URLs) |
 | [ ] | 🟢 mes 2–3 | POC interno Next + Payload (1 tour, staging) — solo si hay win SEO |
 | [ ] | 🟢 mes 3+ | Propuesta escrita headless — no oral en pasillo |

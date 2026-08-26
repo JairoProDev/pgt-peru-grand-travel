@@ -5,7 +5,8 @@ No escribas contraseñas.
 ## 25 ago 2026 — día 1
 
 **Equipo SEO**
-- Ricardo — accesos, reparte carga, líder informal
+
+- Ricardo — accesos, reparte carga, líder no oficial
 - Lizet — SEO + Google Ads + Meta Ads
 - Arely — medio tiempo, mañanas
 - Jairo — entrante SEO/GEO
@@ -13,32 +14,49 @@ No escribas contraseñas.
 - **Reparto (grupo WA 13:08–13:09):**
   - Tours: Arely 1 · Lizet 2 · **Jairo 3** · Ricardo 4
   - Blogs: Ricardo 1 · Lizet 2 · Arely 3 · **Jairo 4**
-- Mi bloque exacto (URLs): hojas **`tours jairo`** y **`blogs jairo`** en Sheet `PGT_URLs_keywords_canibalizacion_2` — ver `03-seo/BLOQUE-JAIRO.md`
+- Mi bloque exacto (URLs): hojas `tours jairo` y `blogs jairo` en Sheet `PGT_URLs_keywords_canibalizacion_2` — ver `03-seo/BLOQUE-JAIRO.md`
 - Grupo WA: **"Peru Grand Travel Marketing - Sin Jefe"** (9 miembros)
 - Links grupo: [Sheet keywords](https://docs.google.com/spreadsheets/d/1VAaeEpG_hW8DOMbdqbidQhc2aNjhV8qDJQZ0nWcGMQU/edit) · [Drive marketing](https://drive.google.com/drive/folders/1-1wEMq2qox3D0jrs4uY1XQz-3sqbTW9z) · [Figma](https://www.figma.com/design/jhLCgtdkX4AtItlUD5ooBf/Sin-t%C3%ADtulo?node-id=485-3479) · PDF "Nuevo Diseño de sitio web PGT" (137 MB, Ricardo 12:50)
 
 **Jefe marketing interino**
+
 - Nombre: ____ (solo mañanas)
 
 **Pacto Clever**
-- 3500 ahora · revisión 2 semanas → jefe mkt 5000 · oral · WhatsApp pendiente (`WHATSAPP-PACTO-REVISADO.md`)
+
+- 3500 ahora · **revisión ~1 mes (~25 sep)** → jefe mkt 5000 (ya no 2 semanas) · oral · WhatsApp (`WHATSAPP-PACTO-REVISADO.md` / `REVISION-1-MES.md`)
 - Norte: qualified leads + marca
 - No firmé nada
 
 **Accesos**
+
 - marketing@, NAS, Drive Ricardo, Accesos.xlsx
-- linux_admin: Ricardo aún no sabe → avisarle mañana
+- linux_admin: Ricardo aún no sabe → avisarle
 
 **Figma / Drupal**
+
 - Figma modular (Paquetes, Pricing, Included…)
-- Migración Drupal planeada — no empujar esta semana
+- Migración Drupal **decidida** (26 ago) — Jairo = dueño SEO cutover
+- Playbook: `08-investigacion/MIGRACION-WP-DRUPAL-PLAYBOOK.md`
 
 **Qué dije de mí**
+
 - SEO/GEO, WP, Drupal (recalibrar), fullstack, GA, GSC, Semrush, Hotjar…
 
-**Mañana sí o sí**
-- [ ] WhatsApp pacto (si no lo mandé esta noche)
+## 26 ago 2026 — día 2
+
+**Hechos nuevos**
+
+- Clever: Drupal va; mes 1 enfocado en migración; jefatura al mes
+- [ ] Respuestas A1–A10 playbook
+- [ ] Staging Drupal URL: ____
+- [ ] Implementador Drupal: ____
+- [ ] WhatsApp pacto 25 sep enviado: ____
+
+**Hoy sí o sí**
+
+- [ ] WhatsApp pacto mes
 - [ ] Avisar NAS a Ricardo
-- [ ] Confirmar mi bloque URLs
+- [ ] GSC línea base export
 - [ ] Nombre del interino
-- [ ] GSC línea base
+- [ ] Preguntas migración / staging

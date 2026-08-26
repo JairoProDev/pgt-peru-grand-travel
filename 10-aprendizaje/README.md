@@ -1,29 +1,27 @@
 # Aprendizaje — qué estudiar y qué no
 
-Los T00–T06 y D01–D03 están copiados aquí desde el paquete original. Son el temario de **SEO técnico**. No los relean todos esta noche.
+## Mes 1 (Drupal + migración) — prioridad absoluta
 
-## Esta noche
+1. `drupal/00-LEER-PRIMERO.md` (orden día a día)  
+2. `../08-investigacion/MIGRACION-WP-DRUPAL-PLAYBOOK.md`  
+3. `herramientas/GSC.md` (baseline cutover)  
+4. `herramientas/` (GA4, Ads con Lizet, Semrush si hay licencia)
 
-Nada de esto. Solo `00-manana/`.
+## SEO técnico base (T00–T05, D01–D03)
 
-## Semana 1 (en el almuerzo / después de oficina, 45 min/día)
+Siguen válidos. No los releas todos de golpe. En migración prioriza:
 
-| Día | Archivo | Para qué |
-|---|---|---|
-| Lun | D01 (siglas, OTA, Camino Inca) | Hablar con el dueño |
-| Mar | T03 hreflang (el bloque) | Defensa técnica |
-| Mié | T05 schema turismo | Offer, TravelAgency |
-| Jue | `04-geo/PLAYBOOK-GEO.md` | La mitad del título del puesto |
-| Vie | T04 LCP/INP campo vs lab | No quedar mal si sistemas pregunta |
+| Archivo | Por qué ahora |
+|---|---|
+| T02 indexación / canonical | URLs blogs limpia vs categoría |
+| T03 hreflang | 4 idiomas / Domain |
+| T05 schema | Offer en Twig/Metatag |
+| D03 stack WP | Origen Tourmaster |
 
-## Si te hacen entrevista técnica relámpago
+## GEO
 
-20 respuestas: `archivo-original/empleo-seo/05-GUIONES-contacto-entrevista-negociacion.md` parte B. Las tres de oro: hreflang multidominio, noindex vs robots, WAF 406.
+`04-geo/PLAYBOOK-GEO.md` — después de tener staging estable.
 
-## GEO extra
+## Ads
 
-No necesitas un máster. Necesitas la tabla de 15 prompts y schema. El resto es disciplina.
-
-## Ads extra
-
-`05-marketing/ADS-GOOGLE-META.md`. Si no hay especialista, dilo: es tercer oficio.
+`05-marketing/ADS-GOOGLE-META.md` + `herramientas/GOOGLE-ADS.md` — no robes el rol de Lizet.
