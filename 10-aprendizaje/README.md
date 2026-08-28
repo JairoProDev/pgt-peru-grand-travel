@@ -1,27 +1,22 @@
 # Aprendizaje — qué estudiar y qué no
 
-## Mes 1 (Drupal + migración) — prioridad absoluta
+## Si estás perdido con el vocabulario (26 ago)
 
-1. `drupal/00-LEER-PRIMERO.md` (orden día a día)  
-2. `../08-investigacion/MIGRACION-WP-DRUPAL-PLAYBOOK.md`  
-3. `herramientas/GSC.md` (baseline cutover)  
-4. `herramientas/` (GA4, Ads con Lizet, Semrush si hay licencia)
+Empieza aquí, en este orden:
 
-## SEO técnico base (T00–T05, D01–D03)
+1. `HABLAR-EL-IDIOMA-EQUIPO.md`  
+2. `TERMINOS-UNO-POR-UNO.md`  
+3. `wordpress/00-WORDPRESS-DESDE-CERO.md`  
+4. `COMO-NO-MATAR-RANKINGS-Y-LEADS.md`  
+5. `drupal/09-TWIG-EXPLICADO.md` + `drupal/01B-DRUPAL-EN-PROFUNDIDAD.md`  
+6. `php/00-PHP-DESDE-CERO.md` (por capas)
 
-Siguen válidos. No los releas todos de golpe. En migración prioriza:
+## Mes 1 — Drupal + migración
 
-| Archivo | Por qué ahora |
-|---|---|
-| T02 indexación / canonical | URLs blogs limpia vs categoría |
-| T03 hreflang | 4 idiomas / Domain |
-| T05 schema | Offer en Twig/Metatag |
-| D03 stack WP | Origen Tourmaster |
+- `drupal/00-LEER-PRIMERO.md`  
+- `../08-investigacion/MIGRACION-WP-DRUPAL-PLAYBOOK.md`  
+- `herramientas/GSC.md`
 
-## GEO
+## SEO técnico base (T00–T05)
 
-`04-geo/PLAYBOOK-GEO.md` — después de tener staging estable.
-
-## Ads
-
-`05-marketing/ADS-GOOGLE-META.md` + `herramientas/GOOGLE-ADS.md` — no robes el rol de Lizet.
+Después de dominar el idioma. Prioriza T02, T03, T05.

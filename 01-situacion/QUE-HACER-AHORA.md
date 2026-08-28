@@ -1,34 +1,33 @@
-# Qué hacer ahora — 26 ago 2026 (Día 2)
+# Qué hacer ahora — mié 26 ago ~9:30
 
-**Cambio de marco:** Drupal **decidido**. Mes 1 a S/ 3.500 → revisión jefatura ~25 sep.  
-Checklist maestro: `mi-carrera/CHECKLIST-MAESTRO-JAIRO.md`.  
-Playbook: `08-investigacion/MIGRACION-WP-DRUPAL-PLAYBOOK.md`.
+Estás en oficina. Prioridad: **entender + preguntar**, no estudiar 4 horas seguidas.
 
-## Hoy en oficina (orden)
+## Próximos 90 minutos (oficina)
 
-| # | ⏱ | Acción |
-|---|---|---|
-| 1 | 10 | **WhatsApp pacto mes** → `07-negociacion/WHATSAPP-PACTO-REVISADO.md` (si no lo mandaste) |
-| 2 | 20 | Preguntas A1–A10 del playbook a Ricardo / quien lidere Drupal (anotar en bitácora) |
-| 3 | 15 | Pedir acceso **staging Drupal** (editor) + URL |
-| 4 | 30 | Export GSC 28d páginas+consultas → `03-seo/datos/` |
-| 5 | 15 | Avisar NAS `linux_admin` a Ricardo |
-| 6 | 20 | Lizet: landings Ads ON (lista URLs) — críticas para 301 |
-| 7 | — | Nombre jefe mkt interino |
+| ⏱ | Acción |
+|---|---|
+| 10 | WhatsApp pacto ~25 sep si no salió (`07-negociacion/WHATSAPP-PACTO-REVISADO.md`) |
+| 20 | En mesa de migración: 8 preguntas de `10-aprendizaje/HABLAR-EL-IDIOMA-EQUIPO.md` §4 |
+| 10 | Pedir staging Drupal + usuario |
+| 15 | Avisar Ricardo: NAS `linux_admin` |
+| 20 | Lizet: lista URLs Ads ON |
+| 15 | Empezar export GSC baseline |
 
-## Esta noche (45–60 min)
+## Si hay hueco de lectura en oficina (máx 25 min)
 
-1. `10-aprendizaje/drupal/01-QUE-ES-DRUPAL.md` + `02-VOCABULARIO…`  
-2. Empezar Sheet mapa URLs (columnas del playbook §3) con tu bloque CSV  
-3. Informe interno `03-seo/informes/2026-08-26-interno.md`
+Solo: `10-aprendizaje/HABLAR-EL-IDIOMA-EQUIPO.md` o `TERMINOS-UNO-POR-UNO.md`.
 
-## Qué NO hacer hoy
+## Almuerzo / noche (estudio de verdad)
 
-- Pelear “mejor Next / código puro”.  
-- Prometer “yo migro Drupal solo”.  
-- Pedir clever@ / Banahosting sin ticket.  
-- Instalar módulos ZIP raros.
+Orden en `10-aprendizaje/drupal/00-LEER-PRIMERO.md`.
 
-## Aprendizaje mes 1
+## Frase tuya en la mesa (cópiala)
 
-Índice: `10-aprendizaje/drupal/00-LEER-PRIMERO.md` + `10-aprendizaje/herramientas/`.
+> Yo me enfoco en que no perdamos rankings ni leads: mismas URLs o 301, staging en noindex, landings de Ads priorizadas, y baseline en Search Console antes del corte.
+
+## No hagas ahora
+
+- Pelear Next vs Drupal  
+- Decir “no sé nada” sin pregunta de seguimiento  
+- Leer PHP entero en la mañana  
+- Prometer que programas el tema solo esta semana
