@@ -1,4 +1,4 @@
-# AGENTS.md
+# [AGENTS.md](http://AGENTS.md)
 
 Base privada PGT — Jairo Saul Salas Quiñones.
 
@@ -12,15 +12,19 @@ Norte Clever: qualified leads + marca.
 ## Secretos
 
 Nunca commit de Accesos.xlsx, claves, TOTP.  
-No pedir login de producción en browser del agente.  
-Exports/código en `inbox/` o repo tema: `10-aprendizaje/drupal/08-COMO-ME-AYUDA-EL-AGENTE.md`.
+Mapa de tools (falta guardar contraseñas): `02-empresa/MAPA-HERRAMIENTAS.md`.  
+Drive/exports: `mi-carrera/COMO-COMPARTIR-DRIVE.md`.  
+Onboarding semana 1 (si está abrumado): `01-situacion/PRIMERA-SEMANA-ONBOARDING.md`.
 
 ## Zonas del repo
 
 - Trabajo empresa: `01-situacion`, `02-empresa`, `03-seo`…
 - Migración: `08-investigacion/MIGRACION-WP-DRUPAL-PLAYBOOK.md`
+- CRM (mapa, no construir): `08-investigacion/CRM-PGT-Y-VECTORIFY.md`
 - Aprendizaje Drupal: `10-aprendizaje/drupal/`
 - Carrera/negociación: `mi-carrera/`, `07-negociacion/`
+
+
 
 ## Equipo SEO
 

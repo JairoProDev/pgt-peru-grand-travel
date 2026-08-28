@@ -8,18 +8,22 @@ Es viable **como pacto de productividad**, no como escape el día 2. Hoy el avis
 
 ## Cuándo pedirlo
 
-Después de **al menos un entregable visible** (línea base GSC + un arreglo o informe de 1 página), ideal día **8–14**, antes o en la revisión de los 5.000.
+Después de **al menos 4 entregables visibles** (línea base GSC + un arreglo o informe de 1 página), ideal día **8–14 del segundo mes**, despúes de la revisión de los 5.000 del mes.
 
 ## Cómo pedirlo (una vez)
 
-> Propongo un mes de prueba: presencial en la mañana con el equipo (alineación, Ricardo, Lizet, Arely) y la tarde en casa con la misma carga de mi bloque, celular activo. El trabajo se mide por entregables (Search Console, fichas, informe), no por la silla. Si no funciona, vuelvo al horario completo en oficina.
+> Propongo un mes de prueba: presencial en la mañana con el equipo (alineación, Ricardo, Lizet, Arely) y la tarde en casa con la misma carga de mi bloque, computadora y celular activo. El trabajo se mide por entregables (Search Console, fichas, informe), no por la silla. Si no funciona, vuelvo al horario completo en oficina.
+
+
 
 ## Condiciones que ofreces tú
 
 - Mismos bloques de tours/blogs que te asignaron (full time).
-- Respuesta en &lt;30 min en horario de tarde (WhatsApp/correo empresa).
+- Respuesta en <15 min en horario de tarde (WhatsApp/correo empresa).
 - Viernes: 15 min de qué cerraste.
 - Temporada alta / crisis: más presencial sin drama.
+
+
 
 ## Qué no hacer
 
@@ -27,3 +31,4 @@ Después de **al menos un entregable visible** (línea base GSC + un arreglo o i
 - Mentir “estoy en la oficina” cuando estás en casa.
 - Desaparecer a las 14:00 sin rastro.
 - Mezclar este pedido con el WhatsApp del pacto 5.000 (una negociación a la vez).
+

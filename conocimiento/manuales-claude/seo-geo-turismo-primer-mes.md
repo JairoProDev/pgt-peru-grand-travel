@@ -2,12 +2,13 @@
 
 ### De cero a operativo — manual para tu primer mes en Perú Grand Travel
 
-**Fecha:** 25 de agosto de 2026
-**Para:** tu primer día, tu primera semana y tu primer mes.
+**Fecha original:** 25 de agosto de 2026 (Claude)  
+**Estado:** referencia teórica útil (GEO, reseñas, negocio turismo).  
+**Para el día a día actualizado (Drupal, bloques, 4+ dominios, sueldo):** usa  
+→ [`MANUAL-OPERATIVO-PGT-AGO2026.md`](./MANUAL-OPERATIVO-PGT-AGO2026.md)  
+→ [`../../03-seo/QUE-HACER-CON-MI-BLOQUE.md`](../../03-seo/QUE-HACER-CON-MI-BLOQUE.md)
 
-Este documento tiene dos mitades. **La Parte A es para hoy y esta semana**: qué hacer, qué preguntar, qué NO tocar, y cómo hablar en reuniones sin fingir que sabes lo que no sabes. **La Parte B es el manual**: la mecánica del oficio aplicada a una agencia de viajes en Cusco.
-
-Léete la Parte A entera antes de entrar. Son 20 minutos. La Parte B la vas leyendo por la noche durante la primera semana.
+⚠️ La Parte A de este archivo (día 1, “3 dominios”, plan genérico) **está desactualizada**. La Parte B (B5–B12) sigue siendo buena lectura de oficio.
 
 ---
 

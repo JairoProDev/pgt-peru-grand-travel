@@ -20,7 +20,10 @@ No escribas contraseñas.
 
 **Jefe marketing interino**
 
-- Nombre: ____ (solo mañanas)
+- Nombre: **Einer** (solo mañanas) — confirmado 27 ago
+- Email: 	EinerEH@gmail.com
+- tiene permisos completos en GSC, supongo que él lo creo.
+- marketing@perugrandtravel.com tiene permisos de propietario verificado en GSC
 
 **Pacto Clever**
 
@@ -47,16 +50,37 @@ No escribas contraseñas.
 
 **Hechos nuevos**
 
-- Clever: Drupal va; mes 1 enfocado en migración; jefatura al mes
+- Clever: Drupal va (VPS Ubuntu interno); mes 1 migración + plan SEO; jefatura ~25 sep
+- Análisis bloque 18 tours / 115 blogs + prioridades CSV
+- Drive + GA4 mapeados; HECHOS/DUDAS/INSIGHTS; borrador plan Clever
+- Simplytest = no PGT
+- Lizet: Ads AM / SEO PM
+
+**Pendientes que pasaron a día 3**
+
 - [ ] Respuestas A1–A10 playbook
 - [ ] Staging Drupal URL: ____
-- [ ] Implementador Drupal: ____
 - [ ] WhatsApp pacto 25 sep enviado: ____
-
-**Hoy sí o sí**
-
-- [ ] WhatsApp pacto mes
-- [ ] Avisar NAS a Ricardo
+- [ ] Avisar NAS `linux_admin` a Ricardo
 - [ ] GSC línea base export
-- [ ] Nombre del interino
-- [ ] Preguntas migración / staging
+- [x] Nombre del interino → **Einer**
+
+## 27 ago 2026 — día 3
+
+**Plan:** `03-seo/informes/2026-08-27-interno.md`
+
+- [ ] GSC export bloque
+- [ ] Saludo Einer (si está)
+- [ ] Ricardo: NAS + staging + huella
+- [ ] Lizet 15 min Ads
+- [ ] Plan Clever ≥80%
+- [ ] Cierre informe noche
+
+## 28 ago 2026 — día 4
+
+**CRM (menciones de Clever, no encargo)**
+
+- Brief: `08-investigacion/CRM-PGT-Y-VECTORIFY.md`
+- Inventario: no hay CRM vivo verificado. Hay WA (checkout) + Sheet DAI/Paloma + RD Station (Josimar) + Mailchimp + tawk + WeTravel + OTAs
+- Postura: mapear, no construirlo. No mezclar con el plan SEO de esta semana ni con Vectorify
+- RD Station sigue **sin ojear** (`MAPA-HERRAMIENTAS.md`)

@@ -1,8 +1,9 @@
 # Informe diario — plantilla con cronómetro
 
 **Objetivo:** demostrar avance medible sin humo. Dos versiones:
+
 - **Interna** (para ti + agente): detalle + tiempos reales.
-- **Externa** (Clever / Ricardo / interino): 1 página, números y hechos.
+- **Externa** (Clever / Ricardo / interino / team): 1 página, números y hechos.
 
 Copia esta plantilla cada día: `03-seo/informes/AAAA-MM-DD-interno.md` y, si aplica, `03-seo/informes/AAAA-MM-DD-externo.md`.
 
@@ -15,13 +16,17 @@ Copia esta plantilla cada día: `03-seo/informes/AAAA-MM-DD-interno.md` y, si ap
 3. Al final del día: **total minutos** vs **meta** (jornada 8 h = 480 min útiles; descontar almuerzo).
 4. No inflar: 6 h reales > 10 h inventadas. La revisión premia **hechos**, no horas.
 
-| Sí cuenta | No cuenta |
-|---|---|
+
+| Sí cuenta                                | No cuenta                                |
+| ---------------------------------------- | ---------------------------------------- |
 | GSC, Excel, optimizar URL, reunión Lizet | Scroll WhatsApp, ansiedad, YouTube “SEO” |
-| Leer manual **con notas** | Releer lo mismo sin acción |
-| Informe escrito | Pensar en el informe sin escribirlo |
+| Leer manual **con notas**                | Releer lo mismo sin acción               |
+| Informe escrito                          | Pensar en el informe sin escribirlo      |
+
 
 ---
+
+
 
 ## PLANTILLA INTERNA (copiar abajo)
 
@@ -80,6 +85,8 @@ Copia esta plantilla cada día: `03-seo/informes/AAAA-MM-DD-interno.md` y, si ap
 
 ---
 
+
+
 ## PLANTILLA EXTERNA — 1 página (para jefe / revisión)
 
 Enviar por WhatsApp, correo o imprimir. **Sin** cronómetro detallado (suena a justificar horas). **Sí** resultados.
@@ -119,17 +126,23 @@ Enviar por WhatsApp, correo o imprimir. **Sin** cronómetro detallado (suena a j
 
 ---
 
+
+
 ## Cuándo enviar el externo
 
-| Audiencia | Frecuencia | Canal |
-|-----------|------------|-------|
-| Ricardo | 2× semana (mié + vie) | WhatsApp corto o 1 PDF |
-| Clever | 1× semana (viernes) | Correo o WhatsApp + adjunto |
-| Revisión 8 sep | 1 informe acumulado | `ENTREGABLES-CREDITO-JAIRO.md` |
+
+| Audiencia      | Frecuencia            | Canal                          |
+| -------------- | --------------------- | ------------------------------ |
+| Ricardo        | 2× semana (mié + vie) | WhatsApp corto o 1 PDF         |
+| Clever         | 1× semana (viernes)   | Correo o WhatsApp + adjunto    |
+| Revisión 8 sep | 1 informe acumulado   | `ENTREGABLES-CREDITO-JAIRO.md` |
+
 
 **Día 1–2:** no hace falta informe externo formal. Sí bitácora interna.
 
 ---
+
+
 
 ## Frase modelo (WhatsApp viernes a Clever)
 
@@ -137,9 +150,12 @@ Enviar por WhatsApp, correo o imprimir. **Sin** cronómetro detallado (suena a j
 
 ---
 
+
+
 ## Acumulado para revisión S/ 5.000
 
 Al final de semana 2, junta en un doc:
+
 - 10 informes internos (o tabla resumen)
 - 2–3 externos enviados
 - Capturas GSC con fecha

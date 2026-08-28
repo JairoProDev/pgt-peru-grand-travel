@@ -9,51 +9,67 @@ Marca `[x]` cuando esté **entregado o mostrado** a alguien de PGT (no solo hech
 
 ## Día 1 (25 ago) — realista
 
-| ☐ | Entregable | Estado | Notas |
-|---|---|---|---|
-| [ ] | Setup operativo (marketing@, NAS, Drive, grupo WA) | Hecho en oficina | No hace falta "presentarlo"; ya se nota |
-| [ ] | Pacto 2 semanas por WhatsApp | Pendiente | **Crítico** — cuenta como entregable administrativo |
-| [ ] | Bitácora día 1 completa | Pendiente | Solo para ti, salvo que pidan reporte |
-| [ ] | Confirmación verbal bloques 3 tours / 4 blogs | Hecho en grupo | Mañana confirmar URLs con Ricardo |
+
+| ☐   | Entregable                                         | Estado           | Notas                                               |
+| --- | -------------------------------------------------- | ---------------- | --------------------------------------------------- |
+| [ ] | Setup operativo (marketing@, NAS, Drive, grupo WA) | Hecho en oficina | No hace falta "presentarlo"; ya se nota             |
+| [ ] | Pacto 1 mes de seo a jefe por WhatsApp             | Pendiente        | **Crítico** — cuenta como entregable administrativo |
+| [ ] | Bitácora día 1 completa                            | Pendiente        | Solo para ti, salvo que pidan reporte               |
+| [ ] | Confirmación verbal bloques 3 tours / 4 blogs      | Hecho en grupo   | Mañana confirmar URLs con Ricardo                   |
+
 
 **Verdad del día 1:** No se espera auditoría ni posiciones subidas. Se espera **presencia, escucha, accesos, claridad de bloque**.
 
 ---
 
+
+
 ## Semana 1 (objetivo: 3 entregables visibles)
 
-| ☐ | Entregable | Audiencia | Criterio de "listo" |
-|---|---|---|---|
-| [ ] | **Línea base GSC** bloque 3+4 (CSV + 5 bullets) | Ricardo / Clever | Fecha, clics, top queries, 2 errores |
-| [ ] | **Diagnóstico 5+5 URLs** (tour + blog) | Ricardo | hreflang, schema, CTA, 1 recomendación c/u |
-| [ ] | **1 fix técnico** implementado o ticket escrito | Ricardo | Cambio en staging/prod o "bloqueado porque…" |
-| [ ] | **GEO baseline** 10 prompts | Tu informe | Tabla: prompt / ¿sale PGT? / competidor |
-| [ ] | **Mapa paid↔orgánico** (con Lizet) | Interino / Clever | Qué campañas aterrizan en qué URLs |
+
+| ☐   | Entregable                                      | Audiencia         | Criterio de "listo"                          |
+| --- | ----------------------------------------------- | ----------------- | -------------------------------------------- |
+| [ ] | **Línea base GSC** bloque 3+4 (CSV + 5 bullets) | Ricardo / Clever  | Fecha, clics, top queries, 2 errores         |
+| [ ] | **Diagnóstico 5+5 URLs** (tour + blog)          | Ricardo           | hreflang, schema, CTA, 1 recomendación c/u   |
+| [ ] | **1 fix técnico** implementado o ticket escrito | Ricardo           | Cambio en staging/prod o "bloqueado porque…" |
+| [ ] | **GEO baseline** 10 prompts                     | Tu informe        | Tabla: prompt / ¿sale PGT? / competidor      |
+| [ ] | **Mapa paid↔orgánico** (con Lizet)              | Interino / Clever | Qué campañas aterrizan en qué URLs           |
+
 
 ---
+
+
 
 ## Semana 2 (revisión jefatura)
 
-| ☐ | Entregable | Para la reunión S/ 5.000 |
-|---|---|---|
-| [ ] | **Informe 1 página** qualified leads | Orgánico + paid → WhatsApp (aunque sea manual) |
-| [ ] | **Propuesta prioridades** 30 días marketing | Alineado a "leads + marca" de Clever |
-| [ ] | **Evidencia pacto** | Captura WhatsApp + criterios cumplidos |
-| [ ] | **Relación equipo** | Sin conflicto con Ricardo; Lizet te incluyó en Ads |
+
+| ☐   | Entregable                                  | Para la reunión S/ 5.000                           |
+| --- | ------------------------------------------- | -------------------------------------------------- |
+| [ ] | **Informe 1 página** qualified leads        | Orgánico + paid → WhatsApp (aunque sea manual)     |
+| [ ] | **Propuesta prioridades** 30 días marketing | Alineado a "leads + marca" de Clever               |
+| [ ] | **Evidencia pacto**                         | Captura WhatsApp + criterios cumplidos             |
+| [ ] | **Relación equipo**                         | Sin conflicto con Ricardo; Lizet te incluyó en Ads |
+
 
 ---
+
+
 
 ## Mes 1–3 (si sigues / jefatura)
 
-| ☐ | Entregable | Posiciona como |
-|---|---|---|
-| [ ] | Plantilla tour nueva en WP (tema hijo, mismas URLs) | Dev + SEO |
-| [ ] | Dashboard GA4 evento WhatsApp | Jefe medición |
-| [ ] | Informe mensual keywords vs clics vs WA | Jefe marketing |
-| [ ] | POC staging headless (1 tour) | Visión técnica a largo plazo |
-| [ ] | Documento "cutover sin perder rankings" | Due diligence migración |
+
+| ☐   | Entregable                                          | Posiciona como               |
+| --- | --------------------------------------------------- | ---------------------------- |
+| [ ] | Plantilla tour nueva en WP (tema hijo, mismas URLs) | Dev + SEO                    |
+| [ ] | Dashboard GA4 evento WhatsApp                       | Jefe medición                |
+| [ ] | Informe mensual keywords vs clics vs WA             | Jefe marketing               |
+| [ ] | POC staging headless (1 tour)                       | Visión técnica a largo plazo |
+| [ ] | Documento "cutover sin perder rankings"             | Due diligence migración      |
+
 
 ---
+
+
 
 ## Qué NO vendas como entregable día 1
 
@@ -64,6 +80,8 @@ Marca `[x]` cuando esté **entregado o mostrado** a alguien de PGT (no solo hech
 - Repo GitHub con contraseñas
 
 ---
+
+
 
 ## Frases honestas si te preguntan hoy
 

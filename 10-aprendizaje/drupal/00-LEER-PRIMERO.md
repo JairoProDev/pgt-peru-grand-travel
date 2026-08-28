@@ -1,27 +1,16 @@
-# Drupal — leer primero (actualizado 26 ago 9:30)
+# Drupal — leer primero
 
-Estás volando con vocabulario: **normal**. No leas 15 archivos hoy.
+**PGT staging aún no listo.** No empieces por `10-TUTORIAL-...`.
 
-## Orden obligatorio (hoy)
+## Orden correcto
 
-| # | ⏱ | Archivo | Para qué |
-|---|---|---|---|
-| 1 | 25 | `../HABLAR-EL-IDIOMA-EQUIPO.md` | Sobrevivir la mesa de 5 |
-| 2 | 30 | `../TERMINOS-UNO-POR-UNO.md` | Yoast, staging, Drush, permalink, node |
-| 3 | 40 | `../wordpress/00-WORDPRESS-DESDE-CERO.md` | El origen que migran |
-| 4 | 30 | `../COMO-NO-MATAR-RANKINGS-Y-LEADS.md` | Tu valor en la migración |
-| 5 | 25 | `09-TWIG-EXPLICADO.md` | “Twing” → Twig |
-| 6 | 30 | `01B-DRUPAL-EN-PROFUNDIDAD.md` | Drupal sin prisa |
-| Noche | 30 | `../php/00-PHP-DESDE-CERO.md` | Solo Capas 0–1 |
+| # | Archivo | Cuándo |
+|---|---|---|
+| 1 | **`11-COMO-PRACTICAR-SIN-STAGING-PGT.md`** | **Ahora** — panorama, Windows/WSL/VPS, qué instalar |
+| 2 | Demo online (Camino A del #1) | Hoy — admin en el navegador |
+| 3 | DDEV local (Camino B del #1) | Esta semana |
+| 4 | `10-TUTORIAL-EXPLORAR-DRUPAL.md` | Cuando ya tengas un Drupal abierto |
+| 5 | `09-TWIG-EXPLICADO.md` / `01B-...` | Después de ver el admin |
 
-## Resto (esta semana, no ahora)
-
-`02` vocabulario · `03` campos · `04` idiomas · `05` código propio · `06` módulos SEO · `07` admin · `08` cómo te ayudo
-
-## Playbook migración
-
-`../../08-investigacion/MIGRACION-WP-DRUPAL-PLAYBOOK.md`
-
-## En la oficina AHORA
-
-Preguntas del §4 de `HABLAR-EL-IDIOMA-EQUIPO.md` + WhatsApp pacto `REVISION-1-MES`.
+Migración PGT: `../../08-investigacion/MIGRACION-WP-DRUPAL-PLAYBOOK.md`  
+Tu bloque SEO: `../../03-seo/QUE-HACER-CON-MI-BLOQUE.md`

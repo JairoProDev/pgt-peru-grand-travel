@@ -148,4 +148,4 @@ Eso es **jefe + técnico**, no fanático.
 3. **Sí, usa código** ya en: snippets, scripts, tema hijo, informes, automatización GEO.
 4. **POC Payload** solo después de línea base GSC + Ricardo te respete en lo operativo.
 
-Lectura relacionada: `08-investigacion/STACK-IDEAL.md`, `08-investigacion/FIGMA-LECTURA.md`.
+Lectura relacionada: `08-investigacion/FIGMA-LECTURA.md`, `08-investigacion/NORTE-IDEAL-ARQUITECTURA-Y-CRECIMIENTO.md` (visión completa poder total).

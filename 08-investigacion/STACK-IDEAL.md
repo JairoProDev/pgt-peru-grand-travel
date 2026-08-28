@@ -209,6 +209,14 @@ Hasta que no tengas 1, 2 y 6, cualquier stack es opinión.
 
 ---
 
+## Visión completa (poder total)
+
+Si quieres el escenario ideal sin restricciones políticas — arquitectura, dominios, infra, SEO/GEO, herramientas, roadmap 12 meses:
+
+→ **`NORTE-IDEAL-ARQUITECTURA-Y-CRECIMIENTO.md`**
+
+---
+
 ## Lecturas (para ti, no para recitar)
 
 - CMS travel 2026: booking engine primero, i18n como filtro, 50+ tours → headless/custom. [AtlasPerk](https://atlasperk.com/guides/technology-for-travel/website-cms/)

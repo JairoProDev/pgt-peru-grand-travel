@@ -1,33 +1,25 @@
-# Qué hacer ahora — mié 26 ago ~9:30
+# Qué hacer ahora — vie 28 ago (día 4)
 
-Estás en oficina. Prioridad: **entender + preguntar**, no estudiar 4 horas seguidas.
+## Guía maestra (síguela al pie de la letra)
 
-## Próximos 90 minutos (oficina)
+**`01-situacion/GUIA-PASO-A-PASO-COMPLETA.md`** — paso a paso minucioso semanas 1–4.
 
-| ⏱ | Acción |
-|---|---|
-| 10 | WhatsApp pacto ~25 sep si no salió (`07-negociacion/WHATSAPP-PACTO-REVISADO.md`) |
-| 20 | En mesa de migración: 8 preguntas de `10-aprendizaje/HABLAR-EL-IDIOMA-EQUIPO.md` §4 |
-| 10 | Pedir staging Drupal + usuario |
-| 15 | Avisar Ricardo: NAS `linux_admin` |
-| 20 | Lizet: lista URLs Ads ON |
-| 15 | Empezar export GSC baseline |
+Informe de hoy: `03-seo/informes/2026-08-28-interno.md`
 
-## Si hay hueco de lectura en oficina (máx 25 min)
+## Hoy P0 (orden)
 
-Solo: `10-aprendizaje/HABLAR-EL-IDIOMA-EQUIPO.md` o `TERMINOS-UNO-POR-UNO.md`.
+1. Mensajes **Einer** + **Ricardo** (textos en guía §3 día 4)
+2. Export GSC completo → `03-seo/datos/`
+3. Plan Clever ≥90% → enviar lun 31
+4. Auditoría: blog Things MP + tour Salkantay 5d
+5. QA staging `147.135.114.64` + filas mapa 301
+6. 15 min **Lizet** (landings Ads)
+7. Cerrar día 3 si quedó a medias (`2026-08-27-interno.md`)
 
-## Almuerzo / noche (estudio de verdad)
+## Si hay hueco
 
-Orden en `10-aprendizaje/drupal/00-LEER-PRIMERO.md`.
+RD Station 20 min — solo ojear (`HECHOS.md`). Brief CRM: `08-investigacion/CRM-PGT-Y-VECTORIFY.md` (**no proyecto**).
 
-## Frase tuya en la mesa (cópiala)
+## No hoy
 
-> Yo me enfoco en que no perdamos rankings ni leads: mismas URLs o 301, staging en noindex, landings de Ads priorizadas, y baseline en Search Console antes del corte.
-
-## No hagas ahora
-
-- Pelear Next vs Drupal  
-- Decir “no sé nada” sin pregunta de seguimiento  
-- Leer PHP entero en la mañana  
-- Prometer que programas el tema solo esta semana
+Simplytest · demo CRM · Vectorify · clever@ · optimizar 115 blogs

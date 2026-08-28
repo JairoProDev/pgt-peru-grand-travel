@@ -1,4 +1,6 @@
+# ds_store es un archivo que se crea en cada directorio que se crea en el sistema operativo macOS
 .DS_Store
+# __pycache__ es un directorio que se crea en cada proyecto Python
 __pycache__/
 *.pyc
 .env

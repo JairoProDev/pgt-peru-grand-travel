@@ -20,6 +20,7 @@ Responde cuando puedas. Actualizo el repo.
 
 9. ¿Hay motivo esta semana para tocar Banahosting/DNS, o puedes vivir solo con marketing@?
 10. ¿Hotjar y RD Station los usa alguien activo o están “instalados y olvidados”?
+10b. Clever “CRM propio”: ¿frase exacta, con quién, PGT o IKIMEI? — **no preguntar hasta que él lo saque**
 
 ## Día a día
 
