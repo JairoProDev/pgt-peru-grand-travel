@@ -4,7 +4,9 @@ Documentos para que **ventas responda en WhatsApp** sin memorizar 73 tours.
 
 | Ficha | Tours | Estado |
 |-------|-------|--------|
-| [comparativa-salkantay-machu-picchu-5d.md](./comparativa-salkantay-machu-picchu-5d.md) | Salkantay 4D vs 5D vs Classic MP 5D | ✅ Borrador con datos scrape — **Ops validar** |
+| [comparativa-salkantay-machu-picchu-5d.md](./comparativa-salkantay-machu-picchu-5d.md) | Salkantay 4D vs 5D vs Classic MP 5D | ✅ |
+| [comparativa-inca-trail.md](./comparativa-inca-trail.md) | Inca Trail 4D vs Short 2D vs SV 3D | ✅ |
+| [../diseno/CARDS-TOURS-ANALISIS.md](../diseno/CARDS-TOURS-ANALISIS.md) | Análisis cards PGT vs Drupal | ✅ |
 
 ## Plantilla nueva ficha
 
@@ -19,6 +21,5 @@ Copiar estructura de `comparativa-salkantay-machu-picchu-5d.md`:
 
 ## Prioridad siguiente
 
-- Inca Trail 4D vs Short 2D vs Sacred Valley 3D
 - Machu Picchu full day vs 2D vs 4D moderate
 - Luxury Belmond vs Casa Andina 5D
