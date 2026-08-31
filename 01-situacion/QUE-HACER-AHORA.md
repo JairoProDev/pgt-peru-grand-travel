@@ -1,25 +1,26 @@
-# Qué hacer ahora — vie 28 ago (día 4)
+# Qué hacer ahora — sáb 29 ago
 
-## Guía maestra (síguela al pie de la letra)
+## Things MP — en marcha (no tocar)
 
-**`01-situacion/GUIA-PASO-A-PASO-COMPLETA.md`** — paso a paso minucioso semanas 1–4.
+- Indexación solicitada vie 28 · sáb: `site:` ya muestra `/blog/things-to-do-in-machu-picchu/` con H1 nuevo ✅
+- **Canibalización:** sigue saliendo URL vieja `/Home/Cusco` con title largo → anotar para Ricardo
+- Esperar 7–14 días CTR en GSC · no re-editar snippet
 
-Informe de hoy: `03-seo/informes/2026-08-28-interno.md`
+## Hoy sáb (opcional, 2–3 h)
 
-## Hoy P0 (orden)
+1. GSC → Rendimiento → filtro URL Things MP → anotar línea baseline
+2. **POC Salkantay 5D** — siguiente nivel en `pgt-poc/`
+3. GA4 EN → marcar `whatsapp_click` como conversión (5 min)
 
-1. Mensajes **Einer** + **Ricardo** (textos en guía §3 día 4)
-2. Export GSC completo → `03-seo/datos/`
-3. Plan Clever ≥90% → enviar lun 31
-4. Auditoría: blog Things MP + tour Salkantay 5d
-5. QA staging `147.135.114.64` + filas mapa 301
-6. 15 min **Lizet** (landings Ads)
-7. Cerrar día 3 si quedó a medias (`2026-08-27-interno.md`)
+## Lun 31
 
-## Si hay hueco
+1. CTR Things MP vs 0,02 %
+2. Plan Clever
+3. Einer: slugs WP + blog 404 staging
+4. Siguiente CTR WP: **Museums in Machu Picchu** (2.494 imp, pos ~6)
 
-RD Station 20 min — solo ojear (`HECHOS.md`). Brief CRM: `08-investigacion/CRM-PGT-Y-VECTORIFY.md` (**no proyecto**).
+## Decisión estratégica (código)
 
-## No hoy
-
-Simplytest · demo CRM · Vectorify · clever@ · optimizar 115 blogs
+**Dominio:** `perugrandtravel.com` (EN)  
+**Página código:** Tour **Salkantay 5D**  
+**Informe:** `03-seo/informes/2026-08-29-decision-pagina-codigo.md`

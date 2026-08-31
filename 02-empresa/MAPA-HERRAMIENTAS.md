@@ -1,9 +1,11 @@
 # Mapa de herramientas PGT (sin contraseñas)
 
 **Actualizado:** 26 ago 2026  
-**Secretos:** solo en tu Excel local `Accesos PGT -2026 Actuales.xlsx` — **nunca** en este repo ni en el chat.
+**Secretos:** solo en cofre (objetivo: Vaultwarden) o Excel local legacy — **nunca** en este repo ni en el chat.
 
-Yo uso esta lista para saber **qué existe**. Cuando me preguntes “cómo entro a X”, te digo el camino; **tú** abres el Excel.
+**Diseño de gestión de accesos (proceso + colecciones + migración):** `02-empresa/GESTION-ACCESOS-DISENO.md`
+
+Yo uso esta lista para saber **qué existe**. Cuando me preguntes “cómo entro a X”, te digo el camino; **tú** abres el cofre/Excel.
 
 ## Correo pivote
 

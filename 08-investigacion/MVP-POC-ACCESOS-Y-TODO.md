@@ -1,6 +1,8 @@
 # MVP / POC — accesos, certezas y TODO (Jairo + agente)
 
-Actualizado: 27 ago 2026.
+Actualizado: 28 ago 2026.
+
+**Estado POC:** scaffold Next.js en `pgt/pgt-poc/` — build OK. Pendiente: push GitHub + deploy Vercel (`pgt-poc/DEPLOY.md`).
 
 ## ¿Qué es POC?
 
@@ -36,11 +38,11 @@ Condiciones:
 | marketing@ (GSC, GA4, Drive) | **Sí** | Baseline, medir después |
 | wp-admin perugrandtravel.com | **Probable sí** (Excel) | Copiar contenido tour/blog |
 | Repo local `/pgt` + tu laptop | **Sí** | Código y docs |
-| Cuenta GitHub/Git (personal o empresa) | **Tú confirmas** | Deploy Vercel |
-| DNS subdominio `poc.` | **No confirmado** | Staging público |
-| cPanel/FTP EN | **Preguntar Ricardo** | Backup, assets, routing |
+| Cuenta GitHub/Git (personal o empresa) | **Sí** | Deploy Vercel — push pendiente |
+| DNS subdominio `poc.` | **No confirmado** | Staging público — pedir Ricardo |
+| cPanel/FTP EN | **Preguntar Ricardo** | Assets reales wp-admin |
 | clever@ / DNS raíz | **No** (y no pedir aún) | Solo si routing en prod |
-| Vercel / Railway / CF | **Cuenta tuya gratis** | Hosting POC |
+| Vercel / Railway / CF | **Sí** | Import repo → deploy |
 | Aprobación escrita POC | **Falta** | Einer/Clever 1 OK |
 
 **Conclusión:** puedes **empezar a construir en local y en tu Vercel personal** hoy. Para **staging con dominio PGT** y **swap de 1 URL prod** necesitas 2–3 accesos más + un “sí” del jefe.

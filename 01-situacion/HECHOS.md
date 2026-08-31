@@ -27,7 +27,7 @@ Formato: `- AAAA-MM-DD — hecho — fuente`
 - Ads 421-897-0045 sin vincular a GA4 EN — banner Analytics
 - Lizet: entró ~17 ago; Lima; Ads mañanas / SEO tardes; vino por SEO — conversación
 - Asistencia: equipo marca huella; Jairo aún no registrado — observación
-- Quedarse hasta cierre con quien cierra — hábito Jairo
+- Quedarse hasta cierre con quien cierre — hábito Jairo
 
 
 
@@ -57,4 +57,20 @@ Formato: `- AAAA-MM-DD — hecho — fuente`
 ## 2026-08-28 (día 4)
 
 - Brief CRM internamente (`08-investigacion/CRM-PGT-Y-VECTORIFY.md`); RD Station y Sheet DAI/Paloma **aún no abiertos** — repo + MAPA-HERRAMIENTAS
+- Drupal staging tour Salkantay 5D = **`/product/9`** (title OK); canonical relativo; **Add to cart**; **0 JSON-LD** — curl 28 ago 12:32
+- WP blog Things MP: title + meta + schema + WA **OK**; staging mismo path → **404** — curl 28 ago
+- Entregables día 4: mapa 25 URLs, inventario 133 URLs, 2 auditorías, checklist pre-launch, plan Clever v1 — repo 28 ago tarde
+- **POC Next.js** scaffold en `pgt-poc/`: tour Salkantay + blog Things MP, schema JSON-LD, WA, noindex — build OK 28 ago
+- **POC desplegado:** https://pgt-poc.vercel.app · GitHub JairoProDev/pgt-poc · Vercel conectado — 28 ago tarde
+- Contenido POC scrapeado de **WP live** (itinerario 5 días, US$ 731, imágenes wp-content, blog 11 secciones) — no Drupal
+- GA4 stream POC **`proof of concept`** · Measurement ID **`G-V8FFS0SCXB`** · env Vercel — 28 ago tarde
+- POC Lighthouse mobile tour: Perf **99**, SEO **89** (con noindex); comparativa WP 55 / Drupal 13 — capturas Jairo
+- POC **indexable** (noindex quitado 28 ago noche) para test SEO Lighthouse — agente
+- Blog Things MP optimización CTR iniciada 28 ago tarde: Rank Math title `12 Things to Do in Machu Picchu (2026 Guide)` + meta nueva en post 18674 (`/blog/wp-admin/`) — Jairo
+- Things MP: Basic SEO All Good; H1 `12 Things…(2026)`; intro 2026; bloque tours Custom HTML; botón WP = **Save** (no Update) — captura Jairo 28 ago noche
+- GSC Inspección URL Things MP: muestra **“La URL no está en Google / Google no reconoce esta URL”** (rastreo N/D) pese a baseline 6.115 imp — captura Jairo; acción: Solicitar indexación + Probar URL publicada
+- GSC: **“Se ha solicitado la indexación”** Things MP → cola de rastreo prioritaria — captura 28 ago noche
+- `site:` en Bing aún muestra title/meta **viejos** (cache motor) — normal; no repetir solicitud
+- Google `site:` Things MP = **0 resultados** (incógnito) — alineado con Inspección “no reconoce”; live OK: 200, `index,follow`, `<title>` nuevo 12 Things… — curl 28 ago 23:51 UTC
+- Sáb 29: `site:www.perugrandtravel.com "things to do in machu picchu"` muestra `/blog/things-to-do-in-machu-picchu/` con title **12 Things to Do in Machu Picchu (2026)** + duplicado `/Home/Cusco` title viejo — captura Jairo
 

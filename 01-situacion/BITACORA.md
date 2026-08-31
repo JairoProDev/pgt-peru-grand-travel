@@ -84,3 +84,16 @@ No escribas contraseñas.
 - Inventario: no hay CRM vivo verificado. Hay WA (checkout) + Sheet DAI/Paloma + RD Station (Josimar) + Mailchimp + tawk + WeTravel + OTAs
 - Postura: mapear, no construirlo. No mezclar con el plan SEO de esta semana ni con Vectorify
 - RD Station sigue **sin ojear** (`MAPA-HERRAMIENTAS.md`)
+
+## 28 ago — tarde (día 4)
+
+- Agente: mapa 25 URLs migración, inventario 133 URLs bloque, auditorías P0 (Things MP + Salkantay), checklist pre-launch Drupal, plan Clever v1
+- Hallazgo: Drupal `/product/9` = Salkantay; blog Things MP 404 en staging; cart sin WA
+- Pendiente humano: WhatsApp Einel/Ricardo, export GSC, enviar plan Clever
+
+**Accesos (diseño, sin implementar)**
+
+- Excel/Sheet de contraseñas = legacy; no es buena práctica como fuente de secretos
+- Diseño: proceso (menos cuentas compartidas + offboarding) + Vaultwarden $0 → `02-empresa/GESTION-ACCESOS-DISENO.md`
+- Owner rotación hoy: Ricardo; ~20 personas; pitch pendiente a Ricardo/Clever
+- No construir app interna de passwords; no pegar secretos en chat/repo

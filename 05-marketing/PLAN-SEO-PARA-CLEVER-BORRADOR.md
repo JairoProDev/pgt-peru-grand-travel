@@ -1,97 +1,125 @@
-# Plan SEO — borrador para Clever (completar esta semana)
+# Plan SEO — para Clever (v1 · 28 ago 2026)
 
-**De:** Jairo · Analista SEO/GEO  
+**De:** Jairo Saul Salas Quiñones · Analista SEO/GEO  
 **Para:** Clever  
-**Fecha entrega objetivo:** vie 28 ago o lun 31 ago 2026  
-**Contexto:** Primer mes de onboarding + apoyo a migración WordPress → Drupal. Sueldo actual S/ 3.500; revisión de jefatura hacia ~25 sep.
+**Estado:** Listo para enviar (ajusta solo si Einel respondió algo hoy)
 
 ---
 
 ## 1. Qué entendí del norte del negocio
 
-Perú Grand Travel busca sobre todo:
+Perú Grand Travel busca:
 
-1. Más **leads calificados** (conversaciones de WhatsApp / formularios que ventas puede cerrar).  
-2. **Fortalecer la marca** (confianza, presencia, sin spam ni sitios hackeados).
+1. Más **leads calificados** (WhatsApp / formularios que ventas cierra).  
+2. **Fortalecer la marca** (confianza, sin spam ni sitios hackeados).
 
-El SEO/GEO sirve a eso: que el viajero correcto encuentre la ficha correcta en el idioma correcto, y escriba.
-
----
-
-## 2. Cómo está organizado el trabajo SEO hoy
-
-- Equipo: Ricardo, Lizet (también Ads), Arely (medio tiempo), yo.  
-- Carga repartida: ~73 tours y ~454 blogs en 4 bloques.  
-- **Mi bloque:** tours bloque 3 (**18 URLs**) y blogs bloque 4 (**115 URLs**), casi todo en `perugrandtravel.com` (inglés).  
-- Miden posiciones en Excel/Sheet de keywords; el norte de negocio sigue siendo leads + marca.
+El SEO/GEO conecta demanda (Google, IA) con la ficha correcta en el idioma correcto.
 
 ---
 
-## 3. Qué encontré en mi bloque (línea base inicial)
+## 2. Cómo está organizado el trabajo SEO
 
-Datos del Sheet de keywords (export 25 ago):
+- Equipo: Ricardo, Lizet (Ads), Arely (½), yo.  
+- **Mi bloque EN:** 18 tours + 115 blogs (`perugrandtravel.com`).  
+- Medición: Sheet keywords + Search Console + GA4.
+
+---
+
+## 3. Línea base (datos reales · 27–28 ago)
+
+### Sitio EN completo (GSC · 28 días)
+
+| Métrica | Valor |
+|---|---|
+| Clics | **643** |
+| Impresiones | **116.000** |
+| CTR medio | **0,6 %** |
+| Posición media | **25,6** |
+
+### Mi bloque (Sheet keywords · 25 ago)
 
 | | Tours (18) | Blogs (115) |
 |---|---|---|
-| Impresiones (periodo del sheet) | ~19.700 | ~99.900 |
+| Impresiones | ~19.700 | ~99.900 |
 | Clics | ~18 | ~32 |
-| En top 10 de Google | 0 | ~10 |
+| Top 10 Google | 0 | ~10 |
 
-**Lectura simple:** hay blogs que Google muestra mucho pero casi nadie hace clic (oportunidad de mejorar título/descripción y enlaces a tours), sin reescribir todo el blog.
+**Lectura:** Hay blogs con **miles de impresiones y casi cero clics** — oportunidad de mejorar títulos/descripciones sin reescribir todo el contenido.
 
-Detalle interno: `03-seo/ANALISIS-BLOQUE-JAIRO-2026-08-25.md`.
+### 3 URLs prioritarias (esta semana)
 
----
-
-## 4. Plan 30 días (propuesta)
-
-### Semana 1 — Onboarding (en curso)
-- Mapa de herramientas y accesos operativos.  
-- Entender WordPress (Tourmaster, Yoast) y Search Console.  
-- Confirmar landings de Ads con Lizet.  
-- Este documento.
-
-### Semana 2 — Medición
-- Export formal Search Console de mi bloque (fecha en el archivo).  
-- Inventario URL de mis 18+115 para la migración (¿misma dirección o redirección?).  
-- Auditar 3 páginas prioritarias (2 blogs top + 1 tour).
-
-### Semana 3 — Migración (cuando exista Drupal de prueba)
-- Comparar 1 tour WordPress vs Drupal (precio, WhatsApp, título).  
-- Checklist para no perder Google el día del cambio (redirecciones, sitemap).
-
-### Semana 4 — Informe
-- Resumen de avances + riesgos de la migración + siguiente mes.
+| URL | Impresiones | Posición | Oportunidad |
+|---|---:|---:|---|
+| `/blog/things-to-do-in-machu-picchu/` | ~6.115 | ~6 | CTR muy bajo — quick win |
+| `/blog/museums-in-machu-picchu/` | ~2.494 | ~6 | Igual |
+| `/tour/the-classic-salkantay-trek-5d/` | ~1.218 | ~27 | Enlazar desde blogs MP |
 
 ---
 
-## 5. Mi rol en la migración a Drupal
+## 4. Migración Drupal (lo que ya revisé)
 
-No pretendo ser el programador principal de Drupal en el mes 1.  
-Sí me ofrezco como responsable de:
+**Staging OVH:** http://147.135.114.64/ · Drupal 11 · solo EN primero.
 
-- Inventario de URLs de mi bloque.  
-- Que las páginas importantes no queden en “no encontrada” tras el cambio.  
-- Revisar que fichas tengan WhatsApp y datos claros en el entorno de prueba.  
-- Línea base en Search Console antes y después.
+| ✅ Bien | ⚠️ Riesgo |
+|---|---|
+| Diseño alineado Figma | URLs distintas a WordPress (`/product/9` vs `/tour/...`) |
+| Tours demo visibles | Blog P0 Things Machu Picchu → **404** |
+| | Botones "Add to cart" vs WhatsApp actual |
+| | Sin schema JSON-LD detectado |
+| | Staging indexable (sin noindex) |
+
+**Mi rol:** dueño SEO del cutover — mapa 301, checklist pre-launch, QA 20 URLs, baseline GSC antes/después.
+
+Entregables ya iniciados: inventario 133 URLs, mapa migración 25 URLs top, checklist SEO (`CHECKLIST-PRE-LAUNCH-DRUPAL.md`).
+
+---
+
+## 5. Plan 30 días
+
+### Semana 1 (ahora)
+- ✅ Línea base GSC  
+- ✅ Inventario bloque Jairo (133 URLs)  
+- ✅ Auditorías P0 + checklist Drupal  
+- ⬜ Plan enviado a Clever  
+- ⬜ Alineación landings Ads (Lizet)
+
+### Semana 2
+- Mapa 301 ampliado (50+ URLs)  
+- 5 auditorías completas  
+- Confirmar slugs finales con Einel  
+- Evento GA4 WhatsApp click
+
+### Semana 3
+- QA 20 URLs en staging Drupal  
+- Quick wins title/meta P0 (con OK CM)  
+- Prueba técnica 2 páginas (velocidad/SEO) en subdominio staging
+
+### Semana 4
+- Informe mes 1: GSC vs baseline, avance migración, riesgos, mes 2
 
 ---
 
 ## 6. Qué necesito del equipo
 
-| De quién | Qué |
-|---|---|
-| Ricardo | Aviso cuando exista Drupal de prueba + usuario; confirmación de dominios prioritarios |
-| Lizet | Lista de URLs a las que apuntan Ads activos |
-| Clever / jefe mkt | Feedback a este plan (¿prioridad leads, marca, o migración primero?) |
+| De quién | Qué | Para cuándo |
+|---|---|---|
+| **Einel** | Slugs finales WP vs Drupal, WA vs cart, admin Drupal, noindex staging | Esta semana |
+| **Ricardo** | DNS subdominio POC (opcional), confirmación NAS linux_admin | Esta semana |
+| **Lizet** | URLs landings Ads activas | Esta semana |
+| **Clever** | OK prioridades: ¿migración segura primero o quick wins CTR en WP? | Al recibir este plan |
 
 ---
 
 ## 7. Cierre
 
-Estoy en fase de contexto a propósito: prefiero un plan alineado a leads + marca + migración segura, antes de tocar producción a ciegas.  
-El próximo entregable concreto será la línea base Search Console + el inventario de URLs de mi bloque.
+Llevo 4 días de onboarding con entregables concretos: baseline Search Console, inventario de mi bloque, revisión del staging Drupal, y prioridades accionables.  
+El próximo paso es cerrar el mapa de URLs con Einel y empezar QA antes del cutover EN — para no perder rankings ni leads.
+
+Quedo atento a tu feedback sobre prioridades.
+
+— Jairo
 
 ---
 
-**Nota para Jairo:** completa fechas reales, nombre del jefe mkt cuando lo sepas, y pega 1 captura GSC si puedes. Luego mándalo por WhatsApp/correo a Clever.
+*Anexos internos (no enviar a Clever si no pide detalle):*  
+`03-seo/datos/mapa-urls-wp-drupal.csv` · `08-investigacion/CHECKLIST-PRE-LAUNCH-DRUPAL.md` · `08-investigacion/DRUPAL-STAGING-REVISION-2026-08-28.md`
