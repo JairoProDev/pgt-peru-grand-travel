@@ -8,7 +8,8 @@ Centro de verdad **humana + analítica** para tours, paquetes, destinos y precio
 | [FUENTES-DATOS.md](./FUENTES-DATOS.md) | Matriz Drive / Sheet / WP / web / mente vendedores |
 | [RECONCILIACION-INVENTARIO.md](./RECONCILIACION-INVENTARIO.md) | **73 tours / 454 blogs** — Sheet vs sitemap vs web |
 | [REPO-VS-CMS.md](./REPO-VS-CMS.md) | Qué vive en git vs Payload vs Drive |
-| [datos/catalogo-maestro-2026-08-31/](./datos/catalogo-maestro-2026-08-31/) | CSV exportado (regenerar con script) |
+| [fichas/comparativa-salkantay-machu-picchu-5d.md](./fichas/comparativa-salkantay-machu-picchu-5d.md) | Salkantay 4D vs 5D vs Classic MP 5D |
+| [datos/precios-otas/](./datos/precios-otas/) | Snapshot web + plantilla OTAS Drive |
 
 ## Regenerar catálogo
 

@@ -12,7 +12,8 @@
 | **WP live EN** | perugrandtravel.com | HTML tours, blogs, pages, precios, itinerarios | público | Scrape → `pgt-web/src/content/` |
 | **pgt-web JSON** | GitHub pgt-web | Runtime SSG: 69+455+62 archivos | dev | Sí |
 | **Drive marketing** | [Carpeta Drive](https://drive.google.com/drive/folders/1-1wEMq2qox3D0jrs4uY1XQz-3sqbTW9z) | Calendarios, keywords, OTAs, leads | marketing@ | Parcial — ver `02-empresa/DRIVE-INVENTARIO.md` |
-| **OTAS · Precios productos** | Drive (Ventas) | Precios reales, márgenes, OTAs | Lizet/Ops | **NO exportado — P0** |
+| **OTAS · Precios productos** | Drive (Ventas) | Precios reales, márgenes, OTAs | Lizet/Ops | **Pendiente export** — ver `04-producto/datos/precios-otas/` |
+| **Snapshot precios web** | Script | 70 tours scrapeados | dev | `precios-web-snapshot-latest.csv` ✅ |
 | **Informe palabras claves 2026** | Drive | Keywords anual | SEO | No |
 | **Estudio intención búsqueda tours** | Drive | Competencia + intención | SEO | No |
 | **GSC / GA4** | Google | Tráfico, consultas, WA users | Jairo | CSVs en `03-seo/datos/` |
