@@ -91,6 +91,25 @@ No escribas contraseñas.
 - Hallazgo: Drupal `/product/9` = Salkantay; blog Things MP 404 en staging; cart sin WA
 - Pendiente humano: WhatsApp Einel/Ricardo, export GSC, enviar plan Clever
 
+## 29 ago 2026 — día 5 (sáb)
+
+**Contexto:** Lunes arranca migración Drupal EN; Einer capacita tours → blogs.
+
+- Plan personal 30 días → S/ 5.000: `mi-carrera/PLAN-30-DIAS-5000.md`
+- Sprint sáb 9–12: `01-situacion/SABADO-29-SPRINT.md`
+- Staging delta 29 ago: home OK; tours `/product/N`; blog Things MP **404**; blogs demo nuevos slugs — `DRUPAL-STAGING-REVISION-2026-08-29.md`
+- Reframe: trabajo Things MP WP = **plantilla SEO migración**, no trabajo perdido
+- Script validador URLs: `03-seo/scripts/check-urls.sh`
+- CRM: no construir mes 1; medición WA primero (`CRM-PGT-Y-VECTORIFY.md`)
+
+## 1 sep 2026 — día 6 (lun) · migración arranca
+
+- Einer da accesos Drupal individuales + carpeta assets ordenada — oral Jairo
+- Capacitación Drupal → **Ricardo** (admin futuro), no solo Jairo
+- Clever/experimento: **4 personas** aplican su estrategia; comparar resultados
+- Estrategia Jairo: Pista A Drupal QA + Pista B POC código — `mi-carrera/EXPERIMENTO-4-ESTRATEGIA-JAIRO.md`
+- Automatización: QA/scripts, no migración manual completa — `MIGRACION-AUTOMATIZACION.md`
+
 **Accesos (diseño, sin implementar)**
 
 - Excel/Sheet de contraseñas = legacy; no es buena práctica como fuente de secretos

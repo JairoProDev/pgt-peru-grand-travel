@@ -73,4 +73,8 @@ Formato: `- AAAA-MM-DD — hecho — fuente`
 - `site:` en Bing aún muestra title/meta **viejos** (cache motor) — normal; no repetir solicitud
 - Google `site:` Things MP = **0 resultados** (incógnito) — alineado con Inspección “no reconoce”; live OK: 200, `index,follow`, `<title>` nuevo 12 Things… — curl 28 ago 23:51 UTC
 - Sáb 29: `site:www.perugrandtravel.com "things to do in machu picchu"` muestra `/blog/things-to-do-in-machu-picchu/` con title **12 Things to Do in Machu Picchu (2026)** + duplicado `/Home/Cusco` title viejo — captura Jairo
+- Lunes 1 sep: arranca migración Drupal EN (tours primero, blogs después) — Einer capacita — oral Jairo
+- Staging 29 ago: home OK en `147.135.114.64`; tours `/product/N`; Things MP blog **404**; sin WA en tour — curl
+- 1 sep: Einer accesos Drupal + assets; capacitación Drupal → Ricardo; experimento 4 estrategias SEO — Jairo
+- Inventario sitemap WP EN 1 sep: **69 tours, 452 blogs, 62 pages, 6 tour-categories** — script export-wp-sitemap-inventory.sh
 

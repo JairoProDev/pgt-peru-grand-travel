@@ -1,0 +1,11 @@
+# WP live tracking audit — perugrandtravel.com homepage
+# Generated: 2026-08-31
+
+GTM: GTM-K8SZBJM5, GTM-NNSPKMFM
+GA: g-300x214, g-adventure, g-auto, g-bottom, g-code, g-container, g-dropdown, g-full, g-function, g-group, g-large, g-left, g-locale, g-logo, g-o, g-partners, g-right, g-script, g-style, g-text
+GTM script: googletagmanager
+dataLayer: dataLayer, datalayer
+WA number: 51946622318
+WA plugin: Click to Chat, chat:, click-to-chat, ht-ctc
+Meta Pixel: facebook.net
+Reviews widget: Tripadvisor, Trustindex, tripadvisor, trustindex

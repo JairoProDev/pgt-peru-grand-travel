@@ -1,0 +1,42 @@
+{
+  "home": {
+    "title": "Peru Travel Agency &amp; Tour Company | Peru Grand Travel",
+    "meta_description": "Peru Grand Travel is a Peru travel agency and tour company offering tours to Machu Picchu, Cusco, Lima, Puno, Arequipa and beyond.",
+    "canonical": "https://www.perugrandtravel.com/",
+    "og_title": "Peru Travel Agency &amp; Tour Company | Peru Grand Travel",
+    "h1": "",
+    "robots": "",
+    "url": "https://www.perugrandtravel.com/",
+    "json_ld_blocks": 1
+  },
+  "packages": {
+    "title": "Peru Travel Packages 2026 - Customized Tours &amp; Machu Picchu",
+    "meta_description": "Peru travel packages with hotels, transfers and guided tours. Visit Machu Picchu, Cusco, Lima and the Amazon on a personalized journey.",
+    "canonical": "https://www.perugrandtravel.com/packages/",
+    "og_title": "Peru Travel Packages 2026 - Customized Tours &amp; Machu Picchu",
+    "h1": "",
+    "robots": "",
+    "url": "https://www.perugrandtravel.com/packages/",
+    "json_ld_blocks": 1
+  },
+  "tour_salkantay": {
+    "title": "5-Day Salkantay Sky Camp Trek to Machu Picchu",
+    "meta_description": "Hike the Salkantay Trek to Machu Picchu in 5 days with Sky Camp accommodation, breathtaking scenery, and unforgettable adventure experiences.",
+    "canonical": "https://www.perugrandtravel.com/tour/the-classic-salkantay-trek-5d/",
+    "og_title": "5-Day Salkantay Sky Camp Trek to Machu Picchu",
+    "h1": "Salkantay SKY Trek 5 days",
+    "robots": "",
+    "url": "https://www.perugrandtravel.com/tour/the-classic-salkantay-trek-5d/",
+    "json_ld_blocks": 2
+  },
+  "blog_things_mp": {
+    "title": "12 Things to Do in Machu Picchu (2026 Guide)",
+    "meta_description": "Things to do in Machu Picchu in 2026: sunrise, Huayna Picchu hike, tickets &amp; how to get there. Local tips from Peru Grand Travel.",
+    "canonical": "https://www.perugrandtravel.com/blog/things-to-do-in-machu-picchu/",
+    "og_title": "12 Things to Do in Machu Picchu (2026 Guide)",
+    "h1": "12 Things to Do in Machu Picchu (2026)",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "url": "https://www.perugrandtravel.com/blog/things-to-do-in-machu-picchu/",
+    "json_ld_blocks": 1
+  }
+}

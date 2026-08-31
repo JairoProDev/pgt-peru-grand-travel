@@ -1,0 +1,12 @@
+{
+  "url": "http://127.0.0.1:3000/tour/the-classic-salkantay-trek-5d/",
+  "date": "2026-08-31",
+  "scores": {
+    "performance": 100,
+    "accessibility": 96,
+    "best-practices": 100,
+    "seo": 100
+  },
+  "lcp": "1.5\u00a0s",
+  "fcp": "0.8\u00a0s"
+}

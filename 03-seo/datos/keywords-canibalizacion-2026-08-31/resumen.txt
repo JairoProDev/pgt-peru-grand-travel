@@ -1,0 +1,38 @@
+Peru Grand Travel — Inventario de URLs, keywords y canibalización
+Fuentes: exports WordPress del 24-08-2026 · Search Console del sitio completo (25-08-2026) para tours y páginas · Search Console /blog/ (24-08-2026) para el blog · ambos, últimos 16 meses. Las URLs de la inyección de spam quedan fuera de todos los totales.
+Inventario | None | None
+Blogs | 454 | Post type "post". Todas las URLs actuales van sin categoría; la columna C de la hoja Blogs reconstruye la URL con categoría.
+Tours | 73 | Post type "tour", bajo /tour/{slug}/.
+Páginas | 69 | Post type "page", incluye borradores y privadas.
+Total de URLs inventariadas | 596 | None
+Rendimiento — Tours | None | None
+Clics | 251 | Search Console del sitio completo, últimos 16 meses. La hoja Tours va ordenada por clics de mayor a menor.
+Impresiones | 141659 | None
+CTR medio | 0.001771860595 | Clics / impresiones.
+Posición media ponderada | 31.36758632 | Ponderada por impresiones.
+Tours con datos | 64 | De 73 fichas; el resto no registra impresiones en el periodo.
+Tours en top 10 | 3 | None
+Rendimiento — Páginas | None | None
+Clics | 12256 | Incluye la home (6.325 clics) y las páginas de destino bajo /peru/.
+Impresiones | 1699493 | None
+CTR medio | 0.007211562507 | None
+Posición media ponderada | 19.04966754 | None
+Páginas con datos | 50 | De 69 páginas.
+Páginas en top 10 | 12 | None
+Rendimiento — Blog | None | None
+Clics | 20649 | Export de GSC filtrado a /blog/ (24-08-2026), que baja más profundo en la cola larga que el del sitio completo.
+Impresiones | 4805646 | None
+CTR medio | 0.004296820864 | None
+Posición media ponderada | 14.94575712 | Refleja dónde se posiciona el tráfico real, no el promedio simple de 454 URLs.
+Blogs en top 10 | 134 | None
+Blogs sin datos en GSC | 32 | Artículos recientes o sin impresiones registradas.
+Hallazgos | None | None
+Grupos con canibalización | 54.0 | Ver hoja Canibalización: 1 fila por URL, agrupadas y ordenadas por impresiones.
+URLs implicadas | 104.0 | None
+URLs de spam excluidas | 24.0 | Inyección de apuestas y juegos en /vip/ y /apps/ (24 clics). Excluidas de todos los totales de este libro. Ver hoja Spam para el plan de limpieza.
+URLs indexadas sin ficha | 40.0 | Ver hoja "URLs sin ficha": candidatas a 404 tras la migración más archivos de taxonomía.
+Blogs sin keyword declarada | 0 | Sin focus keyword en Rank Math: marcados en rojo en la hoja Blogs.
+Cómo se reconstruyó la URL con categoría | None | None
+La migración dejó las URLs del blog en /blog/{slug}/. Search Console sigue reportando la estructura anterior /blog/{categoría}/{slug}/, así que la columna C de la hoja Blogs recompone esa URL para poder cruzar las métricas y servir de mapa de redirecciones.
+422 de 454 artículos (93%) toman la categoría directamente de la URL que GSC tiene indexada — dato real, no supuesto. 31 la toman de la categoría principal marcada en Rank Math y 1 de su única categoría asignada. La columna F indica el origen en cada fila.
+La correspondencia se validó cruzando ambas fuentes en los 422 casos con dato real: 0 discrepancias entre la categoría principal de Rank Math y la categoría de la URL indexada.
