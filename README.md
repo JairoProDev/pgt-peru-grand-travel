@@ -7,7 +7,7 @@ Repo privado: [https://github.com/JairoProDev/pgt-peru-grand-travel](https://git
 
 | Zona                         | Carpetas                                                                  | Para qué                                             |
 | ---------------------------- | ------------------------------------------------------------------------- | ---------------------------------------------------- |
-| **Trabajo PGT**              | `01-situacion`, `02-empresa`, `03-seo`…`09-herramientas`, `conocimiento/` | Empresa, SEO, leads, marca, stack                    |
+| **Trabajo PGT**              | `01-situacion`, `02-empresa`, `03-seo`…`09-herramientas`, `04-producto/`, `conocimiento/` | Empresa, SEO, leads, marca, catálogo tours, stack |
 | **Tu carrera / negociación** | `mi-carrera/`, `07-negociacion/`                                          | Sueldo, híbrido, aprendizaje, cómo compartir accesos |
 
 
