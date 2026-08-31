@@ -4,8 +4,9 @@ Centro de verdad **humana + analítica** para tours, paquetes, destinos y precio
 
 | Documento | Para qué |
 |-----------|----------|
-| [CATALOGO-MAESTRO.md](./CATALOGO-MAESTRO.md) | Inventario 69 tours, taxonomías, gaps, responsables |
+| [CATALOGO-MAESTRO.md](./CATALOGO-MAESTRO.md) | 73 fichas Sheet, 69 sitemap, taxonomías, gaps |
 | [FUENTES-DATOS.md](./FUENTES-DATOS.md) | Matriz Drive / Sheet / WP / web / mente vendedores |
+| [RECONCILIACION-INVENTARIO.md](./RECONCILIACION-INVENTARIO.md) | **73 tours / 454 blogs** — Sheet vs sitemap vs web |
 | [REPO-VS-CMS.md](./REPO-VS-CMS.md) | Qué vive en git vs Payload vs Drive |
 | [datos/catalogo-maestro-2026-08-31/](./datos/catalogo-maestro-2026-08-31/) | CSV exportado (regenerar con script) |
 

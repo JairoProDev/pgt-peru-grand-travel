@@ -1,171 +1,100 @@
-# Insights — Keywords, URLs y canibalización (31 ago 2026)
+# Insights — URLs Keywords Canibalización
 
-**Periodo GSC:** últimos **16 meses** (no 28 días — cifras más grandes que línea base agosto).
+**Generado:** 2026-08-31 · **Herramienta:** pandas + openpyxl
 
----
+## Totales
 
-## Verdad #1: El blog trae el tráfico, no los tours
+- **Blogs:** 454.0
+- **Tours:** 73.0
+- **Páginas:** 69.0
+- **Clics:** 20649.0
+- **CTR medio:** 0.001771860595
+- **Tours con datos:** 64.0
+- **Tours en top 10:** 3.0
+- **Páginas con datos:** 50.0
+- **Páginas en top 10:** 12.0
+- **Blogs en top 10:** 134.0
+- **Blogs sin datos en GSC:** 32.0
+- **Blogs sin keyword declarada:** 0.0
 
-| Tipo | URLs | Clics GSC (16m) | % del tráfico contenido |
+## Top Blogs
+
+| URL / Query | Clics | Imp | CTR |
 |---|---:|---:|---:|
-| **Blog** | 454 | **20.649** | **~63%** |
-| **Páginas** | 69 | **12.256** | **~37%** |
-| **Tours** | 73 | **251** | **~0,8%** |
+| https://www.perugrandtravel.com/blog/what-to-wear-to-machu-picchu/ | 3539.0 | 144343.0 | 2.45% |
+| https://www.perugrandtravel.com/blog/coca-tea/ | 1360.0 | 246305.0 | 0.55% |
+| https://www.perugrandtravel.com/blog/day-of-the-saints-and-dead/ | 873.0 | 73014.0 | 1.20% |
+| https://www.perugrandtravel.com/blog/hot-springs-in-aguas-calientes/ | 796.0 | 111674.0 | 0.71% |
+| https://www.perugrandtravel.com/blog/altitude-sickness-peru/ | 750.0 | 31776.0 | 2.36% |
+| https://www.perugrandtravel.com/blog/catacombs-of-lima/ | 487.0 | 109662.0 | 0.44% |
+| https://www.perugrandtravel.com/blog/carnival-in-lima-2026/ | 405.0 | 39124.0 | 1.04% |
+| https://www.perugrandtravel.com/blog/the-best-things-to-do-in-huaraz/ | 356.0 | 59619.0 | 0.60% |
+| https://www.perugrandtravel.com/blog/machu-picchu-circuit-2/ | 341.0 | 32961.0 | 1.03% |
+| https://www.perugrandtravel.com/blog/discover-inca-hydraulic-engineering-a-maste | 339.0 | 70437.0 | 0.48% |
 
-**Implicación greenfield:**
-- Priorizar **velocidad + CTA en blogs** (no solo tour pages)
-- Tours = conversión directa (ads, hubs) más que SEO orgánico masivo
-- Un sitio “solo bonito en tours” **no aprovecha** el 63% del tráfico
+## Top Tours
 
----
-
-## Verdad #2: Home y hubs son el dinero orgánico + ads
-
-| Página | Clics (16m) | Impresiones | CTR |
+| URL / Query | Clics | Imp | CTR |
 |---|---:|---:|---:|
-| **Home** | 6.325 | 158.728 | 4,0% |
-| **/machu-picchu-packages/** | 2.361 | 363.994 | 0,65% |
-| **/packages/** | 757 | 278.047 | 0,27% |
-| Costa Verde (destino) | 451 | 212.839 | 0,21% |
+| https://www.perugrandtravel.com/tour/colonial-lima-huacachina-and-sacred-land-of | 33.0 | 4564.0 | 0.72% |
+| https://www.perugrandtravel.com/tour/andean-wedding-full-day/ | 24.0 | 4112.0 | 0.58% |
+| https://www.perugrandtravel.com/tour/peru-grand-deluxe-by-belmond-andean-explore | 23.0 | 19333.0 | 0.12% |
+| https://www.perugrandtravel.com/tour/condor-canyon-cusco-full-day/ | 19.0 | 1368.0 | 1.39% |
+| https://www.perugrandtravel.com/tour/trek-humantay-salkantay-2d/ | 12.0 | 3008.0 | 0.40% |
+| https://www.perugrandtravel.com/tour/short-inca-trail-with-amazon-rainforest-8d/ | 9.0 | 1573.0 | 0.57% |
+| https://www.perugrandtravel.com/tour/grand-deluxe-cusco-machu-picchu-by-luxury-c | 8.0 | 999.0 | 0.80% |
+| https://www.perugrandtravel.com/tour/hidden-treasures-huaraz-17d/ | 8.0 | 842.0 | 0.95% |
+| https://www.perugrandtravel.com/tour/atv-rainbow-mountain/ | 7.0 | 5927.0 | 0.12% |
+| https://www.perugrandtravel.com/tour/dome-piuray-lagoon/ | 7.0 | 1539.0 | 0.45% |
 
-Coincide con GA4 WA: packages + machu-picchu = top conversión.
+## Top Pages
 
-**Implicación:** MVP greenfield **no puede** ser solo tour — home + packages son P0.
-
----
-
-## Verdad #3: Things MP es el mayor desperdicio de impresiones
-
-| URL | Clics | Impresiones | CTR | Posición |
-|---|---:|---:|---:|---:|
-| `/blog/things-to-do-in-machu-picchu/` | **1** | **6.115** | **0,016%** | ~5,8 |
-
-6.115 impresiones casi gratis — **1 clic**. Tu optimización CTR es correcta y urgente.
-
-**Otros blogs alto volumen / bajo CTR** (candidatos optimización):
-
-| Blog | Clics | Impresiones | CTR |
+| URL / Query | Clics | Imp | CTR |
 |---|---:|---:|---:|
-| animals of peru | 296 | 199.812 | 0,15% |
-| Huacachina (canónica) | 111 | 64.276 | 0,17% |
-| Virgin Candelaria | 190 | 79.996 | 0,24% |
+| https://www.perugrandtravel.com/ | 6325.0 | 158728.0 | 3.98% |
+| https://www.perugrandtravel.com/machu-picchu-packages/ | 2361.0 | 363994.0 | 0.65% |
+| https://www.perugrandtravel.com/packages/ | 757.0 | 278047.0 | 0.27% |
+| https://www.perugrandtravel.com/peru/lima/natural-attractions/costa-verde/ | 451.0 | 212839.0 | 0.21% |
+| https://www.perugrandtravel.com/peru/lima/churches-and-convents/basilica-cathedr | 399.0 | 52852.0 | 0.75% |
+| https://www.perugrandtravel.com/peru/lima/squares-and-parks/parque-del-amor/ | 345.0 | 70712.0 | 0.49% |
+| https://www.perugrandtravel.com/peru/lima/churches-and-convents/basilica-and-con | 292.0 | 27873.0 | 1.05% |
+| https://www.perugrandtravel.com/peru/lima/churches-and-convents/basilica-and-con | 204.0 | 36848.0 | 0.55% |
+| https://www.perugrandtravel.com/peru/lima/museums/national-museum-of-archaeology | 161.0 | 24203.0 | 0.67% |
+| https://www.perugrandtravel.com/peru/lima/churches-and-convents/convent-of-our-l | 156.0 | 20025.0 | 0.78% |
 
----
+## Low Ctr High Imp
 
-## Verdad #4: Top blogs que SÍ funcionan (modelo a copiar)
+| URL / Query | Clics | Imp | CTR |
+|---|---:|---:|---:|
+| https://www.perugrandtravel.com/blog/animals-of-peru/ | 296.0 | 199812.0 | 0.15% |
+| https://www.perugrandtravel.com/blog/why-do-they-eat-guinea-pig-in-peru/ | 223.0 | 135676.0 | 0.16% |
+| https://www.perugrandtravel.com/blog/the-7-inca-temples/ | 286.0 | 113777.0 | 0.25% |
+| https://www.perugrandtravel.com/blog/geoglyphs-and-petroglyphs/ | 217.0 | 112713.0 | 0.19% |
+| https://www.perugrandtravel.com/blog/catacombs-of-lima/ | 487.0 | 109662.0 | 0.44% |
+| https://www.perugrandtravel.com/blog/how-high-is-huaraz-peru/ | 141.0 | 108909.0 | 0.13% |
+| https://www.perugrandtravel.com/blog/south-american-camelids-similar-to-the-llam | 64.0 | 93529.0 | 0.07% |
+| https://www.perugrandtravel.com/blog/top-6-lima-parks/ | 47.0 | 90459.0 | 0.05% |
+| https://www.perugrandtravel.com/blog/guide-mountain-of-7-colors/ | 97.0 | 83902.0 | 0.12% |
+| https://www.perugrandtravel.com/blog/virgin-of-candelaria-2026/ | 190.0 | 79996.0 | 0.24% |
+| https://www.perugrandtravel.com/blog/chicha-of-jora/ | 158.0 | 79776.0 | 0.20% |
+| https://www.perugrandtravel.com/blog/peru-plug/ | 91.0 | 73405.0 | 0.12% |
+| https://www.perugrandtravel.com/blog/the-7-most-representative-species-of-peruvi | 63.0 | 71600.0 | 0.09% |
+| https://www.perugrandtravel.com/blog/discover-inca-hydraulic-engineering-a-maste | 339.0 | 70437.0 | 0.48% |
+| https://www.perugrandtravel.com/blog/legend-of-huacachina-ica/ | 111.0 | 64276.0 | 0.17% |
 
-| Blog | Clics | CTR | Keyword |
-|---|---:|---:|---|
-| What to wear Machu Picchu | **3.539** | **2,45%** | what to wear to machu picchu |
-| Coca tea | **1.360** | 0,55% | coca tea |
-| Day of saints and dead | 873 | 1,20% | day of the saints and dead |
-| Hot springs Aguas Calientes | 796 | 0,71% | Aguas Calientes |
-| Altitude sickness | 750 | 2,36% | altitude sickness peru |
-| Things to do Huaraz | 356 | 0,60% | things to do in huaraz |
+## Canibalización
 
-**Patrón:** pregunta concreta del viajero + título directo + CTR >0,5%.
+- **Grupos:** 54
 
----
-
-## Verdad #5: Tours — poco tráfico orgánico individual
-
-| Tour (top) | Clics (16m) |
-|---|---:|
-| Colonial Lima 9D | 33 |
-| Andean Wedding | 24 |
-| Belmond Explorer 10D | 23 |
-| Condor Canyon | 19 |
-
-Solo **3 tours en top 10 Google**. El catálogo tour es para **cerrar venta**, no para SEO masivo.
-
----
-
-## Canibalización — 54 grupos, 104 URLs
-
-Criterios: keyword principal idéntica, keywords compartidas, títulos ≥60% términos comunes.
-
-### Top grupos por impacto (impresiones)
-
-| Grupo | Keyword | Canónica | Imp total aprox |
-|---|---|---|---|
-| 1 | aguas calientes | hot-springs-in-aguas-calientes | ~114k |
-| 2 | virgin of candelaria | virgin-of-candelaria-2026 | ~98k |
-| 3 | huacachina | legend-of-huacachina-ica | ~85k |
-| 4 | things to do in huaraz | the-best-things-to-do-in-huaraz | ~61k |
-| 5 | things to do in machu picchu | things-to-do-in-machu-picchu | canibaliza con `/Home/Cusco` |
-
-**Acción greenfield:** implementar `redirects-blog-301.csv` (454 reglas) + fusionar canónicas del Excel.
-
----
-
-## Spam — 24 URLs excluidas
-
-Inyección portugués en `/vip/` y `/apps/` (apuestas). **24 clics residuales.**  
-**Acción:** 410/301 a home + bloqueo en GSC + WAF. No migrar.
-
----
-
-## URLs sin ficha — 40 indexadas
-
-Mezcla de:
-- URLs categoría blog sin post (`/blog/peru/where-to-buy-peruvian-pisco-2026` sin slash)
-- Taxonomías (`/tour-category/`, `/travel-styles/`)
-- Índice `/blog`
-
-**Acción:** revisar `urls-sin-ficha.csv` — cada una necesita 301 o página real en greenfield.
-
----
-
-## Mapa redirect blog (crítico para pgt-web)
-
-- **454 filas** en `redirects-blog-301.csv`
-- Formato: `URL con categoría` → `URL limpia`
-- **93%** de categorías validadas contra GSC (0 discrepancias Rank Math vs URL indexada)
-
-```csv
-from,to,clics
-https://www.perugrandtravel.com/blog/cusco/things-to-do-in-machu-picchu/,https://www.perugrandtravel.com/blog/things-to-do-in-machu-picchu/,...
-```
-
----
-
-## Estrategia greenfield actualizada (prioridades)
-
-| Prioridad | Qué | Por qué |
-|---|---|---|
-| **P0** | Home + `/packages/` + `/machu-picchu-packages/` | Clics + ads + WA |
-| **P0** | `redirects-blog-301.csv` en `next.config` | 454 URLs duales |
-| **P1** | Top 20 blogs por clics | 63% del tráfico |
-| **P1** | Things MP + blogs alto imp/bajo CTR | Quick wins CTR |
-| **P1** | 54 grupos canibalización | Consolidar autoridad |
-| **P2** | 73 tours (catálogo completo) | Conversión, no volumen SEO |
-| **P2** | Árbol `/peru/lima/...` | Destinos con impresiones |
-| **P3** | Spam cleanup | Higiene |
-
----
-
-## Contradicción resuelta: GSC 28d vs Excel 16m
-
-| Fuente | Periodo | Clics sitio |
-|---|---|---:|
-| Línea base ago (`GSC-LINEA-BASE`) | 28 días | 643 |
-| Este Excel (Resumen) | 16 meses | blog 20k + pages 12k + tours 251 |
-
-No se contradicen — periodos distintos. **Usar Excel para priorizar URLs; usar GSC 28d para tendencia semanal.**
-
----
-
-## Qué copiar a pgt-web (otro chat)
-
-```
-@/home/jairoprodev/proyectos/pgt/03-seo/datos/keywords-canibalizacion-2026-08-31/README.md
-@/home/jairoprodev/proyectos/pgt/03-seo/datos/keywords-canibalizacion-2026-08-31/INSIGHTS.md
-@/home/jairoprodev/proyectos/pgt/03-seo/datos/keywords-canibalizacion-2026-08-31/redirects-blog-301.csv
-@/home/jairoprodev/proyectos/pgt/03-seo/datos/keywords-canibalizacion-2026-08-31/tours.csv
-@/home/jairoprodev/proyectos/pgt/03-seo/datos/keywords-canibalizacion-2026-08-31/blogs.csv
-@/home/jairoprodev/proyectos/pgt/03-seo/datos/keywords-canibalizacion-2026-08-31/paginas.csv
-```
-
----
-
-*Generado automáticamente desde Excel 31 ago 2026*
+| Grupo | Imp | Canónica |
+|---:|---|---|
+| aguas calientes | 114075 | https://www.perugrandtravel.com/blog/hot-springs-in-aguas-ca |
+| virgin of candelaria | 97998 | https://www.perugrandtravel.com/blog/virgin-of-candelaria-20 |
+| huacachina | 84815 | https://www.perugrandtravel.com/blog/legend-of-huacachina-ic |
+| things to do in huaraz | 61017 | https://www.perugrandtravel.com/blog/the-best-things-to-do-i |
+| things to do in ica | 52036 | https://www.perugrandtravel.com/blog/things-to-do-in-ica-per |
+| restaurants | 47977 | https://www.perugrandtravel.com/blog/best-restaurants-in-tru |
+| barranco | 47649 | https://www.perugrandtravel.com/blog/bridge-of-sighs-barranc |
+| festivals in peru | 47203 | https://www.perugrandtravel.com/blog/festivals-in-peru-2026/ |
+| lima | 38686 | https://www.perugrandtravel.com/blog/places-to-visit-in-the- |
+| how to get from lima to cusco | 36620 | https://www.perugrandtravel.com/blog/how-to-get-from-lima-cu |

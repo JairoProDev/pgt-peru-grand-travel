@@ -1,0 +1,201 @@
+{
+  "source": "/mnt/c/Users/jairo/Downloads/PGT_URLs_keywords_canibalizacion_2 (3).xlsx",
+  "sheets": {
+    "Resumen": {
+      "file": "resumen.txt",
+      "rows": 44
+    },
+    "Tours": {
+      "file": "tours.csv",
+      "rows": 73,
+      "columns": [
+        "Título",
+        "URL",
+        "Slug",
+        "Categoría de tour",
+        "Estilo de viaje",
+        "Etiquetas",
+        "Keyword principal",
+        "Keywords secundarias",
+        "Título SEO",
+        "Meta description",
+        "SEO score",
+        "Palabras",
+        "Publicado",
+        "Modificado",
+        "Estado",
+        "Clics",
+        "Impresiones",
+        "CTR",
+        "Posición",
+        "col_19",
+        "col_20"
+      ]
+    },
+    "Blogs": {
+      "file": "blogs.csv",
+      "rows": 454,
+      "columns": [
+        "Título",
+        "URL actual (limpia)",
+        "URL con categoría (antigua / indexada)",
+        "Slug",
+        "Categoría",
+        "Fuente de la categoría",
+        "Todas las categorías",
+        "Keyword principal",
+        "Keywords secundarias",
+        "Clics",
+        "Impresiones",
+        "CTR",
+        "Posición",
+        "SEO score",
+        "Palabras",
+        "Publicado",
+        "Modificado",
+        "Estado"
+      ]
+    },
+    "Paginas": {
+      "file": "paginas.csv",
+      "rows": 69,
+      "columns": [
+        "Título",
+        "URL",
+        "Slug",
+        "Keyword principal",
+        "Keywords secundarias",
+        "Título SEO",
+        "Meta description",
+        "Noindex",
+        "SEO score",
+        "Palabras",
+        "Publicado",
+        "Modificado",
+        "Estado",
+        "Clics",
+        "Impresiones",
+        "CTR",
+        "Posición"
+      ]
+    },
+    "Canibalizacion": {
+      "file": "canibalizacion.csv",
+      "rows": 117,
+      "columns": [
+        "#",
+        "Prioridad",
+        "Tipo de solapamiento",
+        "Keyword / términos en común",
+        "Título",
+        "URL actual",
+        "Categoría",
+        "Keyword principal",
+        "Clics",
+        "Impresiones",
+        "CTR",
+        "Posición",
+        "Palabras",
+        "Modificado",
+        "Acción sugerida"
+      ]
+    },
+    "Spam": {
+      "file": "spam.csv",
+      "rows": 30,
+      "columns": [
+        "URL de spam",
+        "Carpeta inyectada",
+        "Clics",
+        "Impresiones",
+        "CTR",
+        "Posición",
+        "Diagnóstico"
+      ]
+    },
+    "URLs sin ficha": {
+      "file": "urls-sin-ficha.csv",
+      "rows": 40,
+      "columns": [
+        "URL indexada (estructura antigua)",
+        "Clics",
+        "Impresiones",
+        "CTR",
+        "Posición",
+        "Diagnóstico"
+      ]
+    },
+    "Consultas sitio": {
+      "file": "consultas-sitio.csv",
+      "rows": 1000,
+      "columns": [
+        "Consulta",
+        "Clics",
+        "Impresiones",
+        "CTR",
+        "Posición"
+      ]
+    },
+    "Consultas blog": {
+      "file": "consultas-blog.csv",
+      "rows": 1000,
+      "columns": [
+        "Consulta",
+        "Clics",
+        "Impresiones",
+        "CTR",
+        "Posición"
+      ]
+    },
+    "blogs jairo (hoja temporal para": {
+      "file": "blogs-jairo-hoja-temporal-para.csv",
+      "rows": 115,
+      "columns": [
+        "Título",
+        "URL actual (limpia)",
+        "URL con categoría (antigua / indexada)",
+        "Slug",
+        "Categoría",
+        "Fuente de la categoría",
+        "Todas las categorías",
+        "Keyword principal",
+        "Keywords secundarias",
+        "Clics",
+        "Impresiones",
+        "CTR",
+        "Posición",
+        "SEO score",
+        "Palabras",
+        "Publicado",
+        "Modificado",
+        "Estado"
+      ]
+    },
+    "tours jairo (hoja temporal para": {
+      "file": "tours-jairo-hoja-temporal-para.csv",
+      "rows": 18,
+      "columns": [
+        "Título",
+        "URL",
+        "Slug",
+        "Categoría de tour",
+        "Estilo de viaje",
+        "Etiquetas",
+        "Keyword principal",
+        "Keywords secundarias",
+        "Título SEO",
+        "Meta description",
+        "SEO score",
+        "Palabras",
+        "Publicado",
+        "Modificado",
+        "Estado",
+        "Clics",
+        "Impresiones",
+        "CTR",
+        "Posición"
+      ]
+    }
+  },
+  "exported": "2026-08-31"
+}

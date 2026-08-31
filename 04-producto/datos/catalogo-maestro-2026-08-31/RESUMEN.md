@@ -2,30 +2,19 @@
 
 Generado por `pgt-web/scripts/build-catalogo-maestro.py`.
 
-## Totales
+## Totales (fuente Sheet = verdad SEO)
 
 | Métrica | Valor |
 |---------|-------|
-| Tours EN | 69 |
-| Con precio numérico | 55 |
-| Quote only (sin precio) | 14 |
-| Con itinerario (≥1 día) | 65 |
-| Con includes scrapeados | 69 |
-| En hub `/packages/` | 39 |
-| Duración corrupta | 17 |
+| **Fichas Sheet Excel** | **73** |
+| En sitemap WP (69) | 70 |
+| En web JSON | 71 |
+| Drafts en Sheet (no migrar) | 3 |
+| Con precio numérico | 56 |
+| Con includes scrapeados | 71 |
 
-## Por categoría WP
-
-- **(sin categoría)**: 25
-- **Day Tours in Cusco**: 10
-- **Tours in Peru**: 10
-- **Tours in Machu Picchu**: 9
-- **Alternative Inca Trail Treks**: 5
-- **Inca Trail Treks**: 5
-- **Best Selling Packages in Peru, Tours in Peru**: 3
-- **Best Selling Packages in Peru, Tours in Machu Picchu**: 2
+Ver `04-producto/RECONCILIACION-INVENTARIO.md` para 73 vs 69 vs 70.
 
 ## Archivos
 
-- `catalogo-tours.csv` — una fila por tour, merge Sheet SEO + JSON web
-- Ver `04-producto/CATALOGO-MAESTRO.md` para reglas y fuentes
+- `catalogo-tours.csv` — **73 filas** (una por ficha Sheet) + merge JSON web

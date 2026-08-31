@@ -9,7 +9,8 @@
 
 | Dimensión | Valor | Fuente |
 |-----------|-------|--------|
-| **Tours publicados EN** | **69** | WP sitemap + `pgt-web/src/content/tours/` |
+| **Tours publicados EN** | **69** | WP sitemap + `pgt-web` (cutover) |
+| **Fichas tour Sheet SEO** | **73** | Excel — incluye 3 drafts + 1 private extra |
 | **Categorías WP** | 6 | `03-seo/datos/inventario-sitemap-2026-08-31/tour-categories.txt` |
 | **Estilos de viaje** | 5 | Sheet keywords (`Trekking`, `Traditional`, `Adrenaline`, `Combined Travel`, `Culture`) |
 | **Hub principal** | 39 tours en `/packages/` | `packages.json` → `tourSlugs` |
@@ -102,7 +103,7 @@
 ## Discrepancias conocidas
 
 1. **Precio Salkantay:** WP $731 vs Drupal staging $590 — documentado en `03-seo/guias/MIGRACION-SEO-CAMPO-A-CAMPO.md`. Web scrape: **$731**.
-2. **Sheet 73 filas vs sitemap 69 tours** — 4 filas extra (revisar duplicados o drafts).
+2. **Sheet 73 filas vs sitemap 69 tours** — explicado en `RECONCILIACION-INVENTARIO.md`: 3 drafts + 1 private (`challenge-of-the-incas-15d`).
 3. **Categorías/tags en JSON web vacías** — existen en Sheet, no en scrape.
 4. **Imágenes** — 100% hotlink WP; cutover requiere `npm run backup:images`.
 5. **3 blogs extra** en web no en inventario sitemap (stubs débiles).

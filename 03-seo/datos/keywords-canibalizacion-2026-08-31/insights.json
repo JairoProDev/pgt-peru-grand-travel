@@ -1,210 +1,380 @@
 {
   "redirects_blog": 454,
-  "top5_tours": [
-    {
-      "url": "https://www.perugrandtravel.com/tour/colonial-lima-huacachina-and-sacred-land-of-the-incas-9-days/",
-      "title": "Colonial Lima, Huacachina, and Sacred Land of the Incas 9D/8N",
-      "clics": 33.0,
-      "imp": 4564.0,
-      "kw": "peru itinerary 9 days"
-    },
-    {
-      "url": "https://www.perugrandtravel.com/tour/andean-wedding-full-day/",
-      "title": "Andean Wedding full day",
-      "clics": 24.0,
-      "imp": 4112.0,
-      "kw": "Andean Wedding"
-    },
-    {
-      "url": "https://www.perugrandtravel.com/tour/peru-grand-deluxe-by-belmond-andean-explorer-10-days/",
-      "title": "Peru Grand Deluxe by Belmond Andean Explorer 10 days",
-      "clics": 23.0,
-      "imp": 19333.0,
-      "kw": "Belmond Andean Explorer"
-    },
-    {
-      "url": "https://www.perugrandtravel.com/tour/condor-canyon-cusco-full-day/",
-      "title": "The Condor Canyon in Cusco",
-      "clics": 19.0,
-      "imp": 1368.0,
-      "kw": "chonta canyon"
-    },
-    {
-      "url": "https://www.perugrandtravel.com/tour/trek-humantay-salkantay-2d/",
-      "title": "Trek Humantay Lake & Salkantay Pass 2 Days",
-      "clics": 12.0,
-      "imp": 3008.0,
-      "kw": "Humantay Lake trek"
-    }
-  ],
-  "top5_blogs": [
+  "canibalizacion": {
+    "grupos": 54,
+    "top10": [
+      {
+        "grupo": 1,
+        "urls": 2,
+        "impresiones": 114075,
+        "clics": 806,
+        "canonica": "https://www.perugrandtravel.com/blog/hot-springs-in-aguas-calientes/",
+        "keyword": "aguas calientes"
+      },
+      {
+        "grupo": 2,
+        "urls": 2,
+        "impresiones": 97998,
+        "clics": 209,
+        "canonica": "https://www.perugrandtravel.com/blog/virgin-of-candelaria-2026/",
+        "keyword": "virgin of candelaria"
+      },
+      {
+        "grupo": 3,
+        "urls": 2,
+        "impresiones": 84815,
+        "clics": 122,
+        "canonica": "https://www.perugrandtravel.com/blog/legend-of-huacachina-ica/",
+        "keyword": "huacachina"
+      },
+      {
+        "grupo": 4,
+        "urls": 2,
+        "impresiones": 61017,
+        "clics": 357,
+        "canonica": "https://www.perugrandtravel.com/blog/the-best-things-to-do-in-huaraz/",
+        "keyword": "things to do in huaraz"
+      },
+      {
+        "grupo": 5,
+        "urls": 2,
+        "impresiones": 52036,
+        "clics": 236,
+        "canonica": "https://www.perugrandtravel.com/blog/things-to-do-in-ica-peru/",
+        "keyword": "things to do in ica"
+      },
+      {
+        "grupo": 6,
+        "urls": 2,
+        "impresiones": 47977,
+        "clics": 69,
+        "canonica": "https://www.perugrandtravel.com/blog/best-restaurants-in-trujillo-peru/",
+        "keyword": "restaurants"
+      },
+      {
+        "grupo": 7,
+        "urls": 2,
+        "impresiones": 47649,
+        "clics": 177,
+        "canonica": "https://www.perugrandtravel.com/blog/bridge-of-sighs-barranco-lima/",
+        "keyword": "barranco"
+      },
+      {
+        "grupo": 8,
+        "urls": 2,
+        "impresiones": 47203,
+        "clics": 185,
+        "canonica": "https://www.perugrandtravel.com/blog/festivals-in-peru-2026/",
+        "keyword": "festivals in peru"
+      },
+      {
+        "grupo": 9,
+        "urls": 3,
+        "impresiones": 38686,
+        "clics": 80,
+        "canonica": "https://www.perugrandtravel.com/blog/places-to-visit-in-the-center-of-lima/",
+        "keyword": "lima"
+      },
+      {
+        "grupo": 10,
+        "urls": 2,
+        "impresiones": 36620,
+        "clics": 38,
+        "canonica": "https://www.perugrandtravel.com/blog/how-to-get-from-lima-cusco/",
+        "keyword": "how to get from lima to cusco"
+      }
+    ]
+  },
+  "top_blogs": [
     {
       "url": "https://www.perugrandtravel.com/blog/what-to-wear-to-machu-picchu/",
-      "title": "What to Wear to Machu Picchu: Essential Clothing and Packing Tips for Your Trip to Peru",
       "clics": 3539.0,
-      "imp": 144343.0,
-      "ctr": 0.0245179884026243,
-      "kw": "what to wear to machu picchu"
+      "impresiones": 144343.0,
+      "ctr": 0.0245179884026243
     },
     {
       "url": "https://www.perugrandtravel.com/blog/coca-tea/",
-      "title": "Coca Tea: The Andean Tradition Every Traveler to Peru Should Know",
       "clics": 1360.0,
-      "imp": 246305.0,
-      "ctr": 0.00552160938673596,
-      "kw": "coca tea"
+      "impresiones": 246305.0,
+      "ctr": 0.0055216093867359
     },
     {
       "url": "https://www.perugrandtravel.com/blog/day-of-the-saints-and-dead/",
-      "title": "What to Do on the Day of the Living and the Dead in Peru",
       "clics": 873.0,
-      "imp": 73014.0,
-      "ctr": 0.0119566110608924,
-      "kw": "day of the saints and dead"
+      "impresiones": 73014.0,
+      "ctr": 0.0119566110608924
     },
     {
       "url": "https://www.perugrandtravel.com/blog/hot-springs-in-aguas-calientes/",
-      "title": "Relax in the Hot Springs in Aguas Calientes",
       "clics": 796.0,
-      "imp": 111674.0,
-      "ctr": 0.00712789010870928,
-      "kw": "Aguas Calientes"
+      "impresiones": 111674.0,
+      "ctr": 0.0071278901087092
     },
     {
       "url": "https://www.perugrandtravel.com/blog/altitude-sickness-peru/",
-      "title": "Altitude Sickness in Peru: Causes, Tips &amp; What to Do",
       "clics": 750.0,
-      "imp": 31776.0,
-      "ctr": 0.0236027190332326,
-      "kw": "altitude sickness peru"
-    }
-  ],
-  "top5_pages": [
-    {
-      "url": "https://www.perugrandtravel.com/",
-      "title": "Home",
-      "clics": 6325.0,
-      "imp": 158728.0
-    },
-    {
-      "url": "https://www.perugrandtravel.com/machu-picchu-packages/",
-      "title": "Machu Picchu Vacation Packages and Tours",
-      "clics": 2361.0,
-      "imp": 363994.0
-    },
-    {
-      "url": "https://www.perugrandtravel.com/packages/",
-      "title": "Peru Packages",
-      "clics": 757.0,
-      "imp": 278047.0
-    },
-    {
-      "url": "https://www.perugrandtravel.com/peru/lima/natural-attractions/costa-verde/",
-      "title": "Costa Verde, Miraflores Boardwalk",
-      "clics": 451.0,
-      "imp": 212839.0
-    },
-    {
-      "url": "https://www.perugrandtravel.com/peru/lima/churches-and-convents/basilica-cathedral-of-lima/",
-      "title": "Basilica cathedral of Lima",
-      "clics": 399.0,
-      "imp": 52852.0
-    }
-  ],
-  "tours_total_clics": 251.0,
-  "blogs_total_clics": 20649.0,
-  "pages_total_clics": 12256.0,
-  "cannibal_groups": 0,
-  "things_mp": [
-    {
-      "url": "https://www.perugrandtravel.com/blog/things-to-do-in-machu-picchu/",
-      "title": "Things to Do in Machu Picchu 2026: All The Experiences You Should Know About",
-      "clics": 1.0,
-      "imp": 6115.0,
-      "ctr": 0.000163532297628782,
-      "kw": "Things to Do in Machu Picchu"
-    }
-  ],
-  "blogs_high_imp_low_ctr": [
-    {
-      "url": "https://www.perugrandtravel.com/blog/animals-of-peru/",
-      "title": "The Incredible Animals of Peru You Must Meet on Your Journey",
-      "clics": 296.0,
-      "imp": 199812.0,
-      "ctr": 0.00148139250895842,
-      "kw": "animals of peru"
-    },
-    {
-      "url": "https://www.perugrandtravel.com/blog/why-do-they-eat-guinea-pig-in-peru/",
-      "title": "Why Do People Eat Guinea Pig in Peru? Discover Here",
-      "clics": 223.0,
-      "imp": 135676.0,
-      "ctr": 0.00164362156903211,
-      "kw": "guinea pig in peru"
-    },
-    {
-      "url": "https://www.perugrandtravel.com/blog/the-7-inca-temples/",
-      "title": "¿What Were the 7 Inca Temples During the Inca Period?",
-      "clics": 286.0,
-      "imp": 113777.0,
-      "ctr": 0.0025136890584213,
-      "kw": "Inca Temples"
-    },
-    {
-      "url": "https://www.perugrandtravel.com/blog/geoglyphs-and-petroglyphs/",
-      "title": "Geoglyphs and Petroglyphs: The rock art of our ancestors",
-      "clics": 217.0,
-      "imp": 112713.0,
-      "ctr": 0.00192524376070196,
-      "kw": "geoglyphs and petroglyphs"
+      "impresiones": 31776.0,
+      "ctr": 0.0236027190332326
     },
     {
       "url": "https://www.perugrandtravel.com/blog/catacombs-of-lima/",
-      "title": "The Catacombs of Lima: Explore the Mystery Underground",
       "clics": 487.0,
-      "imp": 109662.0,
-      "ctr": 0.00444091845853623,
-      "kw": "Catacombs of Lima"
+      "impresiones": 109662.0,
+      "ctr": 0.0044409184585362
+    },
+    {
+      "url": "https://www.perugrandtravel.com/blog/carnival-in-lima-2026/",
+      "clics": 405.0,
+      "impresiones": 39124.0,
+      "ctr": 0.0103517022799305
+    },
+    {
+      "url": "https://www.perugrandtravel.com/blog/the-best-things-to-do-in-huaraz/",
+      "clics": 356.0,
+      "impresiones": 59619.0,
+      "ctr": 0.0059712507757594
+    },
+    {
+      "url": "https://www.perugrandtravel.com/blog/machu-picchu-circuit-2/",
+      "clics": 341.0,
+      "impresiones": 32961.0,
+      "ctr": 0.0103455599041291
+    },
+    {
+      "url": "https://www.perugrandtravel.com/blog/discover-inca-hydraulic-engineering-a-masterpiece-of-antiquity/",
+      "clics": 339.0,
+      "impresiones": 70437.0,
+      "ctr": 0.0048128114485284
+    }
+  ],
+  "top_tours": [
+    {
+      "url": "https://www.perugrandtravel.com/tour/colonial-lima-huacachina-and-sacred-land-of-the-incas-9-days/",
+      "clics": 33.0,
+      "impresiones": 4564.0,
+      "ctr": 0.0072304995617879
+    },
+    {
+      "url": "https://www.perugrandtravel.com/tour/andean-wedding-full-day/",
+      "clics": 24.0,
+      "impresiones": 4112.0,
+      "ctr": 0.0058365758754863
+    },
+    {
+      "url": "https://www.perugrandtravel.com/tour/peru-grand-deluxe-by-belmond-andean-explorer-10-days/",
+      "clics": 23.0,
+      "impresiones": 19333.0,
+      "ctr": 0.0011896756840635
+    },
+    {
+      "url": "https://www.perugrandtravel.com/tour/condor-canyon-cusco-full-day/",
+      "clics": 19.0,
+      "impresiones": 1368.0,
+      "ctr": 0.0138888888888889
+    },
+    {
+      "url": "https://www.perugrandtravel.com/tour/trek-humantay-salkantay-2d/",
+      "clics": 12.0,
+      "impresiones": 3008.0,
+      "ctr": 0.0039893617021276
+    },
+    {
+      "url": "https://www.perugrandtravel.com/tour/short-inca-trail-with-amazon-rainforest-8d/",
+      "clics": 9.0,
+      "impresiones": 1573.0,
+      "ctr": 0.0057215511760966
+    },
+    {
+      "url": "https://www.perugrandtravel.com/tour/grand-deluxe-cusco-machu-picchu-by-luxury-collection-hotels-5-days/",
+      "clics": 8.0,
+      "impresiones": 999.0,
+      "ctr": 0.008008008008008
+    },
+    {
+      "url": "https://www.perugrandtravel.com/tour/hidden-treasures-huaraz-17d/",
+      "clics": 8.0,
+      "impresiones": 842.0,
+      "ctr": 0.009501187648456
+    },
+    {
+      "url": "https://www.perugrandtravel.com/tour/atv-rainbow-mountain/",
+      "clics": 7.0,
+      "impresiones": 5927.0,
+      "ctr": 0.0011810359372363
+    },
+    {
+      "url": "https://www.perugrandtravel.com/tour/dome-piuray-lagoon/",
+      "clics": 7.0,
+      "impresiones": 1539.0,
+      "ctr": 0.0045484080571799
+    }
+  ],
+  "top_pages": [
+    {
+      "url": "https://www.perugrandtravel.com/",
+      "clics": 6325.0,
+      "impresiones": 158728.0,
+      "ctr": 0.0398480419333703
+    },
+    {
+      "url": "https://www.perugrandtravel.com/machu-picchu-packages/",
+      "clics": 2361.0,
+      "impresiones": 363994.0,
+      "ctr": 0.0064863706544613
+    },
+    {
+      "url": "https://www.perugrandtravel.com/packages/",
+      "clics": 757.0,
+      "impresiones": 278047.0,
+      "ctr": 0.0027225612935942
+    },
+    {
+      "url": "https://www.perugrandtravel.com/peru/lima/natural-attractions/costa-verde/",
+      "clics": 451.0,
+      "impresiones": 212839.0,
+      "ctr": 0.0021189725567212
+    },
+    {
+      "url": "https://www.perugrandtravel.com/peru/lima/churches-and-convents/basilica-cathedral-of-lima/",
+      "clics": 399.0,
+      "impresiones": 52852.0,
+      "ctr": 0.0075493831832286
+    },
+    {
+      "url": "https://www.perugrandtravel.com/peru/lima/squares-and-parks/parque-del-amor/",
+      "clics": 345.0,
+      "impresiones": 70712.0,
+      "ctr": 0.0048789455820794
+    },
+    {
+      "url": "https://www.perugrandtravel.com/peru/lima/churches-and-convents/basilica-and-convent-of-santo-domingo-lima/",
+      "clics": 292.0,
+      "impresiones": 27873.0,
+      "ctr": 0.0104760879704373
+    },
+    {
+      "url": "https://www.perugrandtravel.com/peru/lima/churches-and-convents/basilica-and-convent-of-san-francisco/",
+      "clics": 204.0,
+      "impresiones": 36848.0,
+      "ctr": 0.0055362570560139
+    },
+    {
+      "url": "https://www.perugrandtravel.com/peru/lima/museums/national-museum-of-archaeology-anthropology-and-history-of-peru/",
+      "clics": 161.0,
+      "impresiones": 24203.0,
+      "ctr": 0.0066520679254637
+    },
+    {
+      "url": "https://www.perugrandtravel.com/peru/lima/churches-and-convents/convent-of-our-lady-of-la-merced/",
+      "clics": 156.0,
+      "impresiones": 20025.0,
+      "ctr": 0.0077902621722846
+    }
+  ],
+  "low_ctr_high_imp": [
+    {
+      "url": "https://www.perugrandtravel.com/blog/animals-of-peru/",
+      "clics": 296.0,
+      "impresiones": 199812.0,
+      "ctr": 0.0014813925089584
+    },
+    {
+      "url": "https://www.perugrandtravel.com/blog/why-do-they-eat-guinea-pig-in-peru/",
+      "clics": 223.0,
+      "impresiones": 135676.0,
+      "ctr": 0.0016436215690321
+    },
+    {
+      "url": "https://www.perugrandtravel.com/blog/the-7-inca-temples/",
+      "clics": 286.0,
+      "impresiones": 113777.0,
+      "ctr": 0.0025136890584213
+    },
+    {
+      "url": "https://www.perugrandtravel.com/blog/geoglyphs-and-petroglyphs/",
+      "clics": 217.0,
+      "impresiones": 112713.0,
+      "ctr": 0.0019252437607019
+    },
+    {
+      "url": "https://www.perugrandtravel.com/blog/catacombs-of-lima/",
+      "clics": 487.0,
+      "impresiones": 109662.0,
+      "ctr": 0.0044409184585362
     },
     {
       "url": "https://www.perugrandtravel.com/blog/how-high-is-huaraz-peru/",
-      "title": "How High Is Huaraz Peru? Altitude, Acclimatization Tips, and What Travelers Should Know",
       "clics": 141.0,
-      "imp": 108909.0,
-      "ctr": 0.00129465884362174,
-      "kw": "how high is Huaraz Peru"
+      "impresiones": 108909.0,
+      "ctr": 0.0012946588436217
     },
     {
       "url": "https://www.perugrandtravel.com/blog/south-american-camelids-similar-to-the-llama/",
-      "title": "4 Camelídeos Sul-Americanos Majestosos: O Guia Definitivo",
       "clics": 64.0,
-      "imp": 93529.0,
-      "ctr": 0.000684279742112072,
-      "kw": "South American camelids"
+      "impresiones": 93529.0,
+      "ctr": 0.000684279742112
     },
     {
       "url": "https://www.perugrandtravel.com/blog/top-6-lima-parks/",
-      "title": "The 6 Most Beautiful Lima Parks You Must Visit Now",
       "clics": 47.0,
-      "imp": 90459.0,
-      "ctr": 0.00051957240296709,
-      "kw": "lima parks"
+      "impresiones": 90459.0,
+      "ctr": 0.000519572402967
     },
     {
       "url": "https://www.perugrandtravel.com/blog/guide-mountain-of-7-colors/",
-      "title": "The Mountain of 7 Colors: Complete Guide 2024",
       "clics": 97.0,
-      "imp": 83902.0,
-      "ctr": 0.00115611070057925,
-      "kw": "Mountain"
+      "impresiones": 83902.0,
+      "ctr": 0.0011561107005792
     },
     {
       "url": "https://www.perugrandtravel.com/blog/virgin-of-candelaria-2026/",
-      "title": "The Virgin of Candelaria 2026: 11 Secrets of Peru’s Most Intense Cultural Feast",
       "clics": 190.0,
-      "imp": 79996.0,
-      "ctr": 0.0023751187559378,
-      "kw": "Virgin of Candelaria"
+      "impresiones": 79996.0,
+      "ctr": 0.0023751187559378
+    },
+    {
+      "url": "https://www.perugrandtravel.com/blog/chicha-of-jora/",
+      "clics": 158.0,
+      "impresiones": 79776.0,
+      "ctr": 0.0019805455274769
+    },
+    {
+      "url": "https://www.perugrandtravel.com/blog/peru-plug/",
+      "clics": 91.0,
+      "impresiones": 73405.0,
+      "ctr": 0.0012396975682855
+    },
+    {
+      "url": "https://www.perugrandtravel.com/blog/the-7-most-representative-species-of-peruvian-birds/",
+      "clics": 63.0,
+      "impresiones": 71600.0,
+      "ctr": 0.0008798882681564
+    },
+    {
+      "url": "https://www.perugrandtravel.com/blog/discover-inca-hydraulic-engineering-a-masterpiece-of-antiquity/",
+      "clics": 339.0,
+      "impresiones": 70437.0,
+      "ctr": 0.0048128114485284
+    },
+    {
+      "url": "https://www.perugrandtravel.com/blog/legend-of-huacachina-ica/",
+      "clics": 111.0,
+      "impresiones": 64276.0,
+      "ctr": 0.0017269276246188
     }
-  ]
+  ],
+  "totals": {
+    "Blogs": "454.0",
+    "Tours": "73.0",
+    "Páginas": "69.0",
+    "Clics": "20649.0",
+    "CTR medio": "0.001771860595",
+    "Tours con datos": "64.0",
+    "Tours en top 10": "3.0",
+    "Páginas con datos": "50.0",
+    "Páginas en top 10": "12.0",
+    "Blogs en top 10": "134.0",
+    "Blogs sin datos en GSC": "32.0",
+    "Blogs sin keyword declarada": "0.0"
+  }
 }
