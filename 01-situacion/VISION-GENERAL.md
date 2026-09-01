@@ -22,7 +22,7 @@ Migración WP → Drupal (en curso, VPS Ubuntu)
 | Lizet     | SEO + Google/Meta Ads    | Aliada paid ↔ orgánico                   |
 | Arely     | SEO ½ mañanas            | Par en bloques                           |
 | Jairo     | SEO/GEO, migración SEO   | Dueño bloque 3 tours / 4 blogs           |
-| **Einer** | Jefe marketing (mañanas) | Presentarte; no anunciar jefatura futura |
+| **Einel** | Jefe marketing (mañanas) | Presentarte; no anunciar jefatura futura |
 
 
 

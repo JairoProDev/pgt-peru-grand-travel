@@ -20,8 +20,8 @@ No escribas contraseñas.
 
 **Jefe marketing interino**
 
-- Nombre: **Einer** (solo mañanas) — confirmado 27 ago
-- Email: 	EinerEH@gmail.com
+- Nombre: **Einel** (solo mañanas) — confirmado 27 ago
+- Email: 	EinelEH@gmail.com
 - tiene permisos completos en GSC, supongo que él lo creo.
 - marketing@perugrandtravel.com tiene permisos de propietario verificado en GSC
 
@@ -63,14 +63,14 @@ No escribas contraseñas.
 - [ ] WhatsApp pacto 25 sep enviado: ____
 - [ ] Avisar NAS `linux_admin` a Ricardo
 - [ ] GSC línea base export
-- [x] Nombre del interino → **Einer**
+- [x] Nombre del interino → **Einel**
 
 ## 27 ago 2026 — día 3
 
 **Plan:** `03-seo/informes/2026-08-27-interno.md`
 
 - [ ] GSC export bloque
-- [ ] Saludo Einer (si está)
+- [ ] Saludo Einel (si está)
 - [ ] Ricardo: NAS + staging + huella
 - [ ] Lizet 15 min Ads
 - [ ] Plan Clever ≥80%
@@ -93,7 +93,7 @@ No escribas contraseñas.
 
 ## 29 ago 2026 — día 5 (sáb)
 
-**Contexto:** Lunes arranca migración Drupal EN; Einer capacita tours → blogs.
+**Contexto:** Lunes arranca migración Drupal EN; Einel capacita tours → blogs.
 
 - Plan personal 30 días → S/ 5.000: `mi-carrera/PLAN-30-DIAS-5000.md`
 - Sprint sáb 9–12: `01-situacion/SABADO-29-SPRINT.md`
@@ -104,7 +104,7 @@ No escribas contraseñas.
 
 ## 1 sep 2026 — día 6 (lun) · migración arranca
 
-- Einer da accesos Drupal individuales + carpeta assets ordenada — oral Jairo
+- Einel da accesos Drupal individuales + carpeta assets ordenada — oral Jairo
 - Capacitación Drupal → **Ricardo** (admin futuro), no solo Jairo
 - Clever/experimento: **4 personas** aplican su estrategia; comparar resultados
 - Estrategia Jairo: Pista A Drupal QA + Pista B POC código — `mi-carrera/EXPERIMENTO-4-ESTRATEGIA-JAIRO.md`
@@ -116,3 +116,19 @@ No escribas contraseñas.
 - Diseño: proceso (menos cuentas compartidas + offboarding) + Vaultwarden $0 → `02-empresa/GESTION-ACCESOS-DISENO.md`
 - Owner rotación hoy: Ricardo; ~20 personas; pitch pendiente a Ricardo/Clever
 - No construir app interna de passwords; no pegar secretos en chat/repo
+
+**Pack migración generado (agente + Jairo)**
+
+- CSV maestro 133 URLs: `drupal-sprint-jairo-2026-09-01/jairo-migracion-maestro.csv`
+- Export WP 18/18 tours JSON+MD: `wp-export-tours-jairo/manifest.json`
+- Clipboard SEO tours: `drupal-tour-seo-clipboard/TOURS-SEO-CLIPBOARD.md`
+- Mapa formulario Product + 101 capturas Drupal
+- Estimación tiempos: ~49 h bloque (+15 % buffer → ~56 h)
+- Exports GSC (15k filas) + GA4 (174 landings): `gsc-export-2026-09-01/`, `ga4-export-2026-09-01/`
+- Informe maestro semana 1: `mi-carrera/INFORME-MAESTRO-SEMANA1-JAIRO.md`
+
+**Pendiente humano día 6**
+
+- [ ] Migrar tour piloto Salkantay 5D en Drupal
+- [ ] 5 preguntas Einel (Pathauto, JSON:API, WA, blogs cuándo)
+- [ ] Marcar `estado_drupal` en CSV maestro

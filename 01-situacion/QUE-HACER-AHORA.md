@@ -1,23 +1,32 @@
-# Qué hacer ahora — lun 1 sep 2026
+# Qué hacer ahora — 1 sep 2026 (tarde)
 
-## HOY (orden)
+Actualizado tras integraciones Google + alias Vercel.
 
-1. **Accesos Drupal** — entrar, rol, carpeta assets
-2. **Leer** `08-investigacion/ESQUEMA-MIGRACION-MAESTRO.md` — biblia migración
-3. **Inventario** ya exportado: `03-seo/datos/inventario-sitemap-2026-08-31/` (69 tours · 452 blogs · 62 pages)
-4. **5 preguntas Einer** — slug, SEO fields, WA vs cart, REST/export, blogs cuándo
-5. **Piloto export:** `python3 03-seo/scripts/export-wp-content.py --type tour --limit 5`
-6. **Sheet maestro** — columnas §10 esquema → compartir cuarteto
-7. **Mensaje Ricardo** — alianza QA
+## P0 hoy / mañana
 
-## Medir leads (prioridad hoy)
+1. **GSC 3 dominios** — invitar SA a PT, ES, IT → `npm run sync:gsc`
+2. **Drive MCP** — login atendimento@ en Cursor (Fase 6 guía)
+3. **GTM** — tag `whatsapp_click` → GA4 (`pgt-web/docs/CUTOVER.md`)
+4. **Reportar** — `pgt-web/docs/REPORTE-AVANCE-JAIRO.md`
 
-Guía: `03-seo/guias/MEDIR-LEADS-WEB-ACTUAL.md`  
-GA4 propiedad EN `368486554` · GTM `GTM-K8SZBJM5` · WA plugin Click to Chat
+## Guía Google — continuar en
 
-## Docs clave
+`pgt-web/docs/GUIA-CONEXION-GOOGLE.md` → sección **▶ CONTINUAR AQUÍ**
 
-- `08-investigacion/ESQUEMA-MIGRACION-MAESTRO.md` ← **esquema completo**
-- `mi-carrera/EXPERIMENTO-4-ESTRATEGIA-JAIRO.md`
-- `03-seo/scripts/export-wp-sitemap-inventory.sh`
-- `03-seo/scripts/export-wp-content.py`
+## URLs
+
+| Uso | URL |
+|-----|-----|
+| Demo pgt-web | https://perugrandtravel.vercel.app |
+| Drupal staging | http://147.135.114.64 |
+
+## Roles
+
+| Quién | Qué |
+|-------|-----|
+| **Jairo** | pgt-web, integraciones, SEO técnico, cutover, reportes |
+| **Ricardo** | DNS, hosting, WP/Drupal, plugins |
+| **Lizet** | Ads + SEO contenido |
+| **Ventas/atendimento** | Tarifarios Drive, precios |
+
+Ver inventario completo: `pgt-web/docs/INVENTARIO-PLATAFORMAS.md`

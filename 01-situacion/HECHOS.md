@@ -33,7 +33,7 @@ Formato: `- AAAA-MM-DD — hecho — fuente`
 
 ## 2026-08-27 (día 3)
 
-- Jefe de marketing (mañanas) se llama **Einer** — Jairo
+- Jefe de marketing (mañanas) se llama **Einel** — Jairo
 - OMV dashboard: Ryzen 5 5600GT, 15 GiB RAM, `/dev/sda1` 3,58 TiB (~24% usado), SMB/NFS/File Browser ON; updates + reinicio pendiente — captura 14:04
 - Informes día 1–2–3 creados en `03-seo/informes/` — repo
 - **GSC perugrandtravel.com · 28 días:** 643 clics · 116 mil impresiones · CTR 0,6% · posición media 25,6 — Search Console 27 ago
@@ -43,9 +43,9 @@ Formato: `- AAAA-MM-DD — hecho — fuente`
 
 ## 2026-08-28 (día 4)
 
-- Hosting migración: **OVH VPS** IP `147.135.114.64` (no Banahosting para Drupal) — Einer
+- Hosting migración: **OVH VPS** IP `147.135.114.64` (no Banahosting para Drupal) — Einel
 - Staging Drupal **11** + Commerce (`anymerce`) + nginx Ubuntu — revisión agente 28 ago
-- Solo migrará **inglés** (`perugrandtravel.com`) en primera fase — Einer
+- Solo migrará **inglés** (`perugrandtravel.com`) en primera fase — Einel
 - Staging: home visual OK; blog real `/blog/things-to-do-in-machu-picchu/` → **404** — browser
 - URLs tours distintas a WP (ej. `/salkantay-trek-5d-4n` vs `/tour/the-classic-salkantay-trek-5d/`) — curl
 - Staging: sin WhatsApp visible; botones **Add to cart** — browser
@@ -73,8 +73,29 @@ Formato: `- AAAA-MM-DD — hecho — fuente`
 - `site:` en Bing aún muestra title/meta **viejos** (cache motor) — normal; no repetir solicitud
 - Google `site:` Things MP = **0 resultados** (incógnito) — alineado con Inspección “no reconoce”; live OK: 200, `index,follow`, `<title>` nuevo 12 Things… — curl 28 ago 23:51 UTC
 - Sáb 29: `site:www.perugrandtravel.com "things to do in machu picchu"` muestra `/blog/things-to-do-in-machu-picchu/` con title **12 Things to Do in Machu Picchu (2026)** + duplicado `/Home/Cusco` title viejo — captura Jairo
-- Lunes 1 sep: arranca migración Drupal EN (tours primero, blogs después) — Einer capacita — oral Jairo
+- Lunes 1 sep: arranca migración Drupal EN (tours primero, blogs después) — Einel capacita — oral Jairo
 - Staging 29 ago: home OK en `147.135.114.64`; tours `/product/N`; Things MP blog **404**; sin WA en tour — curl
-- 1 sep: Einer accesos Drupal + assets; capacitación Drupal → Ricardo; experimento 4 estrategias SEO — Jairo
+- 1 sep: Einel accesos Drupal + assets; capacitación Drupal → Ricardo; experimento 4 estrategias SEO — Jairo
 - Inventario sitemap WP EN 1 sep: **69 tours, 452 blogs, 62 pages, 6 tour-categories** — script export-wp-sitemap-inventory.sh
+
+## 2026-09-01 (día 6)
+
+- Admin Drupal products real: `/admin/anymerce/products` (no `/admin/commerce/products` → 404) — browser 1 sep
+- Staging: 26 products ya migrados por equipo; bloque Jairo 18 tours sin slug WP 1:1 — revisión 1 sep
+- JSON:API staging `/jsonapi` → **404** — curl 1 sep
+- Export WP 18 tours bloque Jairo → JSON+MD **18/18 OK** — `wp-export-tours-jairo/manifest.json`
+- WP REST tours: title/Yoast OK; body/tabs Tourmaster **no en REST** — script export 1 sep
+- CSV maestro migración 133 filas (18 tours + 115 blogs) — `jairo-migracion-maestro.csv`
+- Estimación migración bloque: ~49 h (+15 % buffer ~56 h) — `estimacion-tiempos-migracion-jairo.csv`
+- Export GSC automatizado: 15.101 filas queries×páginas — `gsc-export-2026-09-01/`
+- Export GA4 28d: 174 landing pages, 8 tipos evento — `ga4-export-2026-09-01/`
+- 101 capturas admin Drupal indexadas — `drupal-capturas-2026-09-01/`
+- Informe maestro semana 1 consolidado — `mi-carrera/INFORME-MAESTRO-SEMANA1-JAIRO.md`
+- GCP proyecto `theta-cell-499613-r8` + service account `pgt-cursor-agent@pgt-integrations` — integraciones 1 sep
+- GA4 API + GSC EN conectados; verify 5/7 — terminal Jairo 1 sep tarde
+- GSC 4 dominios en `.env.mcp`; EN export OK; PT/ES/IT pendiente invitar SA — 1 sep
+- GTM cuenta `6371934908` contenedor `261504322` — API OK 1 sep
+- Vercel alias **perugrandtravel.vercel.app** → pgt-web prod — CLI 1 sep
+- Docs: `pgt-web/docs/REPORTE-AVANCE-JAIRO.md`, `INVENTARIO-PLATAFORMAS.md`, guía Google actualizada — 1 sep
+- Sin área IT: Jairo asume dirección técnica; Ricardo webmaster ejecución — oral Jairo 1 sep
 

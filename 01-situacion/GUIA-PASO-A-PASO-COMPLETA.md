@@ -64,7 +64,7 @@
 
 
 
-### Track A — Visible (equipo / Clever / Einer)
+### Track A — Visible (equipo / Clever / Einel)
 
 **Mensaje:** *“Ayudo a que la migración EN no mate Google ni los leads.”*
 
@@ -74,7 +74,7 @@
 | Plan SEO para Clever        | Vie 28 / Lun 31 ago          |
 | Mapa URLs WP → Drupal (CSV) | Sem 2                        |
 | Checklist pre-launch Drupal | Sem 2                        |
-| QA 20 URLs staging          | Cuando Einer tenga contenido |
+| QA 20 URLs staging          | Cuando Einel tenga contenido |
 | Informe semanal 1 página    | Cada viernes                 |
 
 
@@ -93,7 +93,7 @@
 | Demo 15 min interna            | Sem 3   |
 
 
-🚫 Nunca decir: “cancelen Drupal”, “Einer no sirve”, “solo código”.
+🚫 Nunca decir: “cancelen Drupal”, “Einel no sirve”, “solo código”.
 
 ---
 
@@ -109,11 +109,11 @@
 
 #### Bloque 1 — Comunicación (08:00–09:00) P0
 
-**08:00–08:15 👤 Saludo + Einer (si está)**
+**08:00–08:15 👤 Saludo + Einel (si está)**
 
 Si lo ves, 60 segundos:
 
-> Einer, soy Jairo, SEO/GEO. Revisé el staging en la IP de OVH — se ve alineado al Figma. Para la migración EN quiero armar el mapa de URLs y checklist SEO. ¿Las URLs de blog/tour serán iguales o cambian? ¿Seguimos con WhatsApp o será carrito? ¿Me das acceso admin Drupal para QA?
+> Einel, soy Jairo, SEO/GEO. Revisé el staging en la IP de OVH — se ve alineado al Figma. Para la migración EN quiero armar el mapa de URLs y checklist SEO. ¿Las URLs de blog/tour serán iguales o cambian? ¿Seguimos con WhatsApp o será carrito? ¿Me das acceso admin Drupal para QA?
 
 ✅ Anotar respuestas en registro diario → luego `HECHOS.md`
 
@@ -218,7 +218,7 @@ En [http://147.135.114.64/](http://147.135.114.64/):
 5. Ver `robots.txt` y `sitemap.xml` si existen
 
 ✅ Añadir filas al CSV mapa URLs (plantilla §5)  
-✅ Enviar resumen a Einer si no respondió mañana (no acusatorio, checklist)
+✅ Enviar resumen a Einel si no respondió mañana (no acusatorio, checklist)
 
 #### Bloque 7 — RD Station 20 min (15:30–15:50) — si hay hueco
 
@@ -249,7 +249,7 @@ Según `QUE-HACER-AHORA.md`: solo mirar, no construir CRM.
 | 08:00–08:30 | Enviar **Plan SEO** a Clever (email/WA)                    | PDF/Doc enviado                            |
 | 08:30–10:00 | Inventario URLs bloque Jairo (18+115) desde Sheet keywords | `03-seo/datos/inventario-bloque-jairo.csv` |
 | 10:00–11:00 | Empezar **mapa 301** — 20 URLs prioritarias (P0+P1)        | `03-seo/datos/mapa-urls-wp-drupal.csv`     |
-| 11:00–11:30 | Reunión Einer / seguimiento WhatsApp staging               | Respuestas en HECHOS                       |
+| 11:00–11:30 | Reunión Einel / seguimiento WhatsApp staging               | Respuestas en HECHOS                       |
 | 13:00–14:00 | GA4: mirar tráfico orgánico EN 28d (marketing@)            | Notas en `GA4-INVENTARIO.md`               |
 | 14:00–15:30 | Auditar 2 blogs P0 más (Museums MP + 1 volumen)            | 2 fichas auditoría                         |
 | 15:30–16:30 | Crear cuenta GitHub + Vercel + repo `pgt-poc` privado      | URLs repo anotadas                         |
@@ -277,7 +277,7 @@ Según `QUE-HACER-AHORA.md`: solo mirar, no construir CRM.
 ### Lun 1 sep
 
 - Completar mapa 301 columnas: `url_wp | status | tipo | clics_28d | imp_28d | url_drupal | redirect_301 | prioridad | notas`
-- Pedir a Einer: lista slugs Drupal definitivos (aunque sea borrador)
+- Pedir a Einel: lista slugs Drupal definitivos (aunque sea borrador)
 
 
 
@@ -304,7 +304,7 @@ Según `QUE-HACER-AHORA.md`: solo mirar, no construir CRM.
 
 ### Vie 5 sep
 
-- Informe semanal 1 pág. para Einer/Clever:
+- Informe semanal 1 pág. para Einel/Clever:
   - Avance mapa URLs
   - Riesgos top 3 (URLs distintas, 404 blog P0, WA vs cart)
   - Qué necesitas semana 3
@@ -320,11 +320,11 @@ Según `QUE-HACER-AHORA.md`: solo mirar, no construir CRM.
 
 ### Objetivos
 
-- [ ] Admin Drupal (si Einer dio acceso): revisar Metatag, Pathauto, Redirect
+- [ ] Admin Drupal (si Einel dio acceso): revisar Metatag, Pathauto, Redirect
 - [ ] QA 20 URLs piloto en staging
 - [ ] POC: tour Salkantay + blog Things MP en Vercel
 - [ ] Lighthouse comparativo Drupal IP vs POC
-- [ ] Propuesta noindex staging a Einer (texto listo abajo)
+- [ ] Propuesta noindex staging a Einel (texto listo abajo)
 
 
 
@@ -346,7 +346,7 @@ Para cada URL piloto:
 
 
 
-### Texto noindex para Einer
+### Texto noindex para Einel
 
 > Recomendación SEO: mientras el staging esté en IP pública, conviene `noindex` (robots.txt + meta robots + ideally auth). Así Google no indexa contenido duplicado antes del cutover.
 
@@ -425,7 +425,7 @@ Archivo maestro: `03-seo/datos/PRIORIDAD-ACCION-JAIRO-2026-08-26.csv`
 
 ```csv
 url_wp,http_status,tipo,clics_28d,imp_28d,pos_media,url_drupal,redirect, prioridad,canonica_wp,notas
-https://www.perugrandtravel.com/tour/the-classic-salkantay-trek-5d/,200,tour,1,1218,26.79,http://147.135.114.64/salkantay-trek-5d-4n,301,P0,,slug distinto — confirmar con Einer
+https://www.perugrandtravel.com/tour/the-classic-salkantay-trek-5d/,200,tour,1,1218,26.79,http://147.135.114.64/salkantay-trek-5d-4n,301,P0,,slug distinto — confirmar con Einel
 https://www.perugrandtravel.com/blog/things-to-do-in-machu-picchu/,200,blog,1,6115,5.78,,301,P0,,404 en staging 28 ago
 ```
 
@@ -444,7 +444,7 @@ https://www.perugrandtravel.com/blog/things-to-do-in-machu-picchu/,200,blog,1,61
 1. Cuenta [GitHub](https://github.com) → repo privado `pgt-poc`
 2. Cuenta [Vercel](https://vercel.com) → conectar repo
 3. Pedir DNS `poc.perugrandtravel.com` a Ricardo (mensaje §3 día 4)
-4. OK verbal Einer: *“2 páginas prueba, no producción”*
+4. OK verbal Einel: *“2 páginas prueba, no producción”*
 
 
 
@@ -491,7 +491,7 @@ Guardar en `08-investigacion/LIGHTHOUSE-COMPARATIVA.md`
 
 ### Fase 5 — Demo (sem 3–4)
 
-15 min con Einer o Clever:
+15 min con Einel o Clever:
 
 1. Mostrar Figma vs Drupal vs POC
 2. Mostrar Lighthouse side by side
@@ -506,9 +506,9 @@ Guardar en `08-investigacion/LIGHTHOUSE-COMPARATIVA.md`
 
 
 
-### Einer — staging SEO
+### Einel — staging SEO
 
-> Einer, revisé 147.135.114.64 — diseño muy avanzado. Para migración EN preparo mapa URLs WP→Drupal y checklist SEO. ¿Confirmas si slugs cambian o podemos mantener los actuales? ¿WhatsApp o carrito en producción? ¿Admin Drupal para QA? ¿Podemos poner noindex en staging hasta cutover?
+> Einel, revisé 147.135.114.64 — diseño muy avanzado. Para migración EN preparo mapa URLs WP→Drupal y checklist SEO. ¿Confirmas si slugs cambian o podemos mantener los actuales? ¿WhatsApp o carrito en producción? ¿Admin Drupal para QA? ¿Podemos poner noindex en staging hasta cutover?
 
 
 
@@ -583,7 +583,7 @@ Guardar en `08-investigacion/LIGHTHOUSE-COMPARATIVA.md`
 | Quick wins title/meta (si CM aplica) | Resultados medibles     |
 | POC con Lighthouse                   | Diferenciador técnico   |
 | Informes semanales                   | Comunicación jefatura   |
-| Relación Einer/Ricardo/Lizet         | No trabajas en silo     |
+| Relación Einel/Ricardo/Lizet         | No trabajas en silo     |
 
 
 ---
@@ -597,7 +597,7 @@ Guardar en `08-investigacion/LIGHTHOUSE-COMPARATIVA.md`
   → Abrir QUE-HACER-AHORA.md
   → ¿Es antes de mediodía? → Comunicación + GSC + Plan Clever
   → ¿Es tarde? → Auditoría 1 URL o filas mapa 301
-  → ¿Einer no responde? → Sigue mapa URLs con columnas TBD + documenta riesgo
+  → ¿Einel no responde? → Sigue mapa URLs con columnas TBD + documenta riesgo
   → ¿Sin wp-admin? → Auditoría solo URL pública + pide acceso Ricardo
   → ¿Abrumado? → 1 URL P0 + 3 hechos + irte a casa (PRIMERA-SEMANA-ONBOARDING.md)
 ```

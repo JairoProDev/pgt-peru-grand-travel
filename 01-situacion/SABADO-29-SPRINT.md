@@ -1,6 +1,6 @@
 # Sprint sábado 29 ago — 9:00 a 12:00 (3 h)
 
-**Objetivo:** Salir con baseline documentado + mensaje lunes para Einer + 1 pieza demo código.
+**Objetivo:** Salir con baseline documentado + mensaje lunes para Einel + 1 pieza demo código.
 
 ---
 
@@ -37,7 +37,7 @@ fecha,imp,clics,ctr,pos,notas
 
 ---
 
-## 9:45–10:45 · Drupal staging delta (Einer)
+## 9:45–10:45 · Drupal staging delta (Einel)
 
 **URL:** http://147.135.114.64/
 
@@ -52,9 +52,9 @@ fecha,imp,clics,ctr,pos,notas
 
 **Entregable:** actualizar `08-investigacion/DRUPAL-STAGING-REVISION-2026-08-29.md`
 
-**Mensaje WhatsApp Einer (borrador, enviar lunes AM):**
+**Mensaje WhatsApp Einel (borrador, enviar lunes AM):**
 
-> Einer, buenos días. Para alinear SEO en la migración: ¿los tours quedarán en `/tour/slug-wp/` o en `/product/N`? El blog Things MP hoy da 404 en staging — necesitamos la misma URL que WP para no perder posición. ¿Cuándo capacitación tours? Traigo checklist y mapa URLs. Gracias.
+> Einel, buenos días. Para alinear SEO en la migración: ¿los tours quedarán en `/tour/slug-wp/` o en `/product/N`? El blog Things MP hoy da 404 en staging — necesitamos la misma URL que WP para no perder posición. ¿Cuándo capacitación tours? Traigo checklist y mapa URLs. Gracias.
 
 ---
 
@@ -89,7 +89,7 @@ Crear `03-seo/scripts/check-urls.sh` que lea `mapa-urls-wp-drupal.csv` y haga HE
 
 - [ ] `BITACORA.md` — 3 líneas del día
 - [ ] `QUE-HACER-AHORA.md` — prioridad lunes
-- [ ] Respirar — no abrir CRM, no pelear con Einer, no prometer ranking en 48 h
+- [ ] Respirar — no abrir CRM, no pelear con Einel, no prometer ranking en 48 h
 
 ---
 
