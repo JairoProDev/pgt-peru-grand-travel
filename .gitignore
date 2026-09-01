@@ -3,6 +3,11 @@
 # __pycache__ es un directorio que se crea en cada proyecto Python
 __pycache__/
 *.pyc
+.venv/
+venv/
+
+# POC Next.js — repo propio (pgt-poc / pgt-web), no versionar aquí
+pgt-poc/
 .env
 .env.*
 *.log
@@ -11,6 +16,9 @@ __pycache__/
 # Secretos y credenciales — NUNCA subir
 **/secretos/
 **/secrets/
+.secrets/*
+!.secrets/README.md
+!.secrets/.gitkeep
 *Accesos*
 *accesos*
 *.xlsx
