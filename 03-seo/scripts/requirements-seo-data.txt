@@ -1,0 +1,4 @@
+# Análisis Excel GSC / keywords — instalar en venv o:
+# python3 -m pip install --user --break-system-packages -r 03-seo/scripts/requirements-seo-data.txt
+pandas>=2.2
+openpyxl>=3.1
