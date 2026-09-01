@@ -1,12 +1,29 @@
-# Inventario Google Drive (marketing@)
+# Inventario Google Drive (marketing@ + atendimento@)
 
-Actualizado: 26 ago 2026 — fuente: browser Cursor, sesión marketing@.
+Actualizado: 1 sep 2026 — fuente: browser Cursor + sesiones marketing@ y atendimento@.
 
-**Regla:** no copiar contraseñas ni Excel Accesos al repo. Exportar datos SEO a `03-seo/datos/` cuando haga falta.
+**Regla:** no copiar contraseñas ni Excel Accesos al repo. Exportar datos SEO a `03-seo/datos/` y precios a `04-producto/datos/precios-otas/` cuando haga falta.
+
+**Flujo producto/precios:** ver `04-producto/FUENTES-VERDAD.md`.
 
 ---
 
-## Carpetas sugeridas (home Drive)
+## atendimento@ — ventas (Compartidos conmigo)
+
+| Carpeta / recurso | Uso | Export al repo |
+|---|---|---|
+| **TARIFARIO GENERAL 2026 PGT** | Precios cotización 2026 | CSV → `precios-otas/` |
+| **TARIFARIO NETOS - HOTELES** | Netos hoteleros | Solo si merge costos |
+| **TARIFAS RESTAURANTE / TRANSPORTES / PROVEDORES** | Costeo | No (interno) |
+| **PAQUETES MODELO 2026 - COTI** | Plantillas paquetes | Bajo demanda |
+| **Unbranded 2026** | Decks B2B sin marca | No masivo |
+| **PROGRAMAS** | Itinerarios | Referencia copy |
+| **OTAS reservas · Precios de productos** | Precios OTAs (también en marketing@) | CSV → `precios-otas/` |
+| Decks Peru Private Escape / Circle | Luxury private | Manual si se publica landing |
+
+---
+
+## Carpetas sugeridas (home Drive — marketing@)
 
 | Carpeta | Ubicación | Prioridad Jairo |
 |---|---|---|

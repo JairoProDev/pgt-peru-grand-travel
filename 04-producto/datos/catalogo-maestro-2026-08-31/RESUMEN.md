@@ -1,4 +1,4 @@
-# Catálogo tours — snapshot 2026-08-31
+# Catálogo tours — snapshot 2026-09-01
 
 Generado por `pgt-web/scripts/build-catalogo-maestro.py`.
 
@@ -18,3 +18,4 @@ Ver `04-producto/RECONCILIACION-INVENTARIO.md` para 73 vs 69 vs 70.
 ## Archivos
 
 - `catalogo-tours.csv` — **73 filas** (una por ficha Sheet) + merge JSON web
+- Copia web: `pgt-web/data/catalogo-tours.(<module 'csv' from '/usr/lib/python3.12/csv.py'>, <module 'json' from '/usr/lib/python3.12/json/__init__.py'>)` (vista `/catalog/`)
