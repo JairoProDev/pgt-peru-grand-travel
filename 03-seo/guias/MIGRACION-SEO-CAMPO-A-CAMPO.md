@@ -1,7 +1,7 @@
 # Migración SEO — campo a campo (WP → Drupal)
 
-**Para:** capacitación Einer + tu QA por URL  
-**Dueño:** Jairo (especificación) · Einer (implementación Drupal)
+**Para:** capacitación Einel + tu QA por URL  
+**Dueño:** Jairo (especificación) · Einel (implementación Drupal)
 
 ---
 
@@ -13,7 +13,7 @@ Lo que optimizaste en Things MP **no se pierde** — es la **receta** que cada U
 
 ## Blog (ejemplo Things MP)
 
-| Elemento | WordPress (Rank Math) | Drupal (preguntar a Einer) | Valor objetivo |
+| Elemento | WordPress (Rank Math) | Drupal (preguntar a Einel) | Valor objetivo |
 |---|---|---|---|
 | URL | `/blog/things-to-do-in-machu-picchu/` | Pathauto / alias | **Igual** |
 | SEO Title | `12 Things to Do in Machu Picchu (2026 Guide)` | Campo meta title | 44 chars |
