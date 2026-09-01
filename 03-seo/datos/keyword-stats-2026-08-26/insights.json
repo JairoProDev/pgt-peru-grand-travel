@@ -1,0 +1,170 @@
+{
+  "source": "google-ads-keyword-planner",
+  "period": "1 de agosto de 2025 - 31 de julio de 2026",
+  "total_keywords": 55,
+  "in_account_count": 12,
+  "top_volume": [
+    {
+      "keyword": "salkantay trek",
+      "volume": 8100,
+      "competition": "Bajo",
+      "in_account": "Y"
+    },
+    {
+      "keyword": "inca trail",
+      "volume": 2900,
+      "competition": "Bajo",
+      "in_account": "nan"
+    },
+    {
+      "keyword": "belmond",
+      "volume": 2400,
+      "competition": "Bajo",
+      "in_account": "nan"
+    },
+    {
+      "keyword": "ausangate trek",
+      "volume": 1600,
+      "competition": "Bajo",
+      "in_account": "nan"
+    },
+    {
+      "keyword": "choquequirao trek",
+      "volume": 1000,
+      "competition": "Bajo",
+      "in_account": "Y"
+    },
+    {
+      "keyword": "machu picchu tours",
+      "volume": 1000,
+      "competition": "Bajo",
+      "in_account": "Y"
+    },
+    {
+      "keyword": "offers",
+      "volume": 880,
+      "competition": "Bajo",
+      "in_account": "nan"
+    },
+    {
+      "keyword": "short inca trail",
+      "volume": 720,
+      "competition": "Bajo",
+      "in_account": "Y"
+    },
+    {
+      "keyword": "lares trek",
+      "volume": 590,
+      "competition": "Bajo",
+      "in_account": "nan"
+    },
+    {
+      "keyword": "machu picchu by train",
+      "volume": 590,
+      "competition": "Medio",
+      "in_account": "Y"
+    },
+    {
+      "keyword": "full day tours",
+      "volume": 210,
+      "competition": "Bajo",
+      "in_account": "nan"
+    },
+    {
+      "keyword": "cusco day tours",
+      "volume": 170,
+      "competition": "Medio",
+      "in_account": "Y"
+    },
+    {
+      "keyword": "day trips",
+      "volume": 170,
+      "competition": "Bajo",
+      "in_account": "nan"
+    },
+    {
+      "keyword": "machu picchu day tours",
+      "volume": 170,
+      "competition": "Bajo",
+      "in_account": "nan"
+    },
+    {
+      "keyword": "luxury travel machu picchu",
+      "volume": 140,
+      "competition": "Bajo",
+      "in_account": "Y"
+    }
+  ],
+  "in_account_keywords": [
+    {
+      "keyword": "salkantay trek",
+      "volume": 8100
+    },
+    {
+      "keyword": "choquequirao trek",
+      "volume": 1000
+    },
+    {
+      "keyword": "machu picchu tours",
+      "volume": 1000
+    },
+    {
+      "keyword": "short inca trail",
+      "volume": 720
+    },
+    {
+      "keyword": "machu picchu by train",
+      "volume": 590
+    },
+    {
+      "keyword": "cusco day tours",
+      "volume": 170
+    },
+    {
+      "keyword": "luxury travel machu picchu",
+      "volume": 140
+    },
+    {
+      "keyword": "peru vacation packages",
+      "volume": 140
+    },
+    {
+      "keyword": "classic inca trail",
+      "volume": 90
+    },
+    {
+      "keyword": "luxury machu picchu",
+      "volume": 20
+    },
+    {
+      "keyword": "custom peru tours",
+      "volume": 10
+    },
+    {
+      "keyword": "machu picchu packages",
+      "volume": 10
+    }
+  ],
+  "ad_groups_empty": [
+    "atv & bike tours",
+    "cultural & historic packages",
+    "cusco & sacred valley packages",
+    "custom cultural tours",
+    "custom machu picchu tours",
+    "inca trail & machu picchu",
+    "luxury nature tours",
+    "luxury peru packages",
+    "luxury travel cusco",
+    "machu picchu & cusco",
+    "machu picchu & inca trail",
+    "machu picchu & sacred valley",
+    "machu picchu offers",
+    "mountain & lagoon tours",
+    "nature & adventure packages",
+    "peru multidestination packages",
+    "perú packages",
+    "custom adventure tours",
+    "custom luxury tours",
+    "luxury travel offers"
+  ]
+}
