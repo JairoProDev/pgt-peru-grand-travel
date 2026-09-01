@@ -1,7 +1,7 @@
 # Experimento 4 personas + migración Drupal — estrategia Jairo
 
 **Fecha:** lun 1 sep 2026  
-**Contexto nuevo:** Einer da accesos Drupal con autoría individual; carpeta assets ordenada; capacitación Drupal → **Ricardo** (no Jairo); Clever quiere ver qué estrategia funciona mejor entre los 4 del cuarteto SEO.
+**Contexto nuevo:** Einel da accesos Drupal con autoría individual; carpeta assets ordenada; capacitación Drupal → **Ricardo** (no Jairo); Clever quiere ver qué estrategia funciona mejor entre los 4 del cuarteto SEO.
 
 ---
 
@@ -25,7 +25,7 @@
 PISTA A (obligatoria)              PISTA B (tu diferenciador)
 ─────────────────────              ───────────────────────────
 Migrar bloque 3 tours + 4 blogs    1 URL en tu stack (POC)
-en Drupal con Einer/Ricardo        Salkantay 5D · subdominio
+en Drupal con Einel/Ricardo        Salkantay 5D · subdominio
 Manual contenido + assets          Automatización + métricas
 Dueño: SEO QA + especificaciones   Dueño: velocidad + schema + WA
 ```
@@ -59,7 +59,7 @@ Dueño: SEO QA + especificaciones   Dueño: velocidad + schema + WA
 ### Manual (no pelees — 60–70% del trabajo)
 
 - Primera carga de contenido en Drupal (textos, párrafos, itinerarios)
-- Subir assets desde carpeta de Einer (imágenes, PDFs)
+- Subir assets desde carpeta de Einel (imágenes, PDFs)
 - Decisiones editoriales (qué bloque va dónde)
 - Ajustes visuales finos en Drupal
 
@@ -83,7 +83,7 @@ Dueño: SEO QA + especificaciones   Dueño: velocidad + schema + WA
 | GSC → Sheet sync | Apps Script (tu idea en DUDAS.md) — **gran aporte** |
 | Alertas 404 post-cutover | GSC API o crawl semanal |
 
-**Frase para Einer:** “La migración de contenido es manual; yo automatizo que **no se rompa SEO** al migrar.”
+**Frase para Einel:** “La migración de contenido es manual; yo automatizo que **no se rompa SEO** al migrar.”
 
 ---
 
@@ -134,7 +134,7 @@ Ricardo admin Drupal **reduce tu carga**, no te quita el puesto.
 
 ## HOY lunes 1 sep — checklist
 
-### Mañana (con Einer / accesos)
+### Mañana (con Einel / accesos)
 
 - [ ] Entrar Drupal con tu usuario; confirmar rol (¿puedes editar tours y blogs?)
 - [ ] Ubicación carpeta assets; convención nombres

@@ -2,7 +2,7 @@
 
 **Inicio:** 29 ago 2026 · **Revisión oral:** ~25 sep 2026  
 **Sueldo hoy:** S/ 3.500 · **Meta:** S/ 5.000 + rol jefatura  
-**Contexto nuevo:** Lunes arranca migración Drupal EN; Einer capacita tours → blogs.
+**Contexto nuevo:** Lunes arranca migración Drupal EN; Einel capacita tours → blogs.
 
 ---
 
@@ -13,7 +13,7 @@
 | Lo que hiciste en WP | Lo que se convierte en la migración |
 |---|---|
 | Title/meta optimizados | **Especificación** para replicar en Drupal (campos SEO del tour/blog) |
-| H1 + intro + bloque tours | **Plantilla de contenido** que Einer/Ricardo copian al migrar |
+| H1 + intro + bloque tours | **Plantilla de contenido** que Einel/Ricardo copian al migrar |
 | GSC indexación + baseline | **Línea base pre-cutover** — sin esto no puedes probar que no perdiste tráfico |
 | Rank Math checklist | **Checklist QA** por URL migrada (mismo criterio, otro CMS) |
 
@@ -27,7 +27,7 @@ La migración no invalida SEO — **multiplica** tu valor si eres dueño del cut
 | Sensación | Realidad | Acción |
 |---|---|---|
 | “Copy-paste en CMS” | Mes 1 = migración; copy es inevitable **una vez** | Automatiza QA con scripts/agents, no el copy |
-| “Einer hace el sitio” | Einer hace **Drupal + CRM template**; tú haces **no perder Google + medir leads** | Roles complementarios, no competencia pública |
+| “Einel hace el sitio” | Einel hace **Drupal + CRM template**; tú haces **no perder Google + medir leads** | Roles complementarios, no competencia pública |
 | “Código es mejor” | Sí para velocidad, schema, medición — **no** para reemplazar Drupal que ya decidieron | Código = capa de demostración + herramientas internas |
 | “CRM lo haré mejor” | Probablemente sí a largo plazo — **ahora** te quemarías | Fase 2: diseño + integración; no construir en agosto |
 
@@ -50,7 +50,7 @@ No vendas “sé SEO”. Vende **tres cosas medibles**:
 └─────────────────────────────────────────────────────────────┘
 ```
 
-**Jefe de marketing + tecnología** = quien une Lizet (ads), Einer (web), Ricardo (infra) y **datos** — no quien pelea por el teclado de Drupal.
+**Jefe de marketing + tecnología** = quien une Lizet (ads), Einel (web), Ricardo (infra) y **datos** — no quien pelea por el teclado de Drupal.
 
 ---
 
@@ -61,11 +61,11 @@ No vendas “sé SEO”. Vende **tres cosas medibles**:
 | Día | Entregable | Para quién |
 |---|---|---|
 | Sáb 29 | Baseline GSC export + checklist staging delta | Tú |
-| Lun | Reunión Einer: preguntas SEO (abajo) + pedir slug WP = Drupal | Einer |
-| Mar–vie | **1 tour piloto** migrado con tu QA (Salkantay 5D) | Einer + tú |
+| Lun | Reunión Einel: preguntas SEO (abajo) + pedir slug WP = Drupal | Einel |
+| Mar–vie | **1 tour piloto** migrado con tu QA (Salkantay 5D) | Einel + tú |
 | Vie | Informe 1 pág: estado migración SEO | Clever |
 
-**Preguntas para Einer (lunes):**
+**Preguntas para Einel (lunes):**
 
 1. ¿Pathauto dejará `/tour/the-classic-salkantay-trek-5d/` o `/product/9`?
 2. ¿Dónde van title SEO y meta en Drupal? (módulo, campos)
@@ -108,7 +108,7 @@ Ver `01-situacion/SABADO-29-SPRINT.md`.
 |---|---|
 | Validadores (301, schema, lighthouse) | Contenido y campos SEO por URL |
 | POC demo velocidad | Producción que Clever ya aprobó |
-| Agents que auditan 133 URLs | Migración que hace Einer |
+| Agents que auditan 133 URLs | Migración que hace Einel |
 | GA4/GSC automatización | Title/meta que tú **especificas** |
 | Informes para Clever | No reescribir 2000 palabras |
 
@@ -118,7 +118,7 @@ Ver `01-situacion/SABADO-29-SPRINT.md`.
 
 ## CRM — postura inteligente (no te quemes)
 
-Einer probablemente use plantilla (RD Station, HubSpot, o custom Drupal). **No digas “lo haré 100x mejor” en público.**
+Einel probablemente use plantilla (RD Station, HubSpot, o custom Drupal). **No digas “lo haré 100x mejor” en público.**
 
 | Ahora (sep) | Después (oct+) |
 |---|---|
@@ -138,7 +138,7 @@ Ver `08-investigacion/CRM-PGT-Y-VECTORIFY.md` — no construir CRM mes 1.
 4. ✅ 1 win CTR medible (Things MP o Museums MP)  
 5. ✅ POC técnico + informe Lighthouse entregado a Clever  
 6. ✅ GA4 conversión WA configurada  
-7. ✅ Sin guerra con Einer — coordinación visible  
+7. ✅ Sin guerra con Einel — coordinación visible  
 
 ---
 
