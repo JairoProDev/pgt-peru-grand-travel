@@ -4,7 +4,7 @@
 **Hosting:** OVH VPS (IP pública) · nginx/1.28.3 · Ubuntu  
 **Stack:** **Drupal 11** + módulo **Commerce** (`anymerce_*`)  
 **Alcance acordado:** solo **inglés** (`perugrandtravel.com`) por ahora  
-**Responsable build:** Einer (jefe mkt mañanas)
+**Responsable build:** Einel (jefe mkt mañanas)
 
 ---
 
@@ -54,7 +54,7 @@ Drupal home ya refleja cards similares (badges, precio USD, rating). **El diseñ
 
 ---
 
-## Qué implica "esperar a que termine Einer"
+## Qué implica "esperar a que termine Einel"
 
 | Puedes esperar | No debes esperar |
 |---|---|
@@ -76,7 +76,7 @@ Entregables:
 1. Mapa URL WP → Drupal (CSV)
 2. Checklist pre-launch (title, meta, schema, WA, 301, noindex staging)
 3. 20 URLs piloto QA
-4. Informe semanal a Einer/Clever
+4. Informe semanal a Einel/Clever
 
 ### Track B — POC código (privado / staging propio)
 
@@ -90,7 +90,7 @@ Entregables:
 - Deploy: Vercel + Payload (tu cuenta)
 - Comparar: Lighthouse Drupal IP vs tu POC
 
-Cuando tengas números → conversación con Einer: *¿front headless encima del contenido Drupal?* o *¿POC como plan B si cutover falla?*
+Cuando tengas números → conversación con Einel: *¿front headless encima del contenido Drupal?* o *¿POC como plan B si cutover falla?*
 
 ---
 
@@ -99,18 +99,18 @@ Cuando tengas números → conversación con Einer: *¿front headless encima del
 | Recurso | Estado | Pedir a |
 |---|---|---|
 | Staging IP 147.135.114.64 | **Ver (público)** | — |
-| Drupal admin staging | **Falta** | Einer |
+| Drupal admin staging | **Falta** | Einel |
 | Figma diseño | **Sí** (browser) | — |
 | GSC / GA4 marketing@ | **Sí** | — |
 | wp-admin EN / cPanel | **Probable** (viste cPanel tab) | Ricardo |
-| DNS producción | **No** | Einer/Clever cuando toque |
-| OVH panel | **No** | Einer |
+| DNS producción | **No** | Einel/Clever cuando toque |
+| OVH panel | **No** | Einel |
 
 ---
 
-## Mensaje modelo para Einer (WhatsApp)
+## Mensaje modelo para Einel (WhatsApp)
 
-> Einer, revisé el staging en 147.135.114.64 — el diseño se ve bien y alineado al Figma. Para cuando migremos EN, me gustaría armar el mapa de URLs viejas → nuevas y un checklist SEO (titles, schema, WhatsApp, noindex en staging). ¿Tendremos las mismas URLs de blog/tour o cambian? ¿El checkout sigue siendo WhatsApp o será carrito? ¿Me das acceso admin Drupal para QA?
+> Einel, revisé el staging en 147.135.114.64 — el diseño se ve bien y alineado al Figma. Para cuando migremos EN, me gustaría armar el mapa de URLs viejas → nuevas y un checklist SEO (titles, schema, WhatsApp, noindex en staging). ¿Tendremos las mismas URLs de blog/tour o cambian? ¿El checkout sigue siendo WhatsApp o será carrito? ¿Me das acceso admin Drupal para QA?
 
 ---
 

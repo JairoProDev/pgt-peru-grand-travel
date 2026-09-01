@@ -16,7 +16,7 @@
 > - Nombre: **beta**
 > - Valor: **cname.vercel-dns.com**
 >
-> Es solo para demo con el equipo (Clever/Einer). El sitio llevará `noindex` — no compite con Google. ¿Te parece bien o prefieres otro subdominio?
+> Es solo para demo con el equipo (Clever/Einel). El sitio llevará `noindex` — no compite con Google. ¿Te parece bien o prefieres otro subdominio?
 >
 > Gracias, Jairo
 

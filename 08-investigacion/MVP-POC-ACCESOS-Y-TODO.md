@@ -25,7 +25,7 @@ No es el sitio final. Es un **experimento pequeño** para demostrar que la nueva
 
 Condiciones:
 
-1. Avisar a **Einer o Ricardo** (1 frase, no drama): *“Quiero un subdominio de prueba para comparar velocidad y SEO en 2 páginas.”*
+1. Avisar a **Einel o Ricardo** (1 frase, no drama): *“Quiero un subdominio de prueba para comparar velocidad y SEO en 2 páginas.”*
 2. **Staging primero** (`poc.` o `demo.`) — no tocar producción sin OK.
 3. No anunciar “tiro Drupal” — anunciar “prueba con datos”.
 
@@ -43,7 +43,7 @@ Condiciones:
 | cPanel/FTP EN | **Preguntar Ricardo** | Assets reales wp-admin |
 | clever@ / DNS raíz | **No** (y no pedir aún) | Solo si routing en prod |
 | Vercel / Railway / CF | **Sí** | Import repo → deploy |
-| Aprobación escrita POC | **Falta** | Einer/Clever 1 OK |
+| Aprobación escrita POC | **Falta** | Einel/Clever 1 OK |
 
 **Conclusión:** puedes **empezar a construir en local y en tu Vercel personal** hoy. Para **staging con dominio PGT** y **swap de 1 URL prod** necesitas 2–3 accesos más + un “sí” del jefe.
 
@@ -57,7 +57,7 @@ Condiciones:
 - Tour enlace: Salkantay 5d en tu bloque.
 - WP hoy = Tourmaster + Yoast + muchos plugins.
 - Migración Drupal decidida pero **no** imposible reconsiderar con **datos**.
-- Einer = jefe mkt mañanas; Ricardo = accesos técnicos.
+- Einel = jefe mkt mañanas; Ricardo = accesos técnicos.
 
 ## Qué nos falta
 
@@ -76,7 +76,7 @@ Condiciones:
 ### Esta semana (obligatorio)
 
 - [ ] Mensaje WhatsApp **Ricardo** (copiar abajo)
-- [ ] Mensaje corto **Einer** si está: permiso POC 2 páginas
+- [ ] Mensaje corto **Einel** si está: permiso POC 2 páginas
 - [ ] GSC → EXPORTAR → guardar en `03-seo/datos/`
 - [ ] Abrir en wp-admin: blog Things Machu Picchu + tour Salkantay 5d → capturas o export
 - [ ] Crear cuenta **Vercel** (si no tienes) con GitHub
@@ -107,7 +107,7 @@ Condiciones:
 - [ ] Checklist SEO por página (schema, meta, WA, canonical)
 - [ ] Script o guía: extraer contenido WP de las 2 URLs
 - [ ] Tabla comparación Lighthouse (plantilla)
-- [ ] Borrador 1 página para Clever/Einer (“prueba de concepto, no reemplazo aún”)
+- [ ] Borrador 1 página para Clever/Einel (“prueba de concepto, no reemplazo aún”)
 - [ ] Actualizar HECHOS/DUDAS cuando completes accesos
 - [ ] Revisar tu browser (GSC, wp-admin) si dejas sesión abierta
 

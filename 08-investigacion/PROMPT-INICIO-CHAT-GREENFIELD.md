@@ -128,7 +128,9 @@ JSON-LD: TouristTrip + Product + Offer + FAQ
 
 ```
 08-investigacion/GREENFIELD-PGT-PLAN-MAESTRO.md
+03-seo/datos/README.md                                          ← índice todos los datasets
 03-seo/datos/keywords-canibalizacion-2026-08-31/INSIGHTS.md   ← LEER PRIMERO
+03-seo/datos/keyword-stats-2026-08-26/INSIGHTS.md               ← volumen Google Ads
 03-seo/datos/keywords-canibalizacion-2026-08-31/redirects-blog-301.csv
 03-seo/datos/keywords-canibalizacion-2026-08-31/{tours,blogs,paginas}.csv
 08-investigacion/FIGMA-LECTURA.md

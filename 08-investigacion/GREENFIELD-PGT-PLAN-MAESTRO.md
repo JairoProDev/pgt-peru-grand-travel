@@ -47,7 +47,7 @@ No es “otra agencia con plantilla Tourmaster”. Es **un embudo de ventas** di
 | Fuente | Qué extraer |
 |---|---|
 | WP live (HTML público) | Título, meta, H1, precio, itinerario, galería |
-| Carpeta assets Einer | Imágenes ordenadas por tour |
+| Carpeta assets Einel | Imágenes ordenadas por tour |
 | Tourmaster fields | Precio USD, duración, includes, dificultad |
 | Rank Math (blog) | Focus keyword, meta, canonical |
 | Figma | Layout modular, tokens | `08-investigacion/FIGMA-LECTURA.md` |

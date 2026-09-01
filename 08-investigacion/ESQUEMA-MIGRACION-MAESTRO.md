@@ -51,7 +51,7 @@ Tu bloque asignado (Sheet): **18 tours + 115 blogs** — subconjunto del total E
 
 ### 3.1 Campos confirmados (Sheet + auditorías)
 
-| Campo | WP / Tourmaster | Drupal staging (Einer) | Obligatorio migración |
+| Campo | WP / Tourmaster | Drupal staging (Einel) | Obligatorio migración |
 |---|---|---|---|
 | Título | `post_title` | Product title | ✅ |
 | URL slug | `/tour/{slug}/` | Pathauto → **debe ser igual** | ✅ |
@@ -177,7 +177,7 @@ Lista páginas live: correr `03-seo/scripts/export-wp-sitemap-inventory.sh`
 | CTA | Book Now |
 | Footer | Contact, Company links, Packages, Payments icons, redes |
 
-**Migración header:** no es “contenido migrable” — es **bloques Drupal** (Block Content). Einer ya los tiene. Tú validas enlaces rotos post-cutover.
+**Migración header:** no es “contenido migrable” — es **bloques Drupal** (Block Content). Einel ya los tiene. Tú validas enlaces rotos post-cutover.
 
 ---
 
@@ -190,7 +190,7 @@ Lista páginas live: correr `03-seo/scripts/export-wp-sitemap-inventory.sh`
 | **Blogs (452)** | 🟢 **Sí, parcial–alto** | Drupal Migrate + WP REST API o XML export |
 | **Tours (69)** | 🟡 **Parcial** | Tourmaster ≠ estándar — mapping custom |
 | **Páginas (~60)** | 🟡 Parcial | Migrate pages + manual layout |
-| **Media/imágenes** | 🟡 Parcial | Migrate files + carpeta assets Einer |
+| **Media/imágenes** | 🟡 Parcial | Migrate files + carpeta assets Einel |
 | **SEO meta** | 🟡 Parcial | wp_postmeta → Metatag (script) |
 | **Menús/header** | 🔴 Manual | Bloques Drupal |
 | **Redirects 301** | 🟢 Automatizable | CSV → Redirect module |
@@ -210,7 +210,7 @@ FASE 3 — Transform (código — TU APORTE)
   Python: normalizar URLs, canónicas, meta, precios
   → CSV import-ready para Drupal Migrate
 
-FASE 4 — Import (Einer/Ricardo)
+FASE 4 — Import (Einel/Ricardo)
   Drupal Migrate / Feeds / manual primera tanda
 
 FASE 5 — QA (automático)
@@ -229,7 +229,7 @@ FASE 5 — QA (automático)
 | GSC → Sheet sync | pendiente | Semana 2 |
 | `compare-meta.sh` WP vs Drupal | pendiente | Semana 1 |
 
-Pedir a Ricardo/Einer: **REST API auth** o **dump SQL read-only** o **WP All Export** — acelera 10×.
+Pedir a Ricardo/Einel: **REST API auth** o **dump SQL read-only** o **WP All Export** — acelera 10×.
 
 ---
 
@@ -278,7 +278,7 @@ drupal_nid | url_drupal | status_migracion | qa_checklist | clics_28d | imp_28d 
 | **Especificación SEO** | Things MP como plantilla blog |
 | **Informe Clever** | Riesgos + % migrado + GSC |
 
-Einer/Ricardo **implementan** en Drupal. Tú **defines qué debe salir** y **verificas** que no rompió Google.
+Einel/Ricardo **implementan** en Drupal. Tú **defines qué debe salir** y **verificas** que no rompió Google.
 
 ---
 

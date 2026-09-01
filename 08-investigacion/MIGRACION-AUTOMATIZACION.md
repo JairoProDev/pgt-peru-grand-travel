@@ -1,6 +1,6 @@
 # Automatización migración — qué sí, qué no
 
-**Para:** Einer, Ricardo, cuarteto SEO  
+**Para:** Einel, Ricardo, cuarteto SEO  
 **Dueño propuesta:** Jairo
 
 ---
@@ -21,7 +21,7 @@
 
 ```
 1. SPEC (Jairo)     → title, meta, URL, H1 desde WP o Things MP template
-2. MIGRATE (human)  → Drupal + assets carpeta Einer
+2. MIGRATE (human)  → Drupal + assets carpeta Einel
 3. QA (script)      → ./03-seo/scripts/check-urls.sh
 4. FIX (human)      → solo lo que el script marque MISSING
 5. LOG (sheet)      → fecha, minutos, responsable, score checklist
@@ -39,7 +39,7 @@
 
 ---
 
-## Carpeta assets Einer — semi-automatizar
+## Carpeta assets Einel — semi-automatizar
 
 Si los archivos siguen patrón `slug-tour-day1.jpg`:
 

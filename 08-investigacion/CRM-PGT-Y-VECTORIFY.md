@@ -201,7 +201,7 @@ No hace falta decidir stack hasta que el proceso esté dibujado. Decidir Next vs
 |---|---|
 | “Yo se los armo en un mes” | Amenaza a sistemas + promesa impagable + te sales de SEO |
 | “Es fácil, es un CRUD” | No has visto a ventas |
-| Ofrecerlo en el plan SEO de esta semana | Mezclas oficios; Einer/Ricardo se tensan |
+| Ofrecerlo en el plan SEO de esta semana | Mezclas oficios; Einel/Ricardo se tensan |
 | Sentarte con Paloma “para entender cómo no se pierde el brasileño” | Oficio de cierre; norte de Clever |
 | Memo comprar vs construir después de mapear | Jefe |
 | Mencionar IKIMEI o Vectorify en la mesa | Fuera de lugar (`CLEVER-PONCE.md`) |

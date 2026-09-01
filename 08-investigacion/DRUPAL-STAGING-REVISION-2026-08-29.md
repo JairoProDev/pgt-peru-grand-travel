@@ -1,7 +1,7 @@
 # Drupal staging — revisión 29 ago 2026
 
 **URL:** http://147.135.114.64/  
-**Contexto:** Einer sigue desarrollando; lunes arranca migración formal (tours primero, blogs después).
+**Contexto:** Einel sigue desarrollando; lunes arranca migración formal (tours primero, blogs después).
 
 ---
 
@@ -68,7 +68,7 @@
 
 ---
 
-## Para reunión lunes con Einer
+## Para reunión lunes con Einel
 
 Traer impreso o en pantalla:
 
