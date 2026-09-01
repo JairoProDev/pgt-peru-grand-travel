@@ -1,16 +1,18 @@
 # Drupal — leer primero
 
-**PGT staging aún no listo.** No empieces por `10-TUTORIAL-...`.
+**Staging activo:** [http://147.135.114.64/](http://147.135.114.64/) — ya se puede migrar tours.
 
-## Orden correcto
+## Orden correcto (migración tours primero)
 
-| # | Archivo | Cuándo |
-|---|---|---|
-| 1 | **`11-COMO-PRACTICAR-SIN-STAGING-PGT.md`** | **Ahora** — panorama, Windows/WSL/VPS, qué instalar |
-| 2 | Demo online (Camino A del #1) | Hoy — admin en el navegador |
-| 3 | DDEV local (Camino B del #1) | Esta semana |
-| 4 | `10-TUTORIAL-EXPLORAR-DRUPAL.md` | Cuando ya tengas un Drupal abierto |
-| 5 | `09-TWIG-EXPLICADO.md` / `01B-...` | Después de ver el admin |
+
+| #   | Archivo                                                         | Cuándo                                            |
+| --- | --------------------------------------------------------------- | ------------------------------------------------- |
+| 1   | `12-TOUR-PRODUCT-FORM-MAPA-COMPLETO.md`                         | **Ahora** — mapa del formulario Product + Metatag |
+| 2   | `03-seo/guias/DRUPAL-SPRINT-JAIRO-HOY.md`                       | Flujo operativo del día                           |
+| 3   | `03-seo/datos/drupal-tour-seo-clipboard/TOURS-SEO-CLIPBOARD.md` | Copy-paste title/meta por tour                    |
+| 4   | `10-TUTORIAL-EXPLORAR-DRUPAL.md`                                | Explorar admin con calma                          |
+| 5   | `09-TWIG-EXPLICADO.md` / `01B-...`                              | Después de terminar bloque tours                  |
+
 
 Migración PGT: `../../08-investigacion/MIGRACION-WP-DRUPAL-PLAYBOOK.md`  
 Tu bloque SEO: `../../03-seo/QUE-HACER-CON-MI-BLOQUE.md`
