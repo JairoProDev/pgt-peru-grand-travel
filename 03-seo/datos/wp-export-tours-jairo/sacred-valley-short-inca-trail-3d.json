@@ -1,0 +1,38 @@
+{
+  "slug": "sacred-valley-short-inca-trail-3d",
+  "url_wp": "https://www.perugrandtravel.com/tour/sacred-valley-short-inca-trail-3d/",
+  "drupal_alias": "/tour/sacred-valley-short-inca-trail-3d/",
+  "title": "Sacred Valley + Short Inca Trail 3 days",
+  "h1": "Sacred Valley + Short Inca Trail 3 days",
+  "seo_title": "3-Day Sacred Valley & Short Inca Trail Tour",
+  "meta_description": "Combine Sacred Valley excursions with the Short Inca Trail on a complete Machu Picchu unforgettable adventure.",
+  "keyword": "inca trail 3 days",
+  "price_from_usd": "879",
+  "featured_image": "https://www.perugrandtravel.com/wp-content/uploads/2023/03/inca-trail-short-3d.webp",
+  "gallery_images": [
+    "https://www.perugrandtravel.com/wp-content/uploads/2023/03/inca-trail-short-3d.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/04/cropped-peru-grand-travel-logo-colour-favicon-32x32.png",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/04/cropped-peru-grand-travel-logo-colour-favicon-192x192.png",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/04/cropped-peru-grand-travel-logo-colour-favicon-180x180.png",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/04/cropped-peru-grand-travel-logo-colour-favicon-270x270.png",
+    "https://www.perugrandtravel.com/wp-content/uploads/2025/01/br.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2025/01/es-1.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2026/01/it.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/04/peru-grand-travel-logo-colour.png",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/06/Machu-Picchu-and-Peru-Packages.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/09/Machu-Picchu.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/09/Inca-Trail-to-Machu-Picchu.webp"
+  ],
+  "itinerary_days": [
+    "Day 1: Sacred Valley of the Incas (Pisaq, Urubamba, Ollantaytambo and Chinchero) – in a group. 10 hours tour",
+    "Day 2: Short Inca Trail: Cusco – Wiñaywayna – Águas Calientes - 12 km",
+    "Day 3: Aguas Calientes - Machu Picchu – Cusco – 01h30m tour – Circuit 5"
+  ],
+  "tour_category_ids": [
+    91
+  ],
+  "tour_tag_ids": [
+    44
+  ],
+  "note": "Tabs Overview/Included/Pricing/What to Bring: copiar desde wp-admin → Tour → Edit (Tourmaster no expone body en REST)."
+}

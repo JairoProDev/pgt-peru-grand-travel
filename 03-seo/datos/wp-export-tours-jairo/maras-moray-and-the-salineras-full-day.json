@@ -1,0 +1,34 @@
+{
+  "slug": "maras-moray-and-the-salineras-full-day",
+  "url_wp": "https://www.perugrandtravel.com/tour/maras-moray-and-the-salineras-full-day/",
+  "drupal_alias": "/tour/maras-moray-and-the-salineras-full-day/",
+  "title": "Tour of Maras, Moray &#038; Salineras from Cusco",
+  "h1": "Tour of Maras, Moray &#038; Salineras from Cusco",
+  "seo_title": "Maras, Moray & Salt Mines Tour from Cusco",
+  "meta_description": "Visit the Moray terraces and Maras Salt Mines on a scenic cultural day tour departing from Cusco and surroundings.",
+  "keyword": "maras salt mines tour",
+  "price_from_usd": "299",
+  "featured_image": "https://www.perugrandtravel.com/wp-content/uploads/2022/04/salt-mines-cusco-1d.webp",
+  "gallery_images": [
+    "https://www.perugrandtravel.com/wp-content/uploads/2022/04/salt-mines-cusco-1d.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/04/cropped-peru-grand-travel-logo-colour-favicon-32x32.png",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/04/cropped-peru-grand-travel-logo-colour-favicon-192x192.png",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/04/cropped-peru-grand-travel-logo-colour-favicon-180x180.png",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/04/cropped-peru-grand-travel-logo-colour-favicon-270x270.png",
+    "https://www.perugrandtravel.com/wp-content/uploads/2025/01/br.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2025/01/es-1.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2026/01/it.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/04/peru-grand-travel-logo-colour.png",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/06/Machu-Picchu-and-Peru-Packages.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/09/Machu-Picchu.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/09/Inca-Trail-to-Machu-Picchu.webp"
+  ],
+  "itinerary_days": [],
+  "tour_category_ids": [
+    97
+  ],
+  "tour_tag_ids": [
+    48
+  ],
+  "note": "Tabs Overview/Included/Pricing/What to Bring: copiar desde wp-admin → Tour → Edit (Tourmaster no expone body en REST)."
+}

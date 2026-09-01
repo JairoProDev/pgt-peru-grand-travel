@@ -1,0 +1,9 @@
+fase,tipo,cantidad,minutos_por_unidad,minutos_total,horas_total,dias_6h,dias_5h,notas
+1,Tour (piloto / aprendizaje),1,50,50,0.8,0.1,0.2,Primera ficha: conocer formulario Drupal + flujo WP
+1,Tour (resto bloque Jairo),17,35,595,9.9,1.7,2.0,Misma ficha una vez aprendido el flujo
+1,Subtotal tours,18,35,630,10.5,1.8,2.1,Prioridad: tours primero
+2,Blog,115,20,2300,38.3,6.4,7.7,Después de terminar tours; texto + meta + alias + QA
+2,Subtotal blogs,115,20,2300,38.3,6.4,7.7,
+,TOTAL bloque Jairo (tours + blogs),133,,2930,48.8,8.1,9.8,Paridad WP→Drupal sin optimización extra
+,Buffer imprevistos (+15%),,,440,7.3,1.2,1.5,Alias Pathauto imágenes permisos etc
+,TOTAL con buffer,,,3370,56.2,9.4,11.2,Estimación conservadora para planificación

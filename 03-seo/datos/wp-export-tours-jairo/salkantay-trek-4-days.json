@@ -1,0 +1,39 @@
+{
+  "slug": "salkantay-trek-4-days",
+  "url_wp": "https://www.perugrandtravel.com/tour/salkantay-trek-4-days/",
+  "drupal_alias": "/tour/salkantay-trek-4-days/",
+  "title": "Salkantay SKY Trek 4 days",
+  "h1": "Salkantay SKY Trek 4 days",
+  "seo_title": "4-Day Salkantay Sky Camp Trek to Machu Picchu",
+  "meta_description": "Experience the Salkantay Trek to Machu Picchu in 4 days with Sky Camp lodging and spectacular mountain landscapes.",
+  "keyword": "Salkantay Trek 4 days",
+  "price_from_usd": "731",
+  "featured_image": "https://www.perugrandtravel.com/wp-content/uploads/2023/07/salkantay-trail-4d.webp",
+  "gallery_images": [
+    "https://www.perugrandtravel.com/wp-content/uploads/2023/07/salkantay-trail-4d.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/04/cropped-peru-grand-travel-logo-colour-favicon-32x32.png",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/04/cropped-peru-grand-travel-logo-colour-favicon-192x192.png",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/04/cropped-peru-grand-travel-logo-colour-favicon-180x180.png",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/04/cropped-peru-grand-travel-logo-colour-favicon-270x270.png",
+    "https://www.perugrandtravel.com/wp-content/uploads/2025/01/br.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2025/01/es-1.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2026/01/it.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/04/peru-grand-travel-logo-colour.png",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/06/Machu-Picchu-and-Peru-Packages.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/09/Machu-Picchu.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/09/Inca-Trail-to-Machu-Picchu.webp"
+  ],
+  "itinerary_days": [
+    "Day 1: Cusco - Mollepata - Challacancha - Soraypampa - Laguna Humantay - Sky Camp",
+    "Day 2: Soraypampa - Abra Salkantay - Huayracmachay - Chaullay - Collpapampa (Mountain Sky View)",
+    "Day 3: Collpapampa | La Playa - Hidroeléctrica - Aguas Calientes",
+    "Day 4: Machu Picchu – Cusco (2h30m  Tour)"
+  ],
+  "tour_category_ids": [
+    92
+  ],
+  "tour_tag_ids": [
+    46
+  ],
+  "note": "Tabs Overview/Included/Pricing/What to Bring: copiar desde wp-admin → Tour → Edit (Tourmaster no expone body en REST)."
+}

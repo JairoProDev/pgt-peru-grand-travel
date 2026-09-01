@@ -1,0 +1,32 @@
+{
+  "slug": "tour-south-valley-cusco",
+  "url_wp": "https://www.perugrandtravel.com/tour/tour-south-valley-cusco/",
+  "drupal_alias": "/tour/tour-south-valley-cusco/",
+  "title": "Tour South Valley",
+  "h1": "Tour South Valley",
+  "seo_title": "South Valley in Cusco: Discover Hidden Gems",
+  "meta_description": "Explore Piquillacta, Tipón, and Andahuaylillas in the South Valley in Cusco. Dive into history and culture. Book your adventure now!",
+  "keyword": "South Valley in cusco",
+  "price_from_usd": "1,009",
+  "featured_image": "https://www.perugrandtravel.com/wp-content/uploads/2024/08/igreja-andahuaylillas-vale-sul.webp",
+  "gallery_images": [
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/08/igreja-andahuaylillas-vale-sul.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/04/cropped-peru-grand-travel-logo-colour-favicon-32x32.png",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/04/cropped-peru-grand-travel-logo-colour-favicon-192x192.png",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/04/cropped-peru-grand-travel-logo-colour-favicon-180x180.png",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/04/cropped-peru-grand-travel-logo-colour-favicon-270x270.png",
+    "https://www.perugrandtravel.com/wp-content/uploads/2025/01/br.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2025/01/es-1.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2026/01/it.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/04/peru-grand-travel-logo-colour.png",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/06/Machu-Picchu-and-Peru-Packages.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/09/Machu-Picchu.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/09/Inca-Trail-to-Machu-Picchu.webp"
+  ],
+  "itinerary_days": [
+    "Day 1: South Valley – Tipon – Pikillacta and Andahuaylillas – 7 hour tour – in group"
+  ],
+  "tour_category_ids": [],
+  "tour_tag_ids": [],
+  "note": "Tabs Overview/Included/Pricing/What to Bring: copiar desde wp-admin → Tour → Edit (Tourmaster no expone body en REST)."
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "cusco-corpus-christi",
+  "url_wp": "https://www.perugrandtravel.com/tour/cusco-corpus-christi/",
+  "drupal_alias": "/tour/cusco-corpus-christi/",
+  "title": "Corpus Christi in Cusco 4 days",
+  "h1": "Corpus Christi in Cusco 4 days",
+  "seo_title": "4-Day Corpus Christi Festival in Cusco, Peru",
+  "meta_description": "Join the Corpus Christi festival in Cusco, Peru, on a 4-day cultural tour with traditional processions and Andean heritage celebrations.",
+  "keyword": "Corpus Christi in Cusco",
+  "price_from_usd": "886",
+  "featured_image": "https://www.perugrandtravel.com/wp-content/uploads/2023/12/Corpus-Christi-Cusco.webp",
+  "gallery_images": [
+    "https://www.perugrandtravel.com/wp-content/uploads/2023/12/Corpus-Christi-Cusco.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/04/cropped-peru-grand-travel-logo-colour-favicon-32x32.png",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/04/cropped-peru-grand-travel-logo-colour-favicon-192x192.png",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/04/cropped-peru-grand-travel-logo-colour-favicon-180x180.png",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/04/cropped-peru-grand-travel-logo-colour-favicon-270x270.png",
+    "https://www.perugrandtravel.com/wp-content/uploads/2025/01/br.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2025/01/es-1.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2026/01/it.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/04/peru-grand-travel-logo-colour.png",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/06/Machu-Picchu-and-Peru-Packages.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/09/Machu-Picchu.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/09/Inca-Trail-to-Machu-Picchu.webp"
+  ],
+  "itinerary_days": [],
+  "tour_category_ids": [],
+  "tour_tag_ids": [
+    65
+  ],
+  "note": "Tabs Overview/Included/Pricing/What to Bring: copiar desde wp-admin → Tour → Edit (Tourmaster no expone body en REST)."
+}

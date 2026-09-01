@@ -1,0 +1,39 @@
+{
+  "slug": "machu-picchu-moderate-4d",
+  "url_wp": "https://www.perugrandtravel.com/tour/machu-picchu-moderate-4d/",
+  "drupal_alias": "/tour/machu-picchu-moderate-4d/",
+  "title": "Machu Picchu Moderate 4D/3N",
+  "h1": "Machu Picchu Moderate 4D/3N",
+  "seo_title": "4-Day Machu Picchu Itinerary with Cusco & Sacred Valley",
+  "meta_description": "Explore Cusco, Sacred Valley, and Machu Picchu on a 4-day journey ideal for travelers seeking comfort, culture, and adventure.",
+  "keyword": "Sacred Valley and Machu Picchu Tour",
+  "price_from_usd": "1,083",
+  "featured_image": "https://www.perugrandtravel.com/wp-content/uploads/2022/04/machu-picchu-tour-4d.webp",
+  "gallery_images": [
+    "https://www.perugrandtravel.com/wp-content/uploads/2022/04/travel-sacred-valley.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2022/04/machu-picchu-tour-4d.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/04/cropped-peru-grand-travel-logo-colour-favicon-32x32.png",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/04/cropped-peru-grand-travel-logo-colour-favicon-192x192.png",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/04/cropped-peru-grand-travel-logo-colour-favicon-180x180.png",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/04/cropped-peru-grand-travel-logo-colour-favicon-270x270.png",
+    "https://www.perugrandtravel.com/wp-content/uploads/2025/01/br.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2025/01/es-1.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2026/01/it.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/04/peru-grand-travel-logo-colour.png",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/06/Machu-Picchu-and-Peru-Packages.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/09/Machu-Picchu.webp"
+  ],
+  "itinerary_days": [
+    "Day 1: Airport - Hotel Cusco (Buy flights arriving in Cusco at the time of your choice)",
+    "Day 2: Sacred Valley of the Incas - Aguas Calientes (Awanacancha, Pisaq, Urubamba and Ollantaytambo) - 08 hrs tour",
+    "Day 3: Machu Picchu - Cusco - 02h30m tour",
+    "Day 4: Hotel - Cusco Airport (Buy return flights at the time of your choice)"
+  ],
+  "tour_category_ids": [
+    90
+  ],
+  "tour_tag_ids": [
+    45
+  ],
+  "note": "Tabs Overview/Included/Pricing/What to Bring: copiar desde wp-admin → Tour → Edit (Tourmaster no expone body en REST)."
+}

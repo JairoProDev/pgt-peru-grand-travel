@@ -1,0 +1,96 @@
+{
+  "date": "2026-09-01",
+  "tours": [
+    {
+      "slug": "salkantay-trek-4-days",
+      "ok": true,
+      "title": "Salkantay SKY Trek 4 days"
+    },
+    {
+      "slug": "maras-moray-and-the-salineras-full-day",
+      "ok": true,
+      "title": "Tour of Maras, Moray &#038; Salineras from Cusco"
+    },
+    {
+      "slug": "qeswachaka-bridge-full-day",
+      "ok": true,
+      "title": "Inca Bridge of Q&#8217;eswachaka Full Day"
+    },
+    {
+      "slug": "sacred-valley-short-inca-trail-3d",
+      "ok": true,
+      "title": "Sacred Valley + Short Inca Trail 3 days"
+    },
+    {
+      "slug": "incredible-machu-picchu-2d",
+      "ok": true,
+      "title": "Incredible Machu Picchu 2D/1N"
+    },
+    {
+      "slug": "the-classic-salkantay-trek-5d",
+      "ok": true,
+      "title": "Salkantay SKY Trek 5 days"
+    },
+    {
+      "slug": "cusco-corpus-christi",
+      "ok": true,
+      "title": "Corpus Christi in Cusco 4 days"
+    },
+    {
+      "slug": "machu-picchu-moderate-4d",
+      "ok": true,
+      "title": "Machu Picchu Moderate 4D/3N"
+    },
+    {
+      "slug": "humantay-lake-full-day",
+      "ok": true,
+      "title": "Humantay Lake Hike (Full Day)"
+    },
+    {
+      "slug": "cusco-planetarium",
+      "ok": true,
+      "title": "Cusco Planetarium Experience"
+    },
+    {
+      "slug": "grand-deluxe-cusco-machu-picchu-by-casa-andina-hotels-5-days",
+      "ok": true,
+      "title": "Grand Deluxe Cusco &#038; Machu Picchu by Casa Andina hotels 5 days"
+    },
+    {
+      "slug": "machu-picchu-challenge-8d",
+      "ok": true,
+      "title": "Machu Picchu Challenge 8D/7N"
+    },
+    {
+      "slug": "spectacular-cusco-7-days",
+      "ok": true,
+      "title": "Spectacular Cusco 7 days"
+    },
+    {
+      "slug": "machu-picchu-express-3d",
+      "ok": true,
+      "title": "Machu Picchu Express 3D/2N"
+    },
+    {
+      "slug": "tour-south-valley-cusco",
+      "ok": true,
+      "title": "Tour South Valley"
+    },
+    {
+      "slug": "wonder-of-peru-coast-andes-and-rainforest-13d",
+      "ok": true,
+      "title": "Wonder of Peru Coast, Andes and Rainforest 13D/12N"
+    },
+    {
+      "slug": "choquequirao-trek-5d",
+      "ok": true,
+      "title": "Choquequirao Trek 5 days"
+    },
+    {
+      "slug": "grand-deluxe-cusco-machu-picchu-by-inkaterra-hotels-5-days",
+      "ok": true,
+      "title": "Grand Deluxe Cusco &#038; Machu Picchu by Inkaterra Hotels 5 days"
+    }
+  ],
+  "errors": []
+}

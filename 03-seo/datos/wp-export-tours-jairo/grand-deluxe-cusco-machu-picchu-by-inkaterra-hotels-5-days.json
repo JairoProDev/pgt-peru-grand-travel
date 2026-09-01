@@ -1,0 +1,38 @@
+{
+  "slug": "grand-deluxe-cusco-machu-picchu-by-inkaterra-hotels-5-days",
+  "url_wp": "https://www.perugrandtravel.com/tour/grand-deluxe-cusco-machu-picchu-by-inkaterra-hotels-5-days/",
+  "drupal_alias": "/tour/grand-deluxe-cusco-machu-picchu-by-inkaterra-hotels-5-days/",
+  "title": "Grand Deluxe Cusco &#038; Machu Picchu by Inkaterra Hotels 5 days",
+  "h1": "Grand Deluxe Cusco &#038; Machu Picchu by Inkaterra Hotels 5 days",
+  "seo_title": "Private Machu Picchu Tour 5 Days with Inkaterra",
+  "meta_description": "Experience a 5-day private luxury journey through Cusco, the Sacred Valley and Machu Picchu, staying at Inkaterra eco-luxury hotels.",
+  "keyword": "Inkaterra Hotels",
+  "price_from_usd": "1,852",
+  "featured_image": "https://www.perugrandtravel.com/wp-content/uploads/2024/12/inkaterra-hotel-sacred-valley.webp",
+  "gallery_images": [
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/12/inkaterra-hotel-sacred-valley.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/04/cropped-peru-grand-travel-logo-colour-favicon-32x32.png",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/04/cropped-peru-grand-travel-logo-colour-favicon-192x192.png",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/04/cropped-peru-grand-travel-logo-colour-favicon-180x180.png",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/04/cropped-peru-grand-travel-logo-colour-favicon-270x270.png",
+    "https://www.perugrandtravel.com/wp-content/uploads/2025/01/br.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2025/01/es-1.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2026/01/it.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/04/peru-grand-travel-logo-colour.png",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/06/Machu-Picchu-and-Peru-Packages.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/09/Machu-Picchu.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/09/Inca-Trail-to-Machu-Picchu.webp"
+  ],
+  "itinerary_days": [
+    "Day 1:Cusco Airport – Sacred Valley Hotel (Buy flights arriving in Cusco at the time of your preference)",
+    "Day 2: Sacred Valley of the Incas (Salineras, Moray and Ollantaytambo) + connection to Aguas Calientes",
+    "Day 3: Machu Picchu – Return to Cusco",
+    "Day 4:Cusco City Tour (Cathedral, Qoricancha, Sacsayhuaman, Qenqo, Puka Pukara and Tambomachay) – 05 hrs of tour",
+    "Day 5: Hotel – Cusco Airport"
+  ],
+  "tour_category_ids": [],
+  "tour_tag_ids": [
+    101
+  ],
+  "note": "Tabs Overview/Included/Pricing/What to Bring: copiar desde wp-admin → Tour → Edit (Tourmaster no expone body en REST)."
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "choquequirao-trek-5d",
+  "url_wp": "https://www.perugrandtravel.com/tour/choquequirao-trek-5d/",
+  "drupal_alias": "/tour/choquequirao-trek-5d/",
+  "title": "Choquequirao Trek 5 days",
+  "h1": "Choquequirao Trek 5 days",
+  "seo_title": "5-Day Choquequirao Trek from Cusco",
+  "meta_description": "Trek to the hidden Inca citadel of Choquequirao through remote Andean landscapes and breathtaking mountain scenery.",
+  "keyword": "choquequirao trek",
+  "price_from_usd": "90",
+  "featured_image": "https://www.perugrandtravel.com/wp-content/uploads/2024/08/choquequirao-5d-1.webp",
+  "gallery_images": [
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/08/choquequirao-5d-1.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/04/cropped-peru-grand-travel-logo-colour-favicon-32x32.png",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/04/cropped-peru-grand-travel-logo-colour-favicon-192x192.png",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/04/cropped-peru-grand-travel-logo-colour-favicon-180x180.png",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/04/cropped-peru-grand-travel-logo-colour-favicon-270x270.png",
+    "https://www.perugrandtravel.com/wp-content/uploads/2025/01/br.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2025/01/es-1.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2026/01/it.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/04/peru-grand-travel-logo-colour.png",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/06/Machu-Picchu-and-Peru-Packages.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/09/Machu-Picchu.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/09/Inca-Trail-to-Machu-Picchu.webp"
+  ],
+  "itinerary_days": [
+    "Day 1: Cusco – Cachora – Cocamasana – Rosalina Beach",
+    "Day 2: Rosalina – Choquequirao",
+    "Day 3: Choquequirao – Raqaypata",
+    "Day 4:  Raqaypata – Chikisca",
+    "Day 5: Chikisca – Cachora – Cusco"
+  ],
+  "tour_category_ids": [
+    92
+  ],
+  "tour_tag_ids": [
+    55
+  ],
+  "note": "Tabs Overview/Included/Pricing/What to Bring: copiar desde wp-admin → Tour → Edit (Tourmaster no expone body en REST)."
+}

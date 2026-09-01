@@ -1,0 +1,32 @@
+{
+  "slug": "cusco-planetarium",
+  "url_wp": "https://www.perugrandtravel.com/tour/cusco-planetarium/",
+  "drupal_alias": "/tour/cusco-planetarium/",
+  "title": "Cusco Planetarium Experience",
+  "h1": "Cusco Planetarium Experience",
+  "seo_title": "Cusco Planetarium Experience - Peru Grand Travel",
+  "meta_description": "Book your excursion to the Cusco Planetarium. Learn more about Inca astronomy, how they used it for religion and agriculture.",
+  "keyword": "Cusco Planetarium",
+  "price_from_usd": "1,009",
+  "featured_image": "https://www.perugrandtravel.com/wp-content/uploads/2024/08/planetario-cusco-1d.webp",
+  "gallery_images": [
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/08/planetario-cusco-1d.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/04/cropped-peru-grand-travel-logo-colour-favicon-32x32.png",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/04/cropped-peru-grand-travel-logo-colour-favicon-192x192.png",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/04/cropped-peru-grand-travel-logo-colour-favicon-180x180.png",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/04/cropped-peru-grand-travel-logo-colour-favicon-270x270.png",
+    "https://www.perugrandtravel.com/wp-content/uploads/2025/01/br.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2025/01/es-1.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2026/01/it.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/04/peru-grand-travel-logo-colour.png",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/06/Machu-Picchu-and-Peru-Packages.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/09/Machu-Picchu.webp",
+    "https://www.perugrandtravel.com/wp-content/uploads/2024/09/Inca-Trail-to-Machu-Picchu.webp"
+  ],
+  "itinerary_days": [
+    "Day 1: Cusco Planetarium Experience – in group – 2 hours experience"
+  ],
+  "tour_category_ids": [],
+  "tour_tag_ids": [],
+  "note": "Tabs Overview/Included/Pricing/What to Bring: copiar desde wp-admin → Tour → Edit (Tourmaster no expone body en REST)."
+}
