@@ -17,7 +17,7 @@ Guía beta EN (paso a paso): `../pgt-web/docs/GUIA-VIVA-BETA-NEXT.md`
 | [ ] | N3 | **QA manual** en https://next.perugrandtravel.com | Confiar ante Clever | Tabla FASE 1 en `PASOS-SOLO-JAIRO.md` |
 | [x] | N4 | **GTM:** `whatsapp_click` → GA4 (`G-NTXD373H4Q`) | Tag fired en Tag Assistant 3 sep | Versión 2 publicada |
 | [x] | N4b | GA4: `whatsapp_click` = **evento clave** (estrella) | KPI Clever | Nombre OK; flujo UI puede decir “proof of concept” hasta que lleguen hits del stream EN |
-| [ ] | N4c | Confirmar en DebugView / Tiempo real desde `next.` | Que el flujo activo sea perugrandtravel.com-GA4 | Admin → DebugView |
+| [x] | N4c | Confirmar en Tiempo real desde `next.` | Flujo EN recibe el evento | `whatsapp_click: 1` en Resumen tiempo real 3 sep |
 | [ ] | N3 | **QA manual** en https://next.perugrandtravel.com | Confiar ante Clever | Tabla FASE 1 en `PASOS-SOLO-JAIRO.md` |
 | [ ] | N5 | Ticket Banahosting (opcional) load 47–58 | cPanel 500 | Error ID `381fb3f66720c` |
 | [ ] | N6 | Presentación 4 sep / plan SEO Clever | Capas SEO + next. + scorecard | `PRESENTACION-4SEP-*.md` + `GUIA-VIVA-BETA-NEXT.md` |
