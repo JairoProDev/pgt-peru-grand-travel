@@ -1,8 +1,9 @@
 # Qué hacer ahora — 3 sep 2026
 
-**Hilación de trabajo:** `mi-carrera/MAPA-TRABAJO-JAIRO.md` · checks: `mi-carrera/TAREAS-VIVAS.md`
+**Hilación:** `mi-carrera/MAPA-TRABAJO-JAIRO.md` · checks: `mi-carrera/TAREAS-VIVAS.md`  
+**Beta EN lista (DNS+SSL):** https://next.perugrandtravel.com · guía: `pgt-web/docs/GUIA-VIVA-BETA-NEXT.md`
 
-**DNS beta (ahora):** WHM CNAME — campo **Nombre** = `next` (o FQDN con punto); campo **CNAME** = `cname.vercel-dns.com.` · Mail EN = Google Workspace, no cPanel. Detalle: `02-empresa/HOSTING-BANAHOSTING-INVENTARIO.md`.
+**P0 humano ahora:** (1) QA manual en `next.` · (2) GTM `whatsapp_click` → GA4 · (3) no tocar `www`.
 
 **Drupal:** 18/18 tours HTTP 200. HTML **v7** (badges OK). Imágenes: 6/tour listas en `assets/ready` + `media-ready.json` (Name/Alt/Title). Subida Media Library pendiente (`upload-tour-media-to-drupal.mjs`). Presentación: `mi-carrera/PRESENTACION-4SEP-TOURS-SEO-GEO.md` + one-pager Clever + `CHECKLIST-SEO-CAPAS.md`. Logs: `tail -f /tmp/batch-v7b-update.log`.
 

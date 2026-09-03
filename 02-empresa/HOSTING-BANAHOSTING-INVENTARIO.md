@@ -158,10 +158,10 @@ MX Google, TXT SPF/DKIM/DMARC, A de `@`/`www`. Solo un CNAME nuevo.
 
 ## Implicaciones para pgt-web / cutover EN
 
-1. Banahosting **se mantiene** (16 sitios + mail + DNS) aunque EN vaya a Vercel.
-2. DNS de `next.perugrandtravel.com` se hace en **WHM Zone Manager**, no en client area “Dominios”.
-3. Load 47 = argumento de negocio: **WP shared saturado**; Next.js en Vercel saca EN de esa caja.
-4. Tres `.pe` no-turismo: preguntar a Clever si se quedan o se archivan.
+1. Banahosting **se mantiene** (16 sitios + DNS + MX locales PT/ES; mail EN = Google).
+2. DNS beta: **hecho** 3 sep — `next` → Vercel. Edit en WHM Zone Manager.
+3. Load alto = argumento de negocio; cPanel puede seguir en 500.
+4. Tres `.pe` no-turismo: preguntar a Clever.
 
 ---
 

@@ -183,6 +183,13 @@ No escribas contraseñas.
 - `optimize-tour-images.mjs`: 6 JPEG/tour ≤1600px q82 + `media-ready.json`; `upload-tour-media-to-drupal.mjs` listo
 - Presentación mañana: `mi-carrera/PRESENTACION-4SEP-TOURS-SEO-GEO.md`, one-pager Clever, `CHECKLIST-SEO-CAPAS.md` (mapa capas + techo Drupal/WP + CMS propio sin nombrar vendor)
 
+## 3 sep 2026 (tarde) — `next.` vivo
+
+- CNAME WHM OK · Vercel domain OK · env `SITE_URL` + `ENV=next` · redeploy
+- URL: https://next.perugrandtravel.com (200, noindex, canonical next)
+- Snapshot zona + guía: `pgt-web/docs/GUIA-VIVA-BETA-NEXT.md`
+- Siguiente humano: QA manual + GTM whatsapp_click → GA4
+
 ## 3 sep 2026 (tarde) — mapa de trabajo + correo EN
 
 - Registro vivo numerado: `mi-carrera/MAPA-TRABAJO-JAIRO.md` (JT-001…JT-078, incluye pre-empleo / jairosaul.com)

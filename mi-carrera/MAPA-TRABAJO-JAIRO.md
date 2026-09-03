@@ -7,7 +7,7 @@
 **Narrativa diaria:** [`../01-situacion/BITACORA.md`](../01-situacion/BITACORA.md)  
 **Hechos verificados:** [`../01-situacion/HECHOS.md`](../01-situacion/HECHOS.md)
 
-Último ID usado: **JT-078** (3 sep 2026). Siguiente: **JT-079**.
+Último ID usado: **JT-082** (3 sep 2026). Siguiente: **JT-083**.
 
 ---
 
@@ -117,6 +117,10 @@ Fases: `pre-pgt` · `onboarding` · `seo-ops` · `drupal` · `pgt-web` · `hosti
 | JT-076 | 2026-09-01 | investigación | Vaultwarden diseño | Excel passwords = legacy | `GESTION-ACCESOS-DISENO.md` | diseño (no implantado) |
 | JT-077 | 2026-09-03 | pgt-web | Scorecard multimercado | EN cutover vs Drupal; 1 dominio/idioma | `pgt-web/docs/BETA-SCORECARD-Y-MULTIMERCADO.md` | hecho |
 | JT-078 | 2026-09-03 | carrera | Este mapa + checklist vivo | Unificar hilación pre-empleo → Banahosting | este archivo + `TAREAS-VIVAS.md` | hecho |
+| JT-079 | 2026-09-03 | hosting-dns | CNAME `next` creado en WHM | Zona: `next.perugrandtravel.com` → `cname.vercel-dns.com` TTL 14400; SOA serial `2026090300` | export zona Jairo | hecho |
+| JT-080 | 2026-09-03 | hosting-dns | Lectura zona completa | MX Google confirmado en zona; SPF RD+SendGrid; SendGrid/RD/MailPoet; ~30 DCV Comodo en `mail.` (ignorar) | snapshot en `GUIA-VIVA-BETA-NEXT.md` | hecho |
+| JT-081 | 2026-09-03 | pgt-web | Dominio Vercel + env next | `vercel domains add`; `SITE_URL=https://next.perugrandtravel.com`; `ENV=next`; redeploy | https://next.perugrandtravel.com 200/noindex/canonical | hecho |
+| JT-082 | 2026-09-03 | pgt-web | Guía viva beta | `docs/GUIA-VIVA-BETA-NEXT.md` + update PASOS/GUIA-DNS | repo pgt-web | hecho |
 
 ---
 
