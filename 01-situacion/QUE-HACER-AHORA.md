@@ -3,9 +3,15 @@
 **Hilación:** `mi-carrera/MAPA-TRABAJO-JAIRO.md` · checks: `mi-carrera/TAREAS-VIVAS.md`  
 **Beta EN lista (DNS+SSL):** https://next.perugrandtravel.com · guía: `pgt-web/docs/GUIA-VIVA-BETA-NEXT.md`
 
-**P0 humano ahora:** (1) QA manual en `next.` · (2) GTM `whatsapp_click` → GA4 · (3) no tocar `www`.
+**P0 humano ahora:** (1) DebugView: `whatsapp_click` desde `next.` en flujo EN · (2) QA manual `next.` · (3) presentación Clever · (4) no tocar `www`.
 
-**Drupal:** 18/18 tours HTTP 200. HTML **v7** (badges OK). Imágenes: 6/tour listas en `assets/ready` + `media-ready.json` (Name/Alt/Title). Subida Media Library pendiente (`upload-tour-media-to-drupal.mjs`). Presentación: `mi-carrera/PRESENTACION-4SEP-TOURS-SEO-GEO.md` + one-pager Clever + `CHECKLIST-SEO-CAPAS.md`. Logs: `tail -f /tmp/batch-v7b-update.log`.
+**Guías paso a paso (dónde está todo):**
+- Beta DNS + checklist vivo: `pgt-web/docs/GUIA-VIVA-BETA-NEXT.md`
+- Solo Jairo (GTM, QA, cutover): `pgt-web/docs/PASOS-SOLO-JAIRO.md`
+- Checks diarios: `mi-carrera/TAREAS-VIVAS.md`
+- Mapa JT-001+: `mi-carrera/MAPA-TRABAJO-JAIRO.md`
+
+**Drupal:** 18/18 tours HTTP 200. HTML **v7** (badges OK). Imágenes: **subida EN CURSO** → `tail -f /tmp/media-upload.log` · estado → `python3 03-seo/scripts/status-tours-jairo.py --live`. Presentación: `mi-carrera/PRESENTACION-4SEP-TOURS-SEO-GEO.md` + one-pager Clever + `CHECKLIST-SEO-CAPAS.md`.
 
 ## Estilo (decisión GEO/SEO)
 
