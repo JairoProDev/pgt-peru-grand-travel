@@ -183,6 +183,13 @@ No escribas contraseñas.
 - `optimize-tour-images.mjs`: 6 JPEG/tour ≤1600px q82 + `media-ready.json`; `upload-tour-media-to-drupal.mjs` listo
 - Presentación mañana: `mi-carrera/PRESENTACION-4SEP-TOURS-SEO-GEO.md`, one-pager Clever, `CHECKLIST-SEO-CAPAS.md` (mapa capas + techo Drupal/WP + CMS propio sin nombrar vendor)
 
+## 3 sep 2026 (tarde) — mapa de trabajo + correo EN
+
+- Registro vivo numerado: `mi-carrera/MAPA-TRABAJO-JAIRO.md` (JT-001…JT-078, incluye pre-empleo / jairosaul.com)
+- Checklist siguiente paso: `mi-carrera/TAREAS-VIVAS.md`
+- DNS público: MX EN → **Google** (`aspmx.l.google.com`); SPF RD Station + SendGrid (sin `_spf.google.com`); `next.` aún NXDOMAIN
+- Modal CNAME WHM: solo **Nombre** + **CNAME** (no TTL/Target)
+
 ## 3 sep 2026 (tarde) — Banahosting / WHM (cuenta Clever)
 
 - Login `clever@` + 2FA OK · Reseller-1 `perutrilhainca.com` · **$239/año** hasta abr 2027

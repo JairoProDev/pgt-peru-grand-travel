@@ -19,6 +19,8 @@ Repo privado: [https://github.com/JairoProDev/pgt-peru-grand-travel](https://git
 - CRM (menciones de Clever, no encargo): `08-investigacion/CRM-PGT-Y-VECTORIFY.md` — mapear, no construir
 - Cuarteto SEO: Ricardo, Lizet (también ads), Arely (½), Jairo · ~73 tours + ~454 blogs
 - Empieza aquí cada día: `01-situacion/QUE-HACER-AHORA.md`
+- **Mapa de todo lo hecho (numerado, desde la auditoría jairosaul.com):** `mi-carrera/MAPA-TRABAJO-JAIRO.md`
+- **Checklist vivo (hecho / pendiente / siguiente):** `mi-carrera/TAREAS-VIVAS.md`
 
 
 

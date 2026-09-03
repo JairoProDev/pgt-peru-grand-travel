@@ -58,6 +58,10 @@ Facebook: `.en` / `.br` / `.esp` (+ cuentas “falsas” de mercado — riesgo �
 Instagram: @perugrandtravel, dicasviagem, perutravelguides.  
 TikTok varios · YouTube · Vimeo · LinkedIn · X · Pinterest · Flickr · Medium · Spotify · Linktree.
 
+## Correo `@perugrandtravel.com` (dónde vive)
+
+**No está en los buzones cPanel de Banahosting como destino MX.** DNS 3 sep 2026: MX `aspmx.l.google.com` (+ alt1–4) = **Google Workspace / Gmail**. DKIM `google._domainkey` presente. Hosts `webmail.` / `mail.` siguen apuntando a IP Banahosting `.120` (nombres viejos). PT/ES/IT satélites: MX al propio dominio (correo local cPanel). Detalle: `HOSTING-BANAHOSTING-INVENTARIO.md`.
+
 ## Correos relevantes al rol
 
 | Correo | Rol aparente |
