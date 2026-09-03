@@ -15,7 +15,8 @@ Guía beta EN (paso a paso): `../pgt-web/docs/GUIA-VIVA-BETA-NEXT.md`
 | [x] | N1 | CNAME `next` en WHM | Beta sin tocar www | Zona: `next` → `cname.vercel-dns.com` TTL 14400 |
 | [x] | N2 | Vercel domain + env + redeploy | SSL + canonical `next.` | Domains add + SITE_URL + ENV=next · 200/noindex |
 | [ ] | N3 | **QA manual** en https://next.perugrandtravel.com | Confiar ante Clever | Tabla FASE 1 en `PASOS-SOLO-JAIRO.md` |
-| [ ] | N4 | **GTM:** `whatsapp_click` → GA4 (`G-NTXD373H4Q` / prop `368486554`) | Medir leads | DebugView + conversión |
+| [x] | N4 | **GTM:** `whatsapp_click` → GA4 (`G-NTXD373H4Q`) | Tag fired en Tag Assistant 3 sep | Falta marcar conversión en GA4 Admin |
+| [ ] | N4b | GA4: marcar `whatsapp_click` como conversión | KPI Clever | Admin → Eventos / Conversiones |
 | [ ] | N5 | Ticket Banahosting (opcional) load 47–58 | cPanel 500 | Error ID `381fb3f66720c` |
 | [ ] | N6 | Presentación 4 sep | Capas SEO + 18 tours | `PRESENTACION-4SEP-*.md` |
 | [ ] | N7 | WhatsApp pacto ~25 sep | Congelar S/ 5.000 | captura (no Git) |
