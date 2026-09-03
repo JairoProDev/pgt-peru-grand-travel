@@ -31,7 +31,7 @@ Blogs con usuarios `seo3@` / `copywriter` / `ClairePGT` en varios `/blog/wp-admi
 
 ## Hosting y DNS
 
-- **Banahosting** — usuario raíz típico `clever@perugrandtravel.com`
+- **Banahosting** — Reseller-1 · 17 cuentas cPanel · inventario vivo `02-empresa/HOSTING-BANAHOSTING-INVENTARIO.md` (3 sep 2026)
 - **Registros.com** — dominios
 - **GoDaddy** — dominios
 - **cPanel** por cada sitio (usuarios distintos por dominio)
