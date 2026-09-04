@@ -10,22 +10,24 @@
 
 ---
 
-## Respuesta corta
+## Respuesta corta (actualizado 4 sep 2026)
 
-| Fase | Tours | Blogs | Páginas estáticas |
-|------|-------|-------|-------------------|
-| **Cutover EN (ahora)** | Repo JSON | Repo JSON | Repo JSON |
-| **Mes 1–2 post-cutover** | Payload (+ sync) | Repo JSON | Repo JSON |
-| **Largo plazo** | Payload | Payload o repo | Payload hubs; legal en repo |
+| Fase | Tours | Blogs | Páginas |
+|------|-------|-------|---------|
+| **Ahora en next.** | Payload + JSON backup | Payload + JSON backup | Payload + JSON backup |
+| **Cutover `www`** | Lo mismo. DNS de `www` no se toca hasta QA. | igual | igual |
+
+Payload **ya no es stub**. Neon free, 185 tours / 662 blogs / 170 pages, hybrid SSG. Git JSON sigue siendo backup y fuente de build. Editores trabajan en `/admin` (Areli, Jairo, Lizet, Ricardo).
 
 **No elimines WordPress hasta 30 días post-cutover** con GSC estable — ver abajo.
+
 
 ---
 
 ## Por qué repo ahora (cutover v1)
 
 1. **591 URLs SSG** ya generadas — build predecible, rollback = git revert  
-2. **Sin Postgres en prod** — Payload aún stub; no bloquear cutover  
+2. **Sin Postgres de pago** — Neon marketplace **free_v3**. Payload está en producción en `next.` (hybrid). El cutover de `www` sigue siendo DNS, no “esperar CMS”.  
 3. **SEO parity** — URLs + contenido versionado en PR  
 4. **Coste** — Vercel static = barato vs DB + CMS hosting  
 5. **Blogs cambian poco** — 455 posts; scrape batch es suficiente v1  

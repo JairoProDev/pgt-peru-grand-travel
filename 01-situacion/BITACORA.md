@@ -2,7 +2,26 @@
 
 No escribas contraseñas.
 
+## 3–4 sep 2026 — Payload en next. (no es stub)
+
+**Hecho en `pgt-web` (commits en ese repo):**
+
+- CMS live: https://next.perugrandtravel.com/admin/ — Payload 3.88 + Neon **free_v3** (`pgt-cms`, iad1). No plan de pago.
+- Catálogo importado (no clonar EN → ES/PT): tours **185** · blogs **662** · pages **170**.
+- Reparto **igual por tipo** (no “Lizet=tours”): Areli / Jairo / Lizet / Ricardo. `assignee` en sidebar. Borrar = solo admin.
+- Equipo: **Areli** (no Arely / Cristina). Ricardo **no** filtra precios. Einel = jefe interino (mañanas).
+- Hybrid: SSG lee JSON de git; tras Save, ISR lee Neon. `CONTENT_SOURCE=hybrid`.
+- Superpoderes vs WP/Drupal: Live Preview (móvil/tablet/desktop), tabs Contenido · SEO · HTML, contador de caracteres SEO (50–60 / 120–160), HTML libre tipo Full HTML, filtro “mi parte”.
+- Preview pública: `/es/blogs/`, `/pt/blogs/`, `/es/contacto/`, `/pt/contato/`, `/pt/peru/cusco/` — `www` **intocado**.
+- PageSpeed en curso en `next.`: `llms.txt` con H1 + vínculos Markdown, LCP hero `fetchpriority=high` + `preload` (Next 16), GTM `lazyOnload`, AVIF, browserslist moderno. **No** activar source maps de producción (inflan JS). Unused JS grande = GTM, no el bundle propio.
+- WebMCP (origin trial): tools `request_peru_quote`, `open_packages`, `open_contact` si el browser las soporta. `llms.txt` las documenta para agentes.
+
+**Cuentas (no pegar passwords aquí):** `cms@` admin · `areli@` `lizet@` `ricardo@` editors. Cambiar clave al primer login.
+
+**Qué no:** GraphQL, `src/app/[locale]/`, Media/Blob, drafts/versions (Neon free), cutover DNS `www`.
+
 ## 25 ago 2026 — día 1
+
 
 **Equipo SEO**
 

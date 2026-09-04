@@ -1,19 +1,16 @@
-# Qué hacer ahora — 3 sep 2026
+# Qué hacer ahora — 4 sep 2026
 
 **Hilación:** `mi-carrera/MAPA-TRABAJO-JAIRO.md` · checks: `mi-carrera/TAREAS-VIVAS.md`  
-**Beta EN lista (DNS+SSL):** https://next.perugrandtravel.com · guía: `pgt-web/docs/GUIA-VIVA-BETA-NEXT.md`
+**Beta EN:** https://next.perugrandtravel.com · CMS: https://next.perugrandtravel.com/admin/ · guía: `pgt-web/docs/PAYLOAD.md` + `pgt-web/docs/GUIA-VIVA-BETA-NEXT.md`
 
-**P0 humano ahora:** (1) DebugView: `whatsapp_click` desde `next.` en flujo EN · (2) QA manual `next.` · (3) presentación Clever · (4) no tocar `www`.
+**P0 ahora:** (1) que Areli / Lizet / Ricardo entren al CMS y filtren “mi parte” · (2) QA PageSpeed en `next.` tras el deploy de LCP/`llms.txt` · (3) no tocar `www`.
 
-**Guías paso a paso (dónde está todo):**
-- Beta DNS + checklist vivo: `pgt-web/docs/GUIA-VIVA-BETA-NEXT.md`
-- Solo Jairo (GTM, QA, cutover): `pgt-web/docs/PASOS-SOLO-JAIRO.md`
-- Checks diarios: `mi-carrera/TAREAS-VIVAS.md`
-- Mapa JT-001+: `mi-carrera/MAPA-TRABAJO-JAIRO.md`
+**Pitch interno (Einel / Ricardo / Clever):** Live Preview + pestaña SEO con contador + HTML libre. WP y Drupal no tienen ese flujo aquí. Drupal staging sigue para el lote de tours de Jairo; el catálogo público next. ya se edita en Payload.
 
-**Drupal:** 18/18 tours HTTP 200. HTML **v7** (badges OK). Imágenes: **subida EN CURSO** → `tail -f /tmp/media-upload.log` · estado → `python3 03-seo/scripts/status-tours-jairo.py --live`. Presentación: `mi-carrera/PRESENTACION-4SEP-TOURS-SEO-GEO.md` + one-pager Clever + `CHECKLIST-SEO-CAPAS.md`.
+**Drupal:** 18/18 tours HTTP 200. HTML **v7**. Presentación: `mi-carrera/PRESENTACION-4SEP-TOURS-SEO-GEO.md`.
 
 ## Estilo (decisión GEO/SEO)
+
 
 - Sin emojis decorativos; listas con • ✓ ✕ por CSS.
 - Badges = `<ul class="pgt-badges"><li class="pgt-badge">…` (CKEditor 5 no debe fusionarlos).
