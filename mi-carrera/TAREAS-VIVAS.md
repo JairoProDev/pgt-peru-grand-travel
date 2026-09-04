@@ -4,7 +4,11 @@ Marca `[x]` al terminar. **Añade** filas abajo; no borres historia.
 Mapa narrado: [`MAPA-TRABAJO-JAIRO.md`](MAPA-TRABAJO-JAIRO.md)  
 Guía beta EN (paso a paso): `../pgt-web/docs/GUIA-VIVA-BETA-NEXT.md`
 
-**Hoy:** 3 sep 2026.
+**Hoy:** 5 sep 2026. Briefing: [`../01-situacion/BRIEFING-5SEP-2026.md`](../01-situacion/BRIEFING-5SEP-2026.md) · CMS: [`../01-situacion/COMO-EDITAR-CMS.md`](../01-situacion/COMO-EDITAR-CMS.md)
+
+**P0 ahora:** (1) que Areli / Lizet / Ricardo entren al CMS y filtren “mi parte” · (2) QA PageSpeed en `next.` · (3) no tocar `www`.
+
+**Locale (5 sep, en deploy):** footer/nav/CTA/búsqueda ES+PT con rutas reales; ⌘K por mercado; lang switch on-path; hreflang tours/blogs; preview de imagen por URL; `poweredByHeader: false`. No clonar EN→ES (`/peru/` no existe en ES).
 
 ---
 

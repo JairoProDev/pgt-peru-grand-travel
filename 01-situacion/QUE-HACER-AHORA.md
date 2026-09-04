@@ -3,7 +3,11 @@
 **Hilación:** `mi-carrera/MAPA-TRABAJO-JAIRO.md` · checks: `mi-carrera/TAREAS-VIVAS.md`  
 **Beta EN:** https://next.perugrandtravel.com · CMS: https://next.perugrandtravel.com/admin/ · guía: `pgt-web/docs/PAYLOAD.md` + `pgt-web/docs/GUIA-VIVA-BETA-NEXT.md`
 
-**P0 ahora:** (1) que Areli / Lizet / Ricardo entren al CMS y filtren “mi parte” · (2) QA PageSpeed en `next.` tras el deploy de LCP/`llms.txt` · (3) no tocar `www`.
+**P0 ahora:** (1) que Areli / Lizet / Ricardo entren al CMS y filtren “mi parte” — guía `COMO-EDITAR-CMS.md` · (2) QA PageSpeed en `next.` · (3) no tocar `www`.
+
+**Locale (5 sep):** footer/nav/CTA/búsqueda ES+PT con rutas reales; índice ⌘K por mercado; lang switch on-path; hreflang; preview `heroImage` por URL; sin `X-Powered-By`. No clonar EN→ES.
+
+**Pack mañana:** [`BRIEFING-5SEP-2026.md`](BRIEFING-5SEP-2026.md) · [`COMO-EDITAR-CMS.md`](COMO-EDITAR-CMS.md) · [`../08-investigacion/COMPETENCIA-ACCION-SEMANA.md`](../08-investigacion/COMPETENCIA-ACCION-SEMANA.md)
 
 **Pitch interno (Einel / Ricardo / Clever):** Live Preview + pestaña SEO con contador + HTML libre. WP y Drupal no tienen ese flujo aquí. Drupal staging sigue para el lote de tours de Jairo; el catálogo público next. ya se edita en Payload.
 
