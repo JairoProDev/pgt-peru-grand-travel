@@ -51,8 +51,8 @@ next. ya sirve ES/PT con navegación real. El KPI sigue siendo `whatsapp_click` 
 
 - Algunos tours ES tienen HTML sucio de WP (incluye/no incluye duplicados). Eso se limpia en Payload pestaña HTML, no en un scrape nuevo.
 - `next.` sigue noindex. Google no debe tratarlo como canónico.
-- Lang switch ahora intenta quedarse en el mismo tipo de página (tour↔tour). Si el slug no existe en el otro idioma, cae a home — no es un 404 inventado.
+- Lang switch se queda en el mismo tipo de página (tour↔tour). Si el slug no existe en el otro idioma, cae a `/packages/` o al índice de blogs — no a un 404.
 
 ## Después de este briefing
 
-Ver `pgt-web/docs/PENDIENTES-BETA-5SEP.md` y `08-investigacion/COMPETENCIA-ACCION-SEMANA.md`.
+Ver `pgt-web/docs/PENDIENTES-BETA-5SEP.md`, `08-investigacion/COMPETENCIA-ACCION-SEMANA.md` y el brief citado [`BRIEF-COMPETITIVO-PGT-2026-09-04.md`](../08-investigacion/BRIEF-COMPETITIVO-PGT-2026-09-04.md).

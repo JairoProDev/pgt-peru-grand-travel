@@ -4,7 +4,11 @@
 **Norte:** más leads WhatsApp calificados. No “ganar TTFB”.  
 **Canónico público:** WordPress `www`. Lo que sigue se practica en [next.](https://next.perugrandtravel.com) y se copia a WP solo si Einel lo pide.
 
-Lectura previa: [`COMPETIDORES.md`](COMPETIDORES.md), [`TURISMO-PERU-2026.md`](TURISMO-PERU-2026.md).
+Lectura previa: [`BRIEF-COMPETITIVO-PGT-2026-09-04.md`](BRIEF-COMPETITIVO-PGT-2026-09-04.md) (citas Alpaca/GYG/SAS, 4 sep), [`COMPETIDORES.md`](COMPETIDORES.md), [`TURISMO-PERU-2026.md`](TURISMO-PERU-2026.md).
+
+**Norte de esa ficha:** no perseguir el volumen de reviews de Alpaca ni el checkout de GetYourGuide. Ganar como **operador licenciado en Cusco que responde WhatsApp con RUC, permisos reales y tres productos claros**. No copiar “#1 on TripAdvisor” (Alpaca se anuncia #1 y su listing estaba ~#226).
+
+`whatsapp_click` → GA4 **ya está** (GTM). Esta semana: bloquecito de permisos + tabla Classic vs Short vs Salkantay en next.; Einel trae licencia/RUC 2026 (no un PDF de 2022); Lizet arma saludos WA. Ricardo confirma hechos de ops, no aprueba precios.
 
 ## Cómo nos ven (honesto)
 
